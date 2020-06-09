@@ -3,14 +3,11 @@ layout: default
 ---
 
 <h3>FAQs</h3>
+<ul>
 {% for faq in site.faq %}
-  <h2>
-    <a href="{{ faq.url }}">
-      {{ faq.title }}
-    </a>
-  </h2>
+  <li><a href="{{ site.baseurl }}{{ faq.url }}"><strong>{{ faq.title }}</strong></a></li>
 {% endfor %}
-
+</ul>
 <br><br>
 <hr>
 <br><br>
