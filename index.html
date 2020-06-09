@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<h3>FAQs</h3>
 {% for staff_member in site.faq %}
   <h2>
     <a href="{{ faq.url }}">
@@ -9,6 +10,10 @@ layout: default
     </a>
   </h2>
 {% endfor %}
+
+<br><br>
+<hr>
+<br><br>
 
 <div class="posts">
   {% for post in site.posts %}
