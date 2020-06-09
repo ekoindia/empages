@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Get Loan - FAQs
-# permalink: /get_loan
 ---
 
 1. **What is the difference between ‘Weekend Loan’ and ‘Avail a Loan’?**
