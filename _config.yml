@@ -89,4 +89,5 @@ exclude:
 collections:
   faq:
     output: true
+    permalink: /:collection/:name
 
