@@ -4,8 +4,13 @@
 <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/embeddedstyle.css" />
 </head>
-<body>
+<body onload="ld()">
 <div id="main" role="main" class="container">{{ content }}</div>
 {% include analytics.html %}
+<script>
+function ld() {
+window.parent.postMessage({loaded:true},'*');
+}
+</script>
 </body>
 </html>
