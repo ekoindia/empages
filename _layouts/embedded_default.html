@@ -9,7 +9,8 @@
 {% include analytics.html %}
 <script>
 function ld() {
-window.parent.postMessage({loaded:true},'*');
+console.log("Loaded...posting msg");
+window.parent.postMessage("{loaded:true}","*");
 }
 </script>
 </body>
