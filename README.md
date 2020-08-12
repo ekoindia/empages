@@ -1,3 +1,7 @@
+# Eko Docs
+
+This repository hosts independent documents and pages for Eko, such as, help files, FAQ sections, public policy documents, etc.
+
 ## Built with Jekyll Now
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
