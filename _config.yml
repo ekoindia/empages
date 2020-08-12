@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: 
+  github:
   instagram:
   linkedin:
   pinterest:
@@ -70,7 +70,7 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :compressed # You might prefer to minify using :compressed (or, use the default - :expanded) 
+  style: :compressed # You might prefer to minify using :compressed (or, use the default - :expanded)
 
 # Use the following plug-ins
 gems:
@@ -89,6 +89,12 @@ exclude:
 # Use Collections (https://jekyllrb.com/docs/collections/)
 collections:
   faq:
+    output: true
+    permalink: /:collection/:name
+  help:
+    output: true
+    permalink: /:collection/:name
+  policy:
     output: true
     permalink: /:collection/:name
 
