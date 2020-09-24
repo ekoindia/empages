@@ -12,7 +12,7 @@ title: Coronavirus Insurance FAQs
     
 1. **Who is the insurance provider?**
 
-    DIGIT Insurance Company (in association with EKO)
+    DIGIT Insurance Company (in association with Eko)
     
 1. **Who is eligible for Cover for COVID-19 Insurance?**
 
