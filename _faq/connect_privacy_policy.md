@@ -14,7 +14,10 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 ### Information Collection and Use
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to facebook-id, email, name, profile picture. The information that we request will be retained by us and used as described in this privacy policy.
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to facebook-id, email & profile picture. The information that we request may be retained by us and used as described in this privacy policy. We do not share these information with any third party.
+1. **Email:** we store and use your email-ID to identify you when you login again to the app. We do not share your email with any third party.
+2. **Facebook-ID:** we store it to identify your account when you login using Facebook _only when your email-id is not provided from your Facebook profile_.
+3. **Profile Picture**: we do not store or process your profile picture in any manner and only use it to show your picture in the app during a session when you login using your social identity.
 
 The app does use third party services that may collect information used to identify you.
 
@@ -38,7 +41,7 @@ We may employ third-party companies and individuals due to the following reasons
 * To facilitate our Service
 * To provide the Service on our behalf
 * To perform Service-related services
-* To assist us in analyzing how our Service is used.
+* To assist us in analyzing how our Service is used
 
 We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
