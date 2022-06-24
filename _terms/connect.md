@@ -2,7 +2,7 @@
 layout: policy
 title: Terms & Conditions
 ---
-Eko Connect is licensed to You (End-User) by Eko India Financial Services Private Limited, located at Plot 34, Sector 44 Rd, Institutional Area, Sector 44, Gurugram, Haryana 122003, India ("**Licensor**"), for use only under the terms of this License Agreement. We are registered in India and have our registered office at 547, Alaknanda Rd, Gangotri Enclave, Mandakini Enclave Colony,, Delhi, New Delhi 110019.
+Eko Connect is licensed to You (End-User) by Eko India Financial Services Private Limited, located at Plot 34, Sector 44 Rd, Institutional Area, Sector 44, Gurugram, Haryana 122003, India ("**Licensor**"), for use only under the terms of this License Agreement. We are registered in India and have our registered office at 547, Alaknanda Rd, Gangotri Enclave, Mandakini Enclave Colony, Delhi, New Delhi - 110019.
 
 By using the app (directly accessible on the web at "https://connect.eko.in" or by downloading the Licensed Application from Google's software distribution platform "Play Store"), and any update thereto (as permitted by this License Agreement), You indicate that You agree to be bound by all of the terms and conditions of this License Agreement, and that You accept this License Agreement. Play Store is referred to in this License Agreement as "**Services**."
 
@@ -201,8 +201,6 @@ We do not assert any ownership over your Contributions. You retain full ownershi
 Eko India Financial Services Private Limited and the End-User acknowledge that Eko India Financial Services Private Limited, and not the Services, is responsible for addressing any claims of the End-User or any third party relating to the Licensed Application or the End-User’s possession and/or use of that Licensed Application, including, but not limited to:
 
 (i) product liability claims;
-
-   
 
 (ii) any claim that the Licensed Application fails to conform to any applicable legal or regulatory requirement; and
 
