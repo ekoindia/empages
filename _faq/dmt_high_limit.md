@@ -32,7 +32,7 @@ You must complete the 3 steps  before you can use higher money transfer limit fo
 1. Merchant and distributor commission
 
    | Transaction amount | Merchant commission % | Distributor commission % | 
-   |:--:|:--:|:--:|
+   |----|----|----|
    | ₹ 1-24999 | 0.50% of transaction amount | 0.20% of transaction amount |  
    | ₹ 25000 and above | ₹ 125 | ₹ 90 |
 
