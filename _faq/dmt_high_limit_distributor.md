@@ -27,27 +27,21 @@ You must complete the 3 steps  before you can use higher money transfer limit fo
 - Minimum customer charge = ₹ 10  
 - Maximum customer charge = ₹ 250
 
-## 5. What are the charges for  merchants and distributors on this product?
+## 5. What are the charges for  distributors on this product?
 
-1. Merchant Commission
-   1. Transaction amount Rs 1-24999: 0.50% of transaction amount.  
-   1. Transaction amount Rs 25000 and above:  Rs 125
-1. Distributor Commission
-   1. Transaction amount Rs 1-24999: 0.20% of transaction amount.  
-   1. Transaction amount Rs 25000 and above:  Rs 90
-
-Commission will be same irrespective of the merchant plan.
+1. Transaction amount ₹ 1-24999: 0.20% of transaction amount.  
+1. Transaction amount ₹ 25000 and above:  ₹ 90
 
 ## 6. What do I need to ensure before getting this product?
 
-1. Merchants need to have a valid biometric device with its RD services and driver installed and paid for 
-1. Merchant’s mobile number registered with Eko must be active 
+1. Merchants need to have a valid biometric device with its RD services and driver installed and paid for.
+1. Merchant’s mobile number registered with Eko must be active.
 1. Merchant’s name with Eko, Aadhar and PAN must be the same.
-1. Merchant’s date of birth with Eko  and  on Aadhar and PAN must be the same 
-1. Merchant’s biometric must be unlocked on  Aadhar Portal
+1. Merchant’s date of birth with Eko  and  on Aadhar and PAN must be the same.
+1. Merchant’s biometric must be unlocked on  Aadhar Portal.
 1. Merchant’s, if they are already using yes bank high limit products on other portals,  must have the same PAN and mobile number with Eko , that is registered with Yes bank.
 
-## 7. How do I (Merchant) onboard myself  on this product (merchant creation)?
+## 7. How do I (Merchant) onboard myself on this product (merchant creation)?
 
 1. Click on `Send Cash High Limit`  on left-hand side menu.
    - **Step 1:** Your PAN number will be auto-populated. Enter your gender, date of birth and name.
