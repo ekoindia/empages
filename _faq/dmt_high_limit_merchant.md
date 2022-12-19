@@ -29,14 +29,10 @@ You must complete the 3 steps  before you can use higher money transfer limit fo
 
 ## 5. What are the charges for  merchants and distributors on this product?
 
-1. Merchant Commission
-   1.  Transaction amount Rs 1-24999: 0.50% of transaction amount   
-   1. Transaction amount Rs 25000 and above:  Rs 125  
-1. Distributor Commission
-   1.  Transaction amount Rs 1-24999: 0.20% of transaction amount   
-   1. Transaction amount Rs 25000 and above:  Rs 90
+1. Transaction amount ₹ 1-24999: 0.50% of transaction amount   
+1. Transaction amount ₹ 25000 and above:  ₹ 125
 
-Charges will be same irrespective of the merchant plan 
+Charges will be same irrespective of the merchant plan.
 
 ## 6. What do I need to ensure before getting this product?
 
