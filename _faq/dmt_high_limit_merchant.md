@@ -29,8 +29,8 @@ You must complete the 3 steps  before you can use higher money transfer limit fo
 
 ## 5. What are the charges for  merchants and distributors on this product?
 
-1. Transaction amount ₹ 1-24999: 0.50% of transaction amount   
-1. Transaction amount ₹ 25000 and above:  ₹ 125
+1. Transaction amount ₹ 100-25000: 0.50% of transaction amount   
+1. Transaction amount ₹ 25001 and above: ₹ 100
 
 Charges will be same irrespective of the merchant plan.
 
