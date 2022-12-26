@@ -24,8 +24,8 @@ You must complete the 3 steps  before you can use higher money transfer limit fo
 ## 4. What are the charges for customers for this product?
 
 - Customer charges are ₹ 1% of the transaction   
-- Minimum customer charge = ₹ 10  
-- Maximum customer charge = ₹ 250
+- Transaction amount ₹ 100-25000: 0.20% of transaction amount.  
+- Transaction amount ₹ 25001 and above:  0.20% of transaction amount.
 
 ## 5. What are the charges for  distributors on this product?
 
