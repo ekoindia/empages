@@ -45,7 +45,7 @@ Charges will be same irrespective of the merchant plan.
 
 ## 7. How do I (Merchant) onboard myself  on this product (merchant creation)?
 
-1. Click on `Send Cash High Limit`  on left-hand side menu.
+1. Click on `DMT High Limit`  on left-hand side menu.
    - **Step 1:** Your PAN number will be auto-populated. Enter your gender, date of birth and name.
    - **Step 2:** Verify your mobile number registered with Eko via OTP.
    - **Step 3:** Enter your Aadhar  number, select biometric device type, serial number. Do biometric authentication with the finger.
