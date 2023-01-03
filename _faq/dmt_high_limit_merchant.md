@@ -97,3 +97,15 @@ If the transaction is failed or pending refund
 - Raise a ticket on Connect mentioning the same.
 - ₹ 300 to be collected from the end-customer for an indemnity letter. 
 - ₹ 300 will be deducted from e-value of the merchant.
+
+## 13. For the RA/refund transaction,  I have to enter OTP received on the customer's mobile number on Connect. However, Customer dont have access to that mobile number.
+- Raise a ticket on Connect with TID and headline as “Customer lost mobile number on which refund OTP is to be received . 
+
+## 14. Money was credited to the wrong beneficiary account. What to now?
+- Raise a ticket on Connect with TID and  headline - “Wrong beneficiary account credited”. ₹ 300 to be collected from the end-customer for an indemnity letter.
+
+## 15. Transaction was successful but money is not credited to beneficiary account
+- Raise a ticket on Connect with TID and  headline - “Transaction is successful but money not credited”.
+
+## 16. Transaction is in RA for T+3 days, What to do now?
+- Raise a ticket  with TID and headline as “ Transaction in RA for more than 3 days”
