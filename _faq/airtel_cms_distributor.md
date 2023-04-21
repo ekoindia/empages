@@ -49,17 +49,13 @@ title: Airtel CMS FAQs
 
 ## 10. What are the commission for the product?
 
-
-
-
-
- 
-
-
-
-## Tables can be created like this:
-
-| Column 1 | Centered Column | Right Aligned | Column 4 |
-|----------|:---------------:|--------------:|----------|
-| 1        |       Abc       |       ₹100.00 | Cdf      |
-| 2        |       Xyz       |      ₹1500.50 | Ghi      |
+| Biller Name | Merchant Commission | Distributor Commission |
+|----------|:---------------:|:---------------:|
+| AADHAR_AGENT | 0.124% | 0.029% |
+| AADHAR_CUSTOMER | 0.138% | 0.032% |
+| ADANI CAPITAL PRIVATE LIMITED AGENT | 0.124% | 0.029% |
+| ADITYA BIRLA FINANCE LIMITED_CUSTOMER | 0.179% | 0.041% |
+| ADYA DAIRY_AGENT | 0.165% | 0.038% | 
+| AKASA FINANCE LIMITED_AGENT | 0.220% | 0.051% |
+| AKASA FINANCE LIMITED_CUSTOMER | 0.220% | 0.051% |
+| AMU LEASING_CUSTOMER | 0.207% | 0.048% |
