@@ -221,8 +221,6 @@ Plot 34, Sector 44 Rd, Institutional Area, Sector 44,
 Gurugram, Haryana - 122003,
 India
 
-cs@eko.co.in
-
 
 ## 16. TERMINATION
 
