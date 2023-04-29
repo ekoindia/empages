@@ -64,6 +64,3 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at <a href="https://eko.in" target="_blank">https://eko.in</a>
 
-### Delete Account & Personal Data
-
-To delete your account and personal data, please write to us at <a href="mailto:cs@eko.co.in" target="_blank">cs@eko.co.in</a>
