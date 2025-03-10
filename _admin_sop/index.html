@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<h3>Admin SOP & Help Documents</h3>
+<ul>
+{% for sop in site.admin_sop %}
+  {% if sop.title != "Index" %}
+    <li><a href="{{ site.baseurl }}{{ sop.url }}"><strong>{{ sop.title }}</strong></a></li>
+  {% endif %}
+{% endfor %}
+</ul>

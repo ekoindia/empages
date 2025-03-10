@@ -2,8 +2,22 @@
 layout: default
 ---
 
-<!--
-<h3>FAQs</h3>
+
+<!-- Loop over all site collections -->
+<h2>Collections</h2>
+{% for collection in site.collections %}
+  <li><a href="{{ site.baseurl }}/{{ collection.label }}"><strong>{{ collection.label }}</strong></a></li>
+{% endfor %}
+
+
+<!-- <h2>Documentation Sections</h2>
+{% assign sections = "help,admin_sop,faq,policy,terms" | split: "," %}
+{% for section in sections %}
+  <li><a href="{{ site.baseurl }}/{{ section }}"><strong>{{ section }}</strong></a></li>
+{% endfor %} -->
+
+
+<!-- <h3>FAQs</h3>
 <ul>
 {% for faq in site.faq %}
   <li><a href="{{ site.baseurl }}{{ faq.url }}"><strong>{{ faq.title }}</strong></a></li>
@@ -11,10 +25,10 @@ layout: default
 </ul>
 <br><br>
 <hr>
-<br><br>
--->
+<br><br> -->
 
-<div class="posts">
+
+<!-- <div class="posts">
   {% for post in site.posts %}
     <article class="post">
 
@@ -27,4 +41,4 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
-</div>
+</div> -->
