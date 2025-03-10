@@ -7,8 +7,8 @@
 // IMPORTS
 //
 
-@import "reset";
-@import "variables";
+@use "reset";
+@use "variables" as vars;
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -20,9 +20,9 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+	background: vars.$white;
+  font: 18px/1.4 vars.$helvetica;
+  color: vars.$darkGray;
 }
 
 .container {
@@ -33,15 +33,15 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
+  font-family: vars.$helveticaNeue;
+  color: vars.$darkerGray;
   font-weight: bold;
 
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
 
-  @include mobile {
+  @include vars.mobile {
     line-height: 1.4;
   }
 }
@@ -63,7 +63,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: vars.$gray;
 }
 
 p {
@@ -71,11 +71,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: vars.$blue;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: vars.$blue;
   }
 }
 
@@ -119,17 +119,17 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: vars.$gray;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
-  background: $lightGray;
+  color: vars.$black;
+  background: vars.$lightGray;
 }
 ::selection {
-  color: $black;
-  background: $lightGray;
+  color: vars.$black;
+  background: vars.$lightGray;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -142,6 +142,26 @@ img {
 
 .clearfix:after {
     clear: both;
+}
+
+th {
+  background: #58595b;
+  color: #e4e4e4;
+  border: 1px solid #adadad;
+  font-size: 0.9em;
+  font-weight: 500;
+  padding: 0.5em;
+  vertical-align: middle;
+}
+
+td {
+  padding: 0.4em;
+  vertical-align: middle;
+  border: 1px solid #adadad;
+}
+
+tr:nth-child(even) td {
+  background: #fffcf6;
 }
 
 
