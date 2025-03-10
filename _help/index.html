@@ -1,10 +1,12 @@
 ---
-layout: default
+layout: listing
 ---
 
 <h3>Help Pages</h3>
 <ul>
 {% for page in site.help %}
-  <li><a href="{{ site.baseurl }}{{ page.url }}"><strong>{{ page.title }}</strong></a></li>
+  {% if page.title != "Index" %}
+    <li><a href="{{ site.baseurl }}{{ page.url }}"><strong>{{ page.title }}</strong></a></li>
+  {% endif %}
 {% endfor %}
 </ul>
