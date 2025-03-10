@@ -1,4 +1,4 @@
-# Eko Docs
+# Eko Docs & Help Files
 
 This repository hosts independent documents and pages for Eko, such as, help files, FAQ sections, public policy documents, etc.
 
@@ -7,10 +7,6 @@ This repository hosts independent documents and pages for Eko, such as, help fil
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
 
 **Jekyll Now** makes it easier to create your Jekyll blog, by eliminating a lot of the up front setup ([Jekyll Now Repository](https://github.com/barryclark/jekyll-now)).
-
-- You don't need to touch the command line
-- You don't need to install/configure ruby, rvm/rbenv, ruby gems :relaxed:
-- You don't need to install runtime dependencies like markdown processors, Pygments, etc
 
 ## Quick Start
 
@@ -38,9 +34,12 @@ Edit `/_posts/2014-3-3-Hello-World.md` to publish the first blog post. This [Mar
 
 ## Local Development
 
-1. Install Jekyll and plug-ins in one fell swoop. `gem install github-pages` This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
-2. Clone down your fork `git clone https://github.com/yourusername/yourusername.github.io.git`
+1. Install Ruby
+   1. On Linux: `sudo apt-get install ruby-full`
+   2. On Windows: Download RubyInstaller from [rubyinstaller.org](https://rubyinstaller.org/)
+   3. On MacOS: `brew install ruby` (requires [Homebrew](https://brew.sh/)) and then add `export PATH="/usr/local/opt/ruby/bin:$PATH"` to your `.bash_profile` or `.zshrc` file.
+2. Install Jekyll and plug-ins in one fell swoop. `gem install github-pages` This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
 3. Serve the site and watch for markup/sass changes `jekyll serve`
 4. View your website at http://127.0.0.1:4000/
-5. Commit any changes and push everything to the master branch of this GitHub user repository. GitHub Pages will then rebuild and serve your website.
+5. Commit any changes and push everything to the develop branch of this GitHub user repository. After the changes are accepted and merged into master, GitHub Pages will then rebuild and serve your website.
 
