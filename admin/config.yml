@@ -1,0 +1,20 @@
+backend:
+  name: github # git-gateway
+  repo: ekoindia/empages # Path to your Github repository
+  branch: master # Branch to update (optional; defaults to master)
+media_folder: images
+public_folder: /images
+collections:
+  - name: help
+    label: Agent Help Docs
+    folder: _help/
+    media_folder: /images/help
+    public_folder: /images/help
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'help' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
