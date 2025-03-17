@@ -9,7 +9,7 @@ collections:
     label: Agent Help Docs
     folder: _help/
     media_folder: /images/help
-    public_folder: /images/help
+    public_folder: /empages/images/help
     create: true
     slug: '{{slug}}'
     editor:
