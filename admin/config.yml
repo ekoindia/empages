@@ -19,7 +19,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: admin_sop
-    label: Agent Help Docs
+    label: Admin SOPs
     folder: _admin_sop/
     media_folder: /images/_admin_sop
     public_folder: /images/_admin_sop

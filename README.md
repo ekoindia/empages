@@ -39,7 +39,7 @@ Edit `/_posts/2014-3-3-Hello-World.md` to publish the first blog post. This [Mar
    2. On Windows: Download RubyInstaller from [rubyinstaller.org](https://rubyinstaller.org/)
    3. On MacOS: `brew install ruby` (requires [Homebrew](https://brew.sh/)) and then add `export PATH="/usr/local/opt/ruby/bin:$PATH"` to your `.bash_profile` or `.zshrc` file.
 2. Install Jekyll and plug-ins in one fell swoop. `gem install github-pages` This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
-3. Serve the site and watch for markup/sass changes `jekyll serve`
-4. View your website at http://127.0.0.1:4000/
+3. Start the application locally with the following command: `jekyll serve`
+4. View your website at: http://127.0.0.1:4000/empages
 5. Commit any changes and push everything to the develop branch of this GitHub user repository. After the changes are accepted and merged into master, GitHub Pages will then rebuild and serve your website.
 
