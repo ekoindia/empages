@@ -17,11 +17,11 @@ If you try to access this page before your details have been updated, you will s
 - After submission, you will receive **two emails at the same time**:
     1. An email from **IRCTC** containing your **User ID, Password, and an Activation Link.**
 
-        ![WhatsApp Image 2025-03-04 at 10.38.43.jpeg](attachment:46441af9-b697-447a-ac01-dffbc9dba677:WhatsApp_Image_2025-03-04_at_10.38.43.jpeg)
+        ![Mail from IRCTC](/home/ameya-bhargava/github_eko/ekohelp/empages/_help/train_registering_images/2.jpeg)
 
     2. An email from **MOS** with a link to complete your Aadhaar KYC on the *Agent Interface*.
 
-        ![irctc-kyc.png](attachment:b9439690-8e79-402b-863a-95313cb12cab:irctc-kyc.png)
+        ![Mail from MOS](/home/ameya-bhargava/github_eko/ekohelp/empages/_help/train_registering_images/3.png)
 
 
 ---
@@ -32,7 +32,7 @@ If you try to access this page before your details have been updated, you will s
 - **Enter Activation Code:** An **activation window** will open where you must enter the **activation code (OTP)** that has been sent to your registered mobile number.
 - **Verify:** Once you enter the code and verify it, your account is activated and ready for login.
 
-![image.png](attachment:ccbbb3d3-6696-4b30-a885-bcf3d55863db:image.png)
+![Activate Account using IRCTC Mail](/home/ameya-bhargava/github_eko/ekohelp/empages/_help/train_registering_images/4.png)
 
 ---
 
@@ -46,7 +46,7 @@ If you try to access this page before your details have been updated, you will s
 - **Accept Rules:** Check the box to accept the IRCTC Rules and Regulations.
 - **Login:** Click **"Login"** to proceed.
 
-![image.png](attachment:74ad7c4a-0d27-4a69-b0c5-96a74a76069a:image.png)
+![Complete KYC using MOS Email](/home/ameya-bhargava/github_eko/ekohelp/empages/_help/train_registering_images/5.png)
 
 ---
 
@@ -60,7 +60,7 @@ If you try to access this page before your details have been updated, you will s
     - **Last Name** (as per Aadhaar)
 - **OTP Generation and Entry:** Click **"Generate OTP"** to receive a one-time password on your Aadhaar-linked mobile number. Then, enter the received OTP to complete the verification process.
 
-![image.png](attachment:3c085430-46fd-4f50-b9fb-2b1906d74edd:image.png)
+![Enter Details For Aadhaar Verification](/home/ameya-bhargava/github_eko/ekohelp/empages/_help/train_registering_images/6.png)
 
 ---
 
