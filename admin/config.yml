@@ -18,3 +18,16 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'help' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: admin_sop
+    label: Agent Help Docs
+    folder: _admin_sop/
+    media_folder: /images/_admin_sop
+    public_folder: /images/_admin_sop
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'help' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
