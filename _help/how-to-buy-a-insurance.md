@@ -1,34 +1,41 @@
 ---
 layout: help
-title: how to buy an insurance ?
+title: How To Buy Various Insurance?
 ---
-# How To Buy Various Insurance?
 
-### **How to Buy a health Insurance?**
+## How to Buy a health Insurance?
 
 1. **Initiate Insurance Purchase**
 
     - Click on **"Buy Insurance"**.
-    - A new page opens.![health Insurance page 1](/empages/images/help/insurance-dekho/insuarance_2.png)
+    - A new page opens.
+    ![health Insurance page 1](/empages/images/help/insurance-dekho/insuarance_2.png)
 
 2. **Select Insurance Options**
-3. You are redirected to the InsuranceDekho homepage displaying various insurance options.Choose **Health Insurance** from the available options.![health Insurance page2](/empages/images/help/insurance-dekho/insuarance_3.png)
+3. You are redirected to the InsuranceDekho homepage displaying various insurance options. Choose **Health Insurance** from the available options.
+![health Insurance page2](/empages/images/help/insurance-dekho/insuarance_3.png)
 4. **Plan Selection & Quote Request**
-5. Select your desired **Plan Type**.Fill in all required details related to the plan.Click on **"Get Quotes"**.![Car Insurance page3](/empages/images/help/insurance-dekho/insuarance_4.png)
+5. Select your desired **Plan Type**. Fill in all required details related to the plan. Click on **"Get Quotes"**.
+![Car Insurance page3](/empages/images/help/insurance-dekho/insuarance_4.png)
 6. **Family Member Age Details**
-7. After clicking **"Get Quotes"**, you are redirected to a page asking for the ages of the family members you selected.Select the age for each member.Click on **"Continue"**.![health Insurance page4](/empages/images/help/insurance-dekho/insuarance_5.png)
+7. After clicking **"Get Quotes"**, you are redirected to a page asking for the ages of the family members you selected. Select the age for each member. Click on **"Continue"**.
+![health Insurance page4](/empages/images/help/insurance-dekho/insuarance_5.png)
 8. **Review Available Plans & Nationality Confirmation**
-9. Upon clicking **"Continue"**, a list of applicable plans appears with filters at the top.Select any plan from the list.Confirm your nationality when prompted.![health Insurance page5](/empages/images/help/insurance-dekho/insuarance_6.png)![Car Insurance page6](/empages/images/help/insurance-dekho/insuarance_7.png)
+9. Upon clicking **"Continue"**, a list of applicable plans appears with filters at the top. Select any plan from the list. Confirm your nationality when prompted.
+![health Insurance page5](/empages/images/help/insurance-dekho/insuarance_6.png)
+![Car Insurance page6](/empages/images/help/insurance-dekho/insuarance_7.png)
 10. **Fill Additional Details & Proceed**
 
     - After confirming your plan and nationality, you are redirected to a page asking for further details.
     - Fill in all the required information.
-    - Click on **"Proceed to Buy"**.![health Insurance page 7](/empages/images/help/insurance-dekho/insuarance_8.png)
+    - Click on **"Proceed to Buy"**.
+    ![health Insurance page 7](/empages/images/help/insurance-dekho/insuarance_8.png)
 
-11. **7.  Answer Close-Ended Questions**You are presented with a series of close-ended (Yes/No) questions covering health, lifestyle, and insurance history.**Examples include:**“Has any insured member been diagnosed with a serious disease or hospitalized for more than 5 days?”“Have any adverse findings been observed in diagnostic tests (e.g., Thyroid Profile, Treadmill test)?”“Does any insured member have conditions like diabetes or high blood sugar?”“Does any insured member smoke, use tobacco, or consume alcohol?”“Has any previous insurance proposal been declined or modified?”Answer each question as applicable.![health Insurance page 8](/empages/images/help/insurance-dekho/insuarance_9.png)
-12. **8. PAN Card Verification & Nominee Details**Enter your **PAN card details** for verification by inputting your PAN number and Date of Birth.Additionally, fill in the **Nominee Details**, including:**Name****Relationship to the Proposer****Date of Birth****Address**
-![health Insurance page 9](/empages/images/help/insurance-dekho/insuarance_10.png)Click on **"Verify"**.A new window opens once the verification is successful.
-13. **9. Final Summary & Payment** A summary page displays all your insurance details.Click on **"Pay Securely"**.Follow the instructions to complete your payment.
+11. **Answer Close-Ended Questions** You are presented with a series of close-ended (Yes/No) questions covering health, lifestyle, and insurance history. **Examples include:**“Has any insured member been diagnosed with a serious disease or hospitalized for more than 5 days?”“Have any adverse findings been observed in diagnostic tests (e.g., Thyroid Profile, Treadmill test)?”“Does any insured member have conditions like diabetes or high blood sugar?”“Does any insured member smoke, use tobacco, or consume alcohol?”“Has any previous insurance proposal been declined or modified?”Answer each question as applicable.![health Insurance page 8](/empages/images/help/insurance-dekho/insuarance_9.png)
+12. **PAN Card Verification & Nominee Details** Enter your **PAN card details** for verification by inputting your PAN number and Date of Birth. Additionally, fill in the **Nominee Details**, including:**Name****Relationship to the Proposer****Date of Birth****Address**
+![health Insurance page 9](/empages/images/help/insurance-dekho/insuarance_10.png)
+Click on **"Verify"**. A new window opens once the verification is successful.
+13. **Final Summary & Payment** A summary page displays all your insurance details. Click on **"Pay Securely"**. Follow the instructions to complete your payment.
 ![health Insurance page 10](/empages/images/help/insurance-dekho/insuarance_12.png)
 
 ## How to Buy Car Insurance
@@ -48,7 +55,7 @@ title: how to buy an insurance ?
      - **Previous Policy Type**  
      - **No Claim Bonus (NCB)** status  
    - Fill in all the required fields.  
-   - Click on **“Continue.”**  
+   - Click on **“Continue”.**  
    ![Car Insurance page 2](/empages/images/help/insurance-dekho/car_insurance_2.png)
 
 3. **View Available Plans**  
@@ -98,9 +105,8 @@ title: how to buy an insurance ?
    - Click on **“Continue to Review and Pay.”**  
    - Complete the payment using your preferred method to finalize the policy.
 
-   
-   
-   ## How to Buy Public Carrying Vehicle (PCV) / Misc. Insurance
+
+## How to Buy Public Carrying Vehicle (PCV) / Misc. Insurance
 
 1. **Select PCV / Misc.**  
    - From the insurance categories, choose **“PCV/Misc.”**  
