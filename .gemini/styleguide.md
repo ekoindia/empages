@@ -13,13 +13,12 @@ This style guide outlines the coding conventions for writing markdown files for 
   - Employ H2 and H3 headings for sections and subsections respectively.
   - Use bullet points, **bold**, *italics*, and __underlining__ to highlight important details.
 - **Headings Condition:**
-  - **No bold in headings.** Headings should remain plain text without any bold formatting.
+  - **No bold in H1, H2, and H3 headings.** The H1, H2 & H3 headings should remain plain text without any bold formatting.
 
 ## Markdown Formatting Guidelines
 ### Headings
 - Use H2 (`##`) for main sections.
 - Use H3 (`###`) for subsections.
-- **Important:** Do not apply bold formatting in any heading.
 - The title of the document should only be added in the `title` field of the front matter.
 - The title of the document should not be repeated in the body of the document.
 - The title of the document must be written in sentence case.
@@ -62,7 +61,7 @@ Follow the naming convention: `post-title.md`.
 
 ### Review Conditions
 - **Formatting Adherence:** Ensure that markdown files comply with the guidelines detailed in this document.
-- **No Bold in Headings:** Double-check that headings are free of bold formatting.
+- **No Bold in Headings:** Ensure that the top-level headings (H1, H2 and H3) are free of bold formatting.
 - **Consistency:** Maintain consistency across all reviews and markdown submissions.
 - **Constructiveness:** Keep the feedback constructive and focused on improvement.
 - **Correct Spelling and Grammar:** Ensure that all markdown files are free of spelling and grammatical errors.
