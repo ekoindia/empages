@@ -8,8 +8,8 @@ collections:
   - name: help
     label: Agent Help Docs
     folder: _help/
-    media_folder: /images/help
-    public_folder: /images/help
+    media_folder: '/images/help/{{slug}}'
+    public_folder: '../images/help/{{slug}}'
     create: true
     slug: '{{slug}}'
     editor:
@@ -21,8 +21,8 @@ collections:
   - name: admin_sop
     label: Admin SOPs
     folder: _admin_sop/
-    media_folder: /images/_admin_sop
-    public_folder: /images/_admin_sop
+    media_folder: '/images/admin_sop/{{slug}}'
+    public_folder: '../images/admin_sop/{{slug}}'
     create: true
     slug: '{{slug}}'
     editor:
