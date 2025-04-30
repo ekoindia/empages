@@ -1,8 +1,8 @@
 ---
 layout: help
-title: Loan Application & Disbursement Guide
+title: Fundfina Loan Application & Disbursement Guide
 ---
-## Step 1: Start Your Loan Application
+## Step 1: Start Your **Fundfina** Loan Application
 
 - Begin by selecting the type of loan you want to apply for.
 - Proceed with the application by providing your necessary details.
@@ -12,27 +12,40 @@ title: Loan Application & Disbursement Guide
 - To move forward in the loan application process, you will need to provide the following information:
 
 1. **Personal Details**
+
     - Enter your full name, date of birth, and mobile number.
     - Make sure these details match your official documents.
+
 2. **Financial Information**
+
     - Provide your income details, employment type, and bank account information.
     - Input your **bank name** and **account number** carefully.
+
 3. **Mobile Verification**
+
     - After adding your banking details, you’ll be asked to verify the **mobile number linked with your bank account**.
     - This step is mandatory for authentication and ensuring secure access.
+
 4. **Netbanking Login**
+
     - On the next screen, log in using your **netbanking credentials**.
     - This is a secure process and used to verify your banking activity and eligibility.
+
 5. **Upload Bank Statements**
+
     - After logging in, a screen will appear with a **dropdown menu** asking you to **select dates**.
     - These dates specify the **time period** for which you will be uploading your **bank statement PDF**.
     - Choose the appropriate range based on your recent financial activity.
+
 6. **KYC Verifications**
+
     - Now, you’ll proceed to complete **two types of KYC**:
         - **Promoter KYC** – for the business owner (you).
         - **Business KYC** – for the business entity.
     - Ensure you upload clear and valid documents for both.
+
 7. **Completion & Acknowledgement**
+
     - Once the KYC is done, the process for this step is complete.
     - A **"Thank You" page** will appear, confirming the successful submission of your details.
 ![](../images/help/loan-application-disbursement-guide/Loan1.png "loan 1")
@@ -49,7 +62,7 @@ title: Loan Application & Disbursement Guide
 
 ![](../images/help/loan-application-disbursement-guide/loan%207.png)
 
-## Step 3: Review & Accept Your Loan Offer
+## Step 3: Review & Accept Your Fundfina Loan Offer
 
 - After an internal review, your loan offer is generated and displayed.
 - You will see details such as:
@@ -63,7 +76,7 @@ title: Loan Application & Disbursement Guide
 - Carefully review your offer and accept it if you agree with the terms.
 ![](../images/help/loan-application-disbursement-guide/loan%208.png)
 
-## Step 4: Sign Your Loan Agreement
+## Step 4: Sign Your Fundfina Loan Agreement
 
 - After accepting your offer, you need to sign your loan agreement digitally.
 - You can eSign via Aadhaar if your Aadhaar is linked to your mobile number.
@@ -107,11 +120,11 @@ title: Loan Application & Disbursement Guide
   • Provide a copy of your signed ACH and a cheque to register a physical NACH.
 ![](../images/help/loan-application-disbursement-guide/loan%2011.png)
 
-## Step 7: Loan Offer Screen
+## Step 7: Fundfina Loan Offer Screen
 
 - You are shown a screen summary of your loan offer.
 ![](../images/help/loan-application-disbursement-guide/loan%2012.png)
 
-## Step 8: Loan Disbursement
+## Step 8: Fundfina Loan Disbursement
 
 - Your application is processed internally by Indifi, and your loan is disbursed.
