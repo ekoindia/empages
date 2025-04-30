@@ -48,19 +48,19 @@ title: Fundfina Loan Application & Disbursement Guide
 
     - Once the KYC is done, the process for this step is complete.
     - A **"Thank You" page** will appear, confirming the successful submission of your details.
-![](../images/help/loan-application-disbursement-guide/Loan1.png "loan 1")
+![](../images/help/fundfina-loan/Loan1.png "loan 1")
 
-[](../images/help/loan-application-disbursement-guide/loan2.png)
+[](../images/help/fundfina-loan/loan2.png)
 
-![](../images/help/loan-application-disbursement-guide/loan%203.jpg)
+![](../images/help/fundfina-loan/loan%203.jpg)
 
-![](../images/help/loan-application-disbursement-guide/loan%204.jpg)
+![](../images/help/fundfina-loan/loan%204.jpg)
 
-![](../images/help/loan-application-disbursement-guide/loan5.png)
+![](../images/help/fundfina-loan/loan5.png)
 
-![](../images/help/loan-application-disbursement-guide/loan%206.png)
+![](../images/help/fundfina-loan/loan%206.png)
 
-![](../images/help/loan-application-disbursement-guide/loan%207.png)
+![](../images/help/fundfina-loan/loan%207.png)
 
 ## Step 3: Review & Accept Your Fundfina Loan Offer
 
@@ -74,14 +74,14 @@ title: Fundfina Loan Application & Disbursement Guide
   • Deductions like processing fees, insurance premium, and documentation charges
   • The total interest payable and the final amount to be repaid
 - Carefully review your offer and accept it if you agree with the terms.
-![](../images/help/loan-application-disbursement-guide/loan%208.png)
+![](../images/help/fundfina-loan/loan%208.png)
 
 ## Step 4: Sign Your Fundfina Loan Agreement
 
 - After accepting your offer, you need to sign your loan agreement digitally.
 - You can eSign via Aadhaar if your Aadhaar is linked to your mobile number.
 - If your Aadhaar is not linked to your mobile, you can complete the signing using a selfie and OTP verification.
-![](../images/help/loan-application-disbursement-guide/loan%208.png)
+![](../images/help/fundfina-loan/loan%208.png)
 
 ## Step 5: Complete the E-Sign Process
 
@@ -98,7 +98,7 @@ title: Fundfina Loan Application & Disbursement Guide
   • Click Send OTP, and an OTP will be sent to your Aadhaar-linked mobile.
   • Enter the OTP to complete your signing process.
 - Your loan agreement will be successfully signed and submitted.
-![](../images/help/loan-application-disbursement-guide/loan%209.png)
+![](../images/help/fundfina-loan/loan%209.png)
 
 ### Step 5a: Additional E-Sign Screens Navigation
 
@@ -110,7 +110,7 @@ title: Fundfina Loan Application & Disbursement Guide
 - **Success Message:**
   • A “Signed Successfully” message confirms that your agreement has been signed.
   • Do not close the window—you will be redirected automatically.
-![](../images/help/loan-application-disbursement-guide/loan%2010.png)
+![](../images/help/fundfina-loan/loan%2010.png)
 
 ## Step 6: Set Up Your Repayment Method
 
@@ -118,12 +118,12 @@ title: Fundfina Loan Application & Disbursement Guide
 - You can choose either:
   • eNACH (supported modes for eNACH include netbanking or debit card), or
   • Provide a copy of your signed ACH and a cheque to register a physical NACH.
-![](../images/help/loan-application-disbursement-guide/loan%2011.png)
+![](../images/help/fundfina-loan/loan%2011.png)
 
 ## Step 7: Fundfina Loan Offer Screen
 
 - You are shown a screen summary of your loan offer.
-![](../images/help/loan-application-disbursement-guide/loan%2012.png)
+![](../images/help/fundfina-loan/loan%2012.png)
 
 ## Step 8: Fundfina Loan Disbursement
 
