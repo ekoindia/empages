@@ -49,6 +49,7 @@ Choose Net Banking
 - Click Send Code → Enter the 6-digit code received.
 - Resend code available after 45 seconds.
 
+
 **Select Linked Account**
 
 - All accounts linked to your mobile number are listed (e.g., HDFC Savings ••••5678).
