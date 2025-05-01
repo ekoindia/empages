@@ -2,129 +2,233 @@
 layout: help
 title: Fundfina Loan Application & Disbursement Guide
 ---
-## Step 1: Start Your **Fundfina** Loan Application
+**Step 1: Provide Personal and Business Details**
+**Personal Information**
 
-- Begin by selecting the type of loan you want to apply for.
-- Proceed with the application by providing your necessary details.
+- Full Name: Enter your full name as it appears on your PAN card (e.g., Ajay Sharma).
+- PAN Number: 10-digit code (e.g., ABCDE1234F).
+- Date of Birth: DD/MM/YYYY format (must match PAN records).
+- Gender: Select Male or Female.
+- Residence Address: Full address with 6-digit postal code (e.g., Sector 62, Noida – 201301).
+![](images/help/fundfina-loan/Loan1.png)
 
-## Step 2: Enter Your Personal, Financial & Business Details
+**Business Information**
 
-- To move forward in the loan application process, you will need to provide the following information:
+- Loan Amount Needed: Enter the required amount (e.g., ₹5,00,000).
+- Annual Turnover: Select from:
+    - Below ₹10 lakhs
+    - ₹10–25 lakhs
+    - ₹25–50 lakhs
+    - Above ₹50 lakhs
+- Business Name: Legal registered name (e.g., Global Traders).
+- Business Type: Select Sole Proprietorship, Private Limited, or Others.
+- GST Registration: Select Yes (auto-fills GST details) or No.
+![](images/help/fundfina-loan/Loan1.png)
 
-1. **Personal Details**
+**Step 2: Verify Bank Account**
+**Account Type Selection**
 
-    - Enter your full name, date of birth, and mobile number.
-    - Make sure these details match your official documents.
+- Question: Do you have a Current or CC/OD account?
+    - Select Yes (recommended for lower interest rates) or No.
+- If Yes:
+    - Choose Bank: Select from dropdown (e.g., HDFC, SBI).
+    - Verification Method:
+        - Net Banking (instant)
+        - PDF Upload (manual)
+Choose Net Banking 
+![](images/help/fundfina-loan/loan2.png)
 
-2. **Financial Information**
+**Reconfirm Account Type**
 
-    - Provide your income details, employment type, and bank account information.
-    - Input your **bank name** and **account number** carefully.
+- Repeat selections to ensure accuracy.
+- Click Continue (proceeds only if both selections match).
 
-3. **Mobile Verification**
+**Mobile Verification**
 
-    - After adding your banking details, you’ll be asked to verify the **mobile number linked with your bank account**.
-    - This step is mandatory for authentication and ensuring secure access.
+- Enter your bank-registered mobile number.
+- Click Send Code → Enter the 6-digit code received.
+- Resend code available after 45 seconds.
 
-4. **Netbanking Login**
+**Select Linked Account**
 
-    - On the next screen, log in using your **netbanking credentials**.
-    - This is a secure process and used to verify your banking activity and eligibility.
+- All accounts linked to your mobile number are listed (e.g., HDFC Savings ••••5678).
+- Select one account for loan processing.
+![](images/help/fundfina-loan/loan%203.jpg)
 
-5. **Upload Bank Statements**
+**Approve Data Access**
 
-    - After logging in, a screen will appear with a **dropdown menu** asking you to **select dates**.
-    - These dates specify the **time period** for which you will be uploading your **bank statement PDF**.
-    - Choose the appropriate range based on your recent financial activity.
+- Allow Fundfina to:
+    - Access 6–12 months of bank statements.
+    - Monitor transactions monthly.
+for the account that you have chosen for loan
+- Click Approve → Enter verification code again.
+- Then a new screen will open which shows that the process of fetching your bank accounts and verify transaction details once that is done
+![](images/help/fundfina-loan/loan%204.jpg)
 
-6. **KYC Verifications**
 
-    - Now, you’ll proceed to complete **two types of KYC**:
-        - **Promoter KYC** – for the business owner (you).
-        - **Business KYC** – for the business entity.
-    - Ensure you upload clear and valid documents for both.
+**Net Banking Login**
 
-7. **Completion & Acknowledgement**
+- Enter Bank Login ID and Password (case-sensitive).
+- Click Submit.
+- On the next screen a congratulations message will be shown then click on proceed 
+![](images/help/fundfina-loan/loan5.png)
 
-    - Once the KYC is done, the process for this step is complete.
-    - A **"Thank You" page** will appear, confirming the successful submission of your details.
-![](../images/help/fundfina-loan/Loan1.png "loan 1")
+**Step 3: Submit KYC Documents**
+**Promoter Documents**
 
-[](../images/help/fundfina-loan/loan2.png)
+- Address Proof: Aadhaar, utility bill, or property tax receipt.
+- PAN Card Scan: Clear colored copy.
+- Photograph: Passport-sized (white background).
+- National ID: Passport, driver’s license, or voter ID.
 
-![](../images/help/fundfina-loan/loan%203.jpg)
+**Business Documents**
 
-![](../images/help/fundfina-loan/loan%204.jpg)
+- Business Address Proof: GST certificate or lease agreement.
+- Registration Document: Incorporation certificate or Udyam registration.
 
-![](../images/help/fundfina-loan/loan5.png)
+**Additional Details**
 
-![](../images/help/fundfina-loan/loan%206.png)
+- Father’s Name: As per official records.
+- Alternate Mobile Number: Verified via code.
+- Business Industry: Auto-filled if linked to anchor data (editable).
+- Industry Category: E.g., Retail, Manufacturing.
+![](images/help/fundfina-loan/loan%207.png)
 
-![](../images/help/fundfina-loan/loan%207.png)
+**Step 4: Review and Accept Fundfina Loan Offer**
+**Loan Terms**
 
-## Step 3: Review & Accept Your Fundfina Loan Offer
+- Amount After Deductions: Final disbursal amount.
+- Duration: E.g., 12 months.
+- Interest Rate: Monthly reducing basis (e.g., 1.5% p.m.).
+- EMI: Monthly installment (e.g., ₹19,203).
 
-- After an internal review, your loan offer is generated and displayed.
-- You will see details such as:
-  • Loan Duration (e.g., 12 months)
-  • Rate of Interest (ROI) (monthly reducing)
-  • Equated Monthly Installment (EMI)
-- In the Loan Breakdown section, you can check:
-  • Your total loan amount
-  • Deductions like processing fees, insurance premium, and documentation charges
-  • The total interest payable and the final amount to be repaid
-- Carefully review your offer and accept it if you agree with the terms.
-![](../images/help/fundfina-loan/loan%208.png)
+**Fundfina Loan Breakdown**
 
-## Step 4: Sign Your Fundfina Loan Agreement
+- Processing Fees
+- Insurance Premium
+- Total Interest Payable
+- Total Repayable Amount
 
-- After accepting your offer, you need to sign your loan agreement digitally.
-- You can eSign via Aadhaar if your Aadhaar is linked to your mobile number.
-- If your Aadhaar is not linked to your mobile, you can complete the signing using a selfie and OTP verification.
-![](../images/help/fundfina-loan/loan%208.png)
+Click **Accept Offer** to proceed.
 
-## Step 5: Complete the E-Sign Process
+![](images/help/fundfina-loan/loan%208.png)
 
-- **Receive Security Code:**
-  • A security code will be sent to your registered mobile number.
-  • Enter the code in the provided field and click Submit.
-  • If you don’t receive it, wait for the retry option.
-- **Review & Sign Your Loan Document:**
-  • Your loan agreement will be displayed for review.
-  • Read through the terms carefully.
-  • Click Sign Now to proceed with e-signing.
-- **Authenticate Using Aadhaar:**
-  • Enter your Aadhaar Number or Virtual ID in the NSDL eSign portal.
-  • Click Send OTP, and an OTP will be sent to your Aadhaar-linked mobile.
-  • Enter the OTP to complete your signing process.
-- Your loan agreement will be successfully signed and submitted.
-![](../images/help/fundfina-loan/loan%209.png)
+**Step 5: eSign Fundfina Loan Agreement**
+**eSign Screen**
 
-### Step 5a: Additional E-Sign Screens Navigation
+- Heading: eSign with Aadhaar.
+- Primary Option: Proceed with Aadhaar (active if mobile linked).
+- Alternate Option: Aadhaar not linked? Click here.
+![](images/help/fundfina-loan/loan%208.png)
 
-- When you choose to eSign via Aadhaar, you’ll be directed to the NSDL eSign portal via Digio.
-- **Enter Aadhaar/VID:**
-  • On the screen, enter your Aadhaar number or Virtual ID, tick the checkbox to authorize eSign, and click “Send OTP.”
-- **Enter OTP:**
-  • An OTP will be sent to your Aadhaar-linked mobile. Enter the OTP in the field and click “Verify OTP.”
-- **Success Message:**
-  • A “Signed Successfully” message confirms that your agreement has been signed.
-  • Do not close the window—you will be redirected automatically.
-![](../images/help/fundfina-loan/loan%2010.png)
+**Security Verification**
 
-## Step 6: Set Up Your Repayment Method
+- Enter the 6-digit code sent to your Aadhaar-linked mobile.
+- Click Submit.
 
-- In this step, you set up your repayment method for the loan.
-- You can choose either:
-  • eNACH (supported modes for eNACH include netbanking or debit card), or
-  • Provide a copy of your signed ACH and a cheque to register a physical NACH.
-![](../images/help/fundfina-loan/loan%2011.png)
+**Business Loan Application Form**
 
-## Step 7: Fundfina Loan Offer Screen
+- Monthly Income: Enter approximate business earnings.
+- Years in Operation: Years since registration.
+and many more options fill the form accordingly 
+- Click Sign Now.
 
-- You are shown a screen summary of your loan offer.
-![](../images/help/fundfina-loan/loan%2012.png)
+**Aadhaar Verification**
 
-## Step 8: Fundfina Loan Disbursement
+- Check: I authorize NSDL to verify my Aadhaar.
+- Enter 12-digit Aadhaar → Click Send OTP
+![](images/help/fundfina-loan/loan%209.png).
+- Enter the received code → Submit.
 
-- Your application is processed internally by Indifi, and your loan is disbursed.
+**Confirmation**
+
+- Message: Document Signed Successfully
+- Next: Automatic redirection to the next step.
+![](images/help/fundfina-loan/loan%2010.png)
+
+**Step 6: Set Up Paperless Fundfina eMandate**
+**1. Select Payment Method**
+
+Screen Title: Set Up EMI Payments
+Options:
+
+- Paperless eMandate (Recommended)
+    - Automatically deduct EMIs from your bank account.
+    - Action: Click “Set Up eMandate”.
+- Sign ACH & Cheque
+    - Manual process requiring physical document submission.
+
+
+**2. Review Mandate Summary**
+
+A summary screen will display:
+
+- Name: Your registered name.
+- Bank: Selected bank for auto-debit.
+- Account Number: Masked for security (e.g., ••••5678).
+- Maximum Amount: Approved EMI amount.
+- Start Date: First EMI deduction date.
+- End Date: Final deduction date (based on loan tenure).
+- Frequency: Monthly.
+- Purpose: "Loan EMI Repayment".
+- Creditor Name: Lender’s banking partner.
+- Creditor Code: Unique identifier.
+- Reference ID: Your loan application ID.
+
+Action:
+Verify details → Click “Proceed”.
+
+
+**3. Approve eMandate via Net Banking**
+
+Redirected to your bank’s secure portal.
+Steps:
+
+- Enter username and password.
+- Review and approve the mandate request.
+
+Note:
+No funds are deducted during approval.
+
+**4. Confirmation**
+
+Success Message:
+"eMandate activated successfully! EMIs will auto-debit monthly."
+![](images/help/fundfina-loan/loan%2011.png)
+
+**Step 7: Fundfina Disbursement Authorization & Final Confirmation**
+**1. Disbursement Memo Screen**
+
+Title: Review Disbursement Details
+
+Details Displayed:
+
+- Disbursal Amount: Final amount credited to your account.
+- Installment Dates:
+    - Start Date: First EMI deduction date.
+    - End Date: Final EMI deduction date.
+
+
+
+**Fundfina Loan Breakdown**
+
+- Loan amount (principal)
+- Processing fees
+- Insurance charges
+- Total interest payable
+- Total Repayable: Principal + Interest + Charges
+
+In Favor Of: Name of the financial institution.
+
+Action:
+Review all details.
+Click “I Accept” at the bottom.
+
+**2. Final Confirmation Screen**
+
+Title: Application Successfully Submitted
+
+Message:
+Thank you for submitting your application!
+No further action is required from your side.
+![](images/help/fundfina-loan/loan%2012.png)
