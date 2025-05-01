@@ -49,7 +49,6 @@ Choose Net Banking
 - Click Send Code → Enter the 6-digit code received.
 - Resend code available after 45 seconds.
 
-
 **Select Linked Account**
 
 - All accounts linked to your mobile number are listed (e.g., HDFC Savings ••••5678).
@@ -72,6 +71,31 @@ for the account that you have chosen for loan
 - Click Submit.
 - On the next screen a congratulations message will be shown then click on proceed 
 ![](images/help/fundfina-loan/loan5.png)
+
+**PDF Upload Method**
+
+    A new screen will appear if you select **PDF Upload** instead of Net Banking.
+
+    • **Select Statement Period**
+        Choose the **Start Date** and **End Date** of the bank statements you want to upload.
+        (E.g., Start: 01/01/2024, End: 30/06/2024)
+
+    • **Choose Bank**
+        Select your bank from the dropdown (e.g., Axis Bank, ICICI).
+
+    • **Select Account Type**
+        Choose **Current**, **CC/OD**, or **Savings**.
+
+    • **Upload Statement PDF**
+        Click **Upload PDF** → Select the correct file from your device.
+        Make sure:
+            – The file is clear and unedited.
+            – Includes 6–12 months of transactions.
+            – File size is within the allowed limit.
+
+    • **Submit File**
+        Click **Submit** to upload the PDF and proceed to the next step.
+![](images/help/fundfina-loan/loan%206.png)
 
 **Step 3: Submit KYC Documents**
 **Promoter Documents**
