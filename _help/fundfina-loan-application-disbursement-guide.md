@@ -12,7 +12,7 @@ title: Fundfina Loan Application & Disbursement Guide
 - Residence Address: Full address with 6-digit postal code (e.g., Sector 62, Noida – 201301).
 ![](/images/help/fundfina-loan/Loan1.png)
 
-**Business Information**
+**Business Details**
 
 - Loan Amount Needed: Enter the required amount (e.g., ₹5,00,000).
 - Annual Turnover: Select from:
