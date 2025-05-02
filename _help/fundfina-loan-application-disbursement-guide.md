@@ -10,7 +10,7 @@ title: Fundfina Loan Application & Disbursement Guide
 - Date of Birth: DD/MM/YYYY format (must match PAN records).
 - Gender: Select Male or Female.
 - Residence Address: Full address with 6-digit postal code (e.g., Sector 62, Noida – 201301).
-![](images/help/fundfina-loan/Loan1.png)
+![](/images/help/fundfina-loan/Loan1.png)
 
 **Business Information**
 
@@ -23,7 +23,7 @@ title: Fundfina Loan Application & Disbursement Guide
 - Business Name: Legal registered name (e.g., Global Traders).
 - Business Type: Select Sole Proprietorship, Private Limited, or Others.
 - GST Registration: Select Yes (auto-fills GST details) or No.
-![](images/help/fundfina-loan/Loan1.png)
+![](/images/help/fundfina-loan/Loan1.png)
 
 **Step 2: Verify Bank Account**
 **Account Type Selection**
@@ -36,7 +36,7 @@ title: Fundfina Loan Application & Disbursement Guide
         - Net Banking (instant)
         - PDF Upload (manual)
 Choose Net Banking 
-![](images/help/fundfina-loan/loan2.png)
+![](/images/help/fundfina-loan/loan2.png)
 
 **Reconfirm Account Type**
 
@@ -53,7 +53,7 @@ Choose Net Banking
 
 - All accounts linked to your mobile number are listed (e.g., HDFC Savings ••••5678).
 - Select one account for loan processing.
-![](images/help/fundfina-loan/loan%203.jpg)
+![](/images/help/fundfina-loan/loan%203.jpg)
 
 **Approve Data Access**
 
@@ -63,14 +63,14 @@ Choose Net Banking
 for the account that you have chosen for loan
 - Click Approve → Enter verification code again.
 - Then a new screen will open which shows that the process of fetching your bank accounts and verify transaction details once that is done
-![](images/help/fundfina-loan/loan%204.jpg)
+![](/images/help/fundfina-loan/loan%204.jpg)
 
 **Net Banking Login**
 
 - Enter Bank Login ID and Password (case-sensitive).
 - Click Submit.
 - On the next screen a congratulations message will be shown then click on proceed 
-![](images/help/fundfina-loan/loan5.png)
+![](/images/help/fundfina-loan/loan5.png)
 
 **PDF Upload Method**
 
@@ -95,7 +95,7 @@ for the account that you have chosen for loan
 
     • **Submit File**
         Click **Submit** to upload the PDF and proceed to the next step.
-![](images/help/fundfina-loan/loan%206.png)
+![](/images/help/fundfina-loan/loan%206.png)
 
 **Step 3: Submit KYC Documents**
 **Promoter Documents**
@@ -116,7 +116,7 @@ for the account that you have chosen for loan
 - Alternate Mobile Number: Verified via code.
 - Business Industry: Auto-filled if linked to anchor data (editable).
 - Industry Category: E.g., Retail, Manufacturing.
-![](images/help/fundfina-loan/loan%207.png)
+![](/images/help/fundfina-loan/loan%207.png)
 
 **Step 4: Review and Accept Fundfina Loan Offer**
 **Loan Terms**
@@ -135,7 +135,7 @@ for the account that you have chosen for loan
 
 Click **Accept Offer** to proceed.
 
-![](images/help/fundfina-loan/loan%208.png)
+![](/images/help/fundfina-loan/loan%208.png)
 
 **Step 5: eSign Fundfina Loan Agreement**
 **eSign Screen**
@@ -143,7 +143,7 @@ Click **Accept Offer** to proceed.
 - Heading: eSign with Aadhaar.
 - Primary Option: Proceed with Aadhaar (active if mobile linked).
 - Alternate Option: Aadhaar not linked? Click here.
-![](images/help/fundfina-loan/loan%208.png)
+![](/images/help/fundfina-loan/loan%208.png)
 
 **Security Verification**
 
@@ -161,14 +161,14 @@ and many more options fill the form accordingly
 
 - Check: I authorize NSDL to verify my Aadhaar.
 - Enter 12-digit Aadhaar → Click Send OTP
-![](images/help/fundfina-loan/loan%209.png).
+![](/images/help/fundfina-loan/loan%209.png).
 - Enter the received code → Submit.
 
 **Confirmation**
 
 - Message: Document Signed Successfully
 - Next: Automatic redirection to the next step.
-![](images/help/fundfina-loan/loan%2010.png)
+![](/images/help/fundfina-loan/loan%2010.png)
 
 **Step 6: Set Up Paperless Fundfina eMandate**
 **1. Select Payment Method**
@@ -216,7 +216,7 @@ No funds are deducted during approval.
 
 Success Message:
 "eMandate activated successfully! EMIs will auto-debit monthly."
-![](images/help/fundfina-loan/loan%2011.png)
+![](/images/help/fundfina-loan/loan%2011.png)
 
 **Step 7: Fundfina Disbursement Authorization & Final Confirmation**
 **1. Disbursement Memo Screen**
@@ -251,4 +251,4 @@ Title: Application Successfully Submitted
 Message:
 Thank you for submitting your application!
 No further action is required from your side.
-![](images/help/fundfina-loan/loan%2012.png)
+![](/images/help/fundfina-loan/loan%2012.png)
