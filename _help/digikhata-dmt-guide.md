@@ -6,7 +6,6 @@ title: DigiKhata DMT Guide
 
 ### **Step 1: Log in to the Agent Portal**
 
-- Enter your Agent ID and Password
 - If you're an admin, switch to Agent Mode from the profile/settings menu
 
 ### **Step 2: Select Digi Khata Money Transfer**
