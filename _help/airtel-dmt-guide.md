@@ -85,7 +85,18 @@ title: Airtel DMT Guide
 1. Ensure the mobile number entered is **linked to the customer’s Aadhaar card**
 2. The individual whose Aadhaar details are provided must personally complete the **biometric verification process**
 3. The **maximum allowable transaction limit** for DMT transactions registered under a single mobile number with any given service provider is **₹25,000 per month**
-4. For **Airtel DMT**, the **maximum single transaction limit** is **₹5,000**
-5. If the user requires transactions exceeding this limit, they may:
-   - Utilize **alternative service providers** for additional transactions, or  
-   - Register and perform transactions using a **different mobile number** that is linked to the Aadhaar card of the user
+4. For **Airtel DMT**, the **maximum single transaction limit** is **₹5,000**. This limit is defined by Airtel and applies universally across their services.
+
+# **4. Error Message and Its Explanation**
+
+1. **Error:** "OTP already sent to 9346045046, please wait for minimum 1 minutes before requesting new OTP."  
+   **Explanation:** OTP has already been generated. Please wait at least 1 minute before requesting another to avoid being blocked.
+2. **Error:** "OTP attempts exhausted. Please try again after 15 min."  
+   **Explanation:** Maximum OTP attempts have been reached. You must wait for 15 minutes before trying again.
+3. **Error:** "Sorry! Customer number is not allowed to use Money Transfer service due to suspected..."  
+   **Explanation:** The customer’s number may have been flagged due to suspicious or unauthorized activity. Contact support for resolution.
+4. **Error:** "Sorry! Aadhaar number and biometric scan did not match. Please try again. Please clean device surface. Inform customer to clean hands or try different finger."  
+   **Explanation:** Biometric verification failed. Clean the device scanner and the customer’s finger, or use a different finger for scanning.
+5. **Error:** "Sorry! Customer registration has failed as DOB must be 18 years older and less than 100."  
+   **Explanation:** Registration failed due to invalid age. The customer must be between 18 and 100 years old.
+

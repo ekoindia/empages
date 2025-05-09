@@ -88,7 +88,17 @@ title: Fino DMT Guide
    - Complete **eKYC (biometric verification)** before proceeding  
 3. Ensure the **mobile number** and **Aadhaar details** belong to the same customer undergoing eKYC  
 4. The **maximum allowable DMT transaction limit** under a single mobile number with any one provider is **₹25,000 per month**  
-5. For **Fino DMT**, the **maximum single transaction limit** is **₹5,000**  
-6. If a user requires transactions exceeding this limit, they may:
-   - Use **alternative service providers**, or  
-   - **Register a different mobile number** linked to their Aadhaar card
+5. For **Fino DMT**, the **maximum single transaction limit** is **₹5,000**. This limit is defined by Fino and applies universally across their services.
+
+# **4. Error Message and Its Explanation**
+
+1. **Error:** "OTP already sent to 9346045046, please wait for minimum 1 minutes before requesting new OTP."  
+   **Explanation:** OTP has already been generated. Please wait at least 1 minute before requesting another to avoid being blocked.
+2. **Error:** "OTP attempts exhausted. Please try again after 15 min."  
+   **Explanation:** Maximum OTP attempts have been reached. You must wait for 15 minutes before trying again.
+3. **Error:** "Sorry! Customer number is not allowed to use Money Transfer service due to suspected..."  
+   **Explanation:** The customer’s number may have been flagged due to suspicious or unauthorized activity. Contact support for resolution.
+4. **Error:** "Sorry! Aadhaar number and biometric scan did not match. Please try again. Please clean device surface. Inform customer to clean hands or try different finger."  
+   **Explanation:** Biometric verification failed. Clean the device scanner and the customer’s finger, or use a different finger for scanning.
+5. **Error:** "Sorry! Customer registration has failed as DOB must be 18 years older and less than 100."  
+   **Explanation:** Registration failed due to invalid age. The customer must be between 18 and 100 years old.
