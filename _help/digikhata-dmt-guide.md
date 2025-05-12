@@ -2,26 +2,21 @@
 layout: help
 title: DigiKhata DMT Guide
 ---
-# **1. Registering New Customer for Fino DMT**
+## 1. Registering New Customer for Fino DMT
 
-### **Step 1: Log in to the Agent Portal**
-
-- If you're an admin, switch to Agent Mode from the profile/settings menu
-
-### **Step 2: Select Digi Khata Money Transfer**
+### Step 2: Select Digi Khata Money Transfer
 
 - Click **Money Transfer** on the dashboard
 - Select **"Digi Khata"** from the service provider list
-![](../images/help/digikhata-dmt-guide/image%20%2812%29.png)
 ![](../images/help/digikhata-dmt-guide/image%20%2813%29.png)
 
-### **Step 3: Enter the Customer’s Mobile Number**
+### Step 3: Enter the Customer’s Mobile Number
 
 - Type the customer’s 10-digit mobile number
 - Click **Proceed**
 ![Step 3](../images/help/digikhata-dmt-guide/image%20%281%29.png)
 
-### **Step 4: Complete Customer Details**
+### Step 4: For Firt Time Customers, Complete Customer Details
 
 - Input the customer’s **Full Name** (exactly as per Aadhaar)
 ![Full Name](../images/help/digikhata-dmt-guide/image%20%282%29.png)
@@ -35,13 +30,13 @@ title: DigiKhata DMT Guide
 ![PAN](../images/help/digikhata-dmt-guide/image%20%286%29.png)
 - Click **Submit** to complete registration
 
-# **2. Adding Recipient & Money Transfer Steps**
+## 2. Adding Recipient & Money Transfer Steps
 
-### **Step 1: Add Recipient**
+### Step 1: Add Recipient
 
 - Click **Add Recipient** on the transfer screen
 
-### **Step 2: Fill in Recipient Details**
+### Step 2: Fill in Recipient Details
 
 - Recipient’s Full Name (as per bank records)
 - Bank Account Number (mandatory)
@@ -51,7 +46,7 @@ title: DigiKhata DMT Guide
 ![Recipient Info](../images/help/digikhata-dmt-guide/image%20%288%29.png)
 - Click **Proceed** to save
 
-### **Step 3: Enter Transfer Details**
+### Step 3: Enter Transfer Details
 
 - Select the saved recipient from the list
 ![Select Recipient](../images/help/digikhata-dmt-guide/image%20%289%29.png)
@@ -60,18 +55,18 @@ title: DigiKhata DMT Guide
 - Click **Proceed**
 ![Enter Amount](../images/help/digikhata-dmt-guide/image%20%2810%29.png)
 
-### **Step 4: Final OTP Verification for Transaction**
+### Step 4: Final OTP Verification for Transaction
 
 - Enter the **OTP** received on the customer’s mobile number
 - Click **Proceed** to finalize the transaction
 ![OTP Transaction](../images/help/digikhata-dmt-guide/image%20%2811%29.png)
 
-### **Step 5: Transaction Confirmation**
+### Step 5: Transaction Confirmation
 
 - Verify the receipt details (recipient name, account number, amount)
 - Share the receipt with the customer
 
-# **3. Key Points to Remember**
+## 3. Key Points to Remember
 
 1. Ensure the mobile number entered is linked to the customer’s **Aadhaar card** and **PAN card**
 2. An OTP is sent to the **Aadhaar-registered mobile number** after entering Aadhaar details
@@ -79,7 +74,7 @@ title: DigiKhata DMT Guide
 4. The maximum allowable transaction limit for **DMT transactions** registered under a single mobile number with any given service provider is **₹50,000 per month**
 5. For **Digi Khata DMT**, customers may transfer up to **₹50,000 in a single transaction**. This limit is defined by DigiKhata and applies universally across their services.
 
-# **4. Error Message and Its Explanation**
+## 4. Error Message and Its Explanation
 
 1. **Error:** "OTP already sent to 9346045046, please wait for minimum 1 minutes before requesting new OTP."  
    **Explanation:** OTP has already been generated. Please wait at least 1 minute before requesting another to avoid being blocked.
