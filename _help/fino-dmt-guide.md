@@ -16,7 +16,7 @@ title: Fino DMT Guide
 - Click **Proceed**  
 ![](../images/help/fino-dmt-guide/image (33).png)
 
-### Step 3: For Firt Time Customers, Complete Customer Details
+### Step 3: For first time customers, complete customer details
 
 - Input the customer’s **Full Name** (exactly as per Aadhaar)  
 ![](../images/help/fino-dmt-guide/image (34).png)

@@ -16,7 +16,7 @@ title: DigiKhata DMT Guide
 - Click **Proceed**
 ![Step 3](../images/help/digikhata-dmt-guide/image%20%281%29.png)
 
-### Step 4: For Firt Time Customers, Complete Customer Details
+### Step 4: For first time customers, complete Customer Details
 
 - Input the customer’s **Full Name** (exactly as per Aadhaar)
 ![Full Name](../images/help/digikhata-dmt-guide/image%20%282%29.png)

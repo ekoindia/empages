@@ -17,7 +17,7 @@ title: Airtel DMT Guide
 - Click **Proceed**  
 ![](../images/help/airtel-dmt-guide/image (16).png)
 
-### step 3: For Firt Time Customers add their details
+### step 3: For first time customers, add their complete details
 
 - Input the customer’s **Full Name** (exactly as per Aadhaar)  
 ![](../images/help/airtel-dmt-guide/image (17).png)
