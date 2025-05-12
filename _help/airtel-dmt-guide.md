@@ -3,11 +3,11 @@ layout: help
 title: Airtel DMT Guide
 ---
 
-## 1. Registering New Customer for Airtel DMT
+## 1. Start Airtel DMT
 
 ### Step 1: Select Airtel Money Transfer
 
-- Click **Money Transfer** on the dashboard  
+- Click **Money Transfer**   
 - Select **"Airtel Money Transfer"** 
 ![](../images/help/airtel-dmt-guide/image (15).png)
 
@@ -17,35 +17,38 @@ title: Airtel DMT Guide
 - Click **Proceed**  
 ![](../images/help/airtel-dmt-guide/image (16).png)
 
-### step 3: For first time customers, complete customer's details
+## 2. Register First Time Customer
+
+### step 1: For first time customers, complete customer's details
 
 - Input the customer’s **Full Name** (exactly as per Aadhaar)  
 ![](../images/help/airtel-dmt-guide/image (17).png)
 
-- Enter the **12-digit Aadhaar number** (no spaces or dashes)  
+- Enter the **12-digit Aadhaar number of customer** (no spaces or dashes)  
 ![](../images/help/airtel-dmt-guide/image (18).png)
 
-- Enter the **OTP** received on your number for Aadhaar verification  
+- Enter the **OTP** received on customer's number for Aadhaar verification  
 ![](../images/help/airtel-dmt-guide/image (19).png)
 
-### Step 4: Biometric Verification (eKYC)
+### Step 2: Biometric Verification (eKYC)
 
 - Connect the **fingerprint scanner** and ensure drivers are installed  
 - Ask the new customer to scan their finger  
 - Message displayed: **“Registration Successful”**  
 ![](../images/help/airtel-dmt-guide/image (20).png)
 
-## 2. Adding Recipient & Money Transfer Steps
+## 3. Add Recipient 
 
 ### Step 1: Add Recipient
 - Registered Customer should enter their mobile number 
-- Click **Add Recipient** on the transfer screen
+- Click on **Add Recipient**  
+![](../images/help/airtel-dmt-guide/image (23).png)
 
 ### Step 2: Fill in Recipient Details
 
 - Recipient’s **Full Name** (as per bank records)  
 - **Bank Account Number** (mandatory)  
-- **IFSC Code** (optional; system may auto-fetch)  
+- **IFSC Code** (optional depending on your bank's policies.)  
 ![](../images/help/airtel-dmt-guide/image (21).png)
 
 - Add recipient details (**Name and Mobile number**)  
@@ -53,7 +56,9 @@ title: Airtel DMT Guide
 
 - Click **Proceed** to save
 
-### Step 3: Enter Transfer Details
+## 4. Transfer Money
+
+### Step 1: Enter Transfer Details
 
 - Select the added **recipient(s)** from the list  
 ![](../images/help/airtel-dmt-guide/image (23).png)
@@ -63,25 +68,26 @@ title: Airtel DMT Guide
 - Click **Proceed**  
 ![](../images/help/airtel-dmt-guide/image (24).png)
 
-### Step 4: Final OTP Verification for Transaction
+### Step 2: Final OTP Verification for Transaction
 
-- Enter the **OTP** received on the customer’s mobile number  
+- Enter the new **OTP** received on the customer’s mobile number  
+- Enter the secret pin of the retailer
 - Click **Proceed** to finalize the transaction  
 ![](../images/help/airtel-dmt-guide/image (30).png)
 
-### Step 5: Transaction Confirmation
+### Step 3: Transaction Confirmation
 
 - Verify the **receipt details** (recipient name, account number, amount)  
 - Share the **receipt** with the customer
 
-## 3. Key Points to Remember
+## 5. Key Points to Remember
 
-1. Ensure the mobile number entered is **linked to the customer’s Aadhaar card**
+1. Ensure the customer's mobile number entered is **linked to the customer’s Aadhaar card**
 2. The individual whose Aadhaar details are provided must personally complete the **biometric verification process**
-3. The **maximum allowable transaction limit** for DMT transactions registered under a single mobile number with any given service provider is **₹25,000 per month**
-4. For **Airtel DMT**, the **maximum single transaction limit** is **₹5,000**. This limit is defined by Airtel and applies universally across their services.
+3. The **maximum allowable transaction limit** for DMT transactions registered under a single mobile number with Airtel is **₹25,000 per month**
+4. For **Airtel DMT**, the **maximum single transaction limit** is **₹5,000**. This limit is defined by Airtel.
 
-## 4. Error Message and Its Explanation
+## 6. Error Message and Its Explanation
 
 1. **Error:** "OTP already sent to 9346045046, please wait for minimum 1 minutes before requesting new OTP."  
    **Explanation:** OTP has already been generated. Please wait at least 1 minute before requesting another to avoid being blocked.
