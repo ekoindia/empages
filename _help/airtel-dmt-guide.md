@@ -8,7 +8,7 @@ title: Airtel DMT Guide
 ### Step 1: Select Airtel Money Transfer
 
 - Click **Money Transfer** on the dashboard  
-- Select **"Airtel Money Transfer"** from the service provider list  
+- Select **"Airtel Money Transfer"** 
 ![](../images/help/airtel-dmt-guide/image (15).png)
 
 ### Step 2: Enter the Customer’s Mobile Number
@@ -17,7 +17,7 @@ title: Airtel DMT Guide
 - Click **Proceed**  
 ![](../images/help/airtel-dmt-guide/image (16).png)
 
-### step 3: For first time customers, add their complete details
+### step 3: For first time customers, complete customer's details
 
 - Input the customer’s **Full Name** (exactly as per Aadhaar)  
 ![](../images/help/airtel-dmt-guide/image (17).png)
@@ -31,14 +31,14 @@ title: Airtel DMT Guide
 ### Step 4: Biometric Verification (eKYC)
 
 - Connect the **fingerprint scanner** and ensure drivers are installed  
-- Ask the customer to scan their finger  
+- Ask the new customer to scan their finger  
 - Message displayed: **“Registration Successful”**  
 ![](../images/help/airtel-dmt-guide/image (20).png)
 
 ## 2. Adding Recipient & Money Transfer Steps
 
 ### Step 1: Add Recipient
-
+- Registered Customer should enter their mobile number 
 - Click **Add Recipient** on the transfer screen
 
 ### Step 2: Fill in Recipient Details
@@ -55,7 +55,7 @@ title: Airtel DMT Guide
 
 ### Step 3: Enter Transfer Details
 
-- Select the saved **recipient** from the list  
+- Select the added **recipient(s)** from the list  
 ![](../images/help/airtel-dmt-guide/image (23).png)
 
 - Enter the **Amount** to be transferred (e.g., ₹1,000)  

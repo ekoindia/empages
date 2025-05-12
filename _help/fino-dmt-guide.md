@@ -7,7 +7,7 @@ title: Fino DMT Guide
 ### Step 1: Select Fino Money Transfer
 
 - Click **Money Transfer** on the dashboard  
-- Select **"Fino Money Transfer"** from the service provider list   
+- Select **"Fino Money Transfer"**   
 ![](../images/help/fino-dmt-guide/image (32).png)
 
 ### Step 2: Enter the Customer’s Mobile Number
@@ -16,14 +16,14 @@ title: Fino DMT Guide
 - Click **Proceed**  
 ![](../images/help/fino-dmt-guide/image (33).png)
 
-### Step 3: For first time customers, complete customer details
+### Step 3: For first time customers, complete customer's details
 
 - Input the customer’s **Full Name** (exactly as per Aadhaar)  
 ![](../images/help/fino-dmt-guide/image (34).png)
 
 ### Step 4: Biometric Verification (eKYC)
 
-- Customer must provide **Aadhaar details** during this process  
+- New Customer must provide **Aadhaar details** during this process  
 - Connect the **fingerprint scanner** and ensure drivers are installed  
 - Ask the customer to scan their finger  
 - Wait for the **"Registration Successful"** confirmation  
@@ -38,7 +38,7 @@ title: Fino DMT Guide
 ## 2. Adding Recipient & Money Transfer Steps
 
 ### Step 1: Add Recipient
-
+- Registered Customer should enter their mobile number  
 - Click **Add Recipient** on the transfer screen
 
 ### Step 2: Fill in Recipient Details
@@ -55,7 +55,7 @@ title: Fino DMT Guide
 
 ### Step 3: Enter Transfer Details
 
-- Select the saved **recipient** from the list  
+- Select the added **recipient(s)** from the list  
 ![](../images/help/fino-dmt-guide/image (39).png)
 
 - Enter the **Amount** to be transferred (e.g., ₹1,000)  

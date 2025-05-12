@@ -4,19 +4,19 @@ title: DigiKhata DMT Guide
 ---
 ## 1. Registering New Customer for Fino DMT
 
-### Step 2: Select Digi Khata Money Transfer
+### Step 1: Select Digi Khata Money Transfer
 
 - Click **Money Transfer** on the dashboard
-- Select **"Digi Khata"** from the service provider list
+- Select **"Digi Khata"** 
 ![](../images/help/digikhata-dmt-guide/image%20%2813%29.png)
 
-### Step 3: Enter the Customer’s Mobile Number
+### Step 2: Enter the Customer’s Mobile Number
 
 - Type the customer’s 10-digit mobile number
 - Click **Proceed**
 ![Step 3](../images/help/digikhata-dmt-guide/image%20%281%29.png)
 
-### Step 4: For first time customers, complete Customer Details
+### Step 3: For first time customers, complete customer's Details
 
 - Input the customer’s **Full Name** (exactly as per Aadhaar)
 ![Full Name](../images/help/digikhata-dmt-guide/image%20%282%29.png)
@@ -34,6 +34,7 @@ title: DigiKhata DMT Guide
 
 ### Step 1: Add Recipient
 
+- Registered Customer should enter their mobile number and verify otp
 - Click **Add Recipient** on the transfer screen
 
 ### Step 2: Fill in Recipient Details
@@ -48,7 +49,7 @@ title: DigiKhata DMT Guide
 
 ### Step 3: Enter Transfer Details
 
-- Select the saved recipient from the list
+- Select the added **recipient(s)** from the list
 ![Select Recipient](../images/help/digikhata-dmt-guide/image%20%289%29.png)
 - Enter the **Amount** to be transferred (e.g., ₹1,000)
 - Choose **IMPS** or **NEFT**
