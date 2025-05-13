@@ -9,7 +9,7 @@ title: Airtel DMT
 
 - Click **Money Transfer**   
 - Select **Airtel Money Transfer** 
-![Money transfer screen](../images/help/airtel-dmt-guide/image (15).png)
+![Money transfer screen](../images/help/airtel-dmt-guide/image (15).jpeg)
 
 ### Step 2: Enter the Customer’s Mobile Number
 

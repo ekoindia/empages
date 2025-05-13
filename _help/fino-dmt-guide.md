@@ -8,7 +8,7 @@ title: Fino DMT Guide
 
 - Click **Money Transfer** 
 - Select **"Fino Money Transfer"**   
-![](../images/help/fino-dmt-guide/image (32).png)
+![](../images/help/fino-dmt-guide/image (32).jpeg)
 
 ### Step 2: Enter the Customer’s Mobile Number
 

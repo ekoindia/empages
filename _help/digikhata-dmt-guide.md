@@ -8,7 +8,7 @@ title: Digi Khata DMT Guide
 
 - Click **Money Transfer** 
 - Select **"Digi Khata"** 
-![](../images/help/digikhata-dmt-guide/image%20%2813%29.png)
+![](../images/help/digikhata-dmt-guide/image%20%2813%29.jpeg)
 
 ### Step 2: Enter the Customer’s Mobile Number
 
