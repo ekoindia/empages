@@ -1,6 +1,6 @@
 ---
 layout: help
-title: Airtel DMT Guide
+title: Airtel DMT
 ---
 
 ## 1. Start Airtel DMT
@@ -8,8 +8,8 @@ title: Airtel DMT Guide
 ### Step 1: Select Airtel Money Transfer
 
 - Click **Money Transfer**   
-- Select **"Airtel Money Transfer"** 
-![](../images/help/airtel-dmt-guide/image (15).png)
+- Select **Airtel Money Transfer** 
+![Money transfer screen](../images/help/airtel-dmt-guide/image (15).png)
 
 ### Step 2: Enter the Customer’s Mobile Number
 
