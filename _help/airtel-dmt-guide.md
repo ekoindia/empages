@@ -15,44 +15,44 @@ title: Airtel DMT
 
 - Type the customer’s **10-digit mobile number**  
 - Click **Proceed**  
-![](../images/help/airtel-dmt-guide/image (16).png)
+!["Search Customer" Field Screen](../images/help/airtel-dmt-guide/image (16).png)
 
 ## 2. Register First Time Customer
 
 ### step 1: For first time customers, complete customer's details
 
 - Input the customer’s **Full Name** (exactly as per Aadhaar)  
-![](../images/help/airtel-dmt-guide/image (17).png)
+!["Customer's Name" Input Field Screen](../images/help/airtel-dmt-guide/image (17).png)
 
 - Enter the **12-digit Aadhaar number of customer** (no spaces or dashes)  
-![](../images/help/airtel-dmt-guide/image (18).png)
+!["Customer's Aadhaar" Input Field Screen](../images/help/airtel-dmt-guide/image (18).png)
 
 - Enter the **OTP** received on customer's number for Aadhaar verification  
-![](../images/help/airtel-dmt-guide/image (19).png)
+![Enterred Aadhaar's OTP Verification Screen](../images/help/airtel-dmt-guide/image (19).png)
 
 ### Step 2: Biometric Verification (eKYC)
 
 - Connect the **fingerprint scanner** and ensure drivers are installed  
 - Ask the new customer to scan their finger  
 - Message displayed: **“Registration Successful”**  
-![](../images/help/airtel-dmt-guide/image (20).png)
+![Biometric Verification Screen](../images/help/airtel-dmt-guide/image (20).png)
 
 ## 3. Add Recipient 
 
 ### Step 1: Add Recipient
 - Registered Customer should enter their mobile number 
 - Click on **Add Recipient**  
-![](../images/help/airtel-dmt-guide/image (23).png)
+![Adding Recipient Screen](../images/help/airtel-dmt-guide/image (23).png)
 
 ### Step 2: Fill in Recipient Details
 
 - Recipient’s **Full Name** (as per bank records)  
 - **Bank Account Number** (mandatory)  
 - **IFSC Code** (optional depending on your bank's policies.)  
-![](../images/help/airtel-dmt-guide/image (21).png)
+![Recipient Bank Details Screen](../images/help/airtel-dmt-guide/image (21).png)
 
 - Add recipient details (**Name and Mobile number**)  
-![](../images/help/airtel-dmt-guide/image (22).png)
+![Recipient Details Screen](../images/help/airtel-dmt-guide/image (22).png)
 
 - Click **Proceed** to save
 
@@ -61,19 +61,19 @@ title: Airtel DMT
 ### Step 1: Enter Transfer Details
 
 - Select the added **recipient(s)** from the list  
-![](../images/help/airtel-dmt-guide/image (23).png)
+![Recipient(s) Selection Screen](../images/help/airtel-dmt-guide/image (23).png)
 
 - Enter the **Amount** to be transferred (e.g., ₹1,000)  
 - Choose **IMPS** or **NEFT**  
 - Click **Proceed**  
-![](../images/help/airtel-dmt-guide/image (24).png)
+![Amount Transfer Input Screen](../images/help/airtel-dmt-guide/image (24).png)
 
 ### Step 2: Final OTP Verification for Transaction
 
 - Enter the new **OTP** received on the customer’s mobile number  
 - Enter the secret pin of the retailer
 - Click **Proceed** to finalize the transaction  
-![](../images/help/airtel-dmt-guide/image (30).png)
+![Transaction's OTP Verification & Pin Input Field Screen](../images/help/airtel-dmt-guide/image (30).png)
 
 ### Step 3: Transaction Confirmation
 

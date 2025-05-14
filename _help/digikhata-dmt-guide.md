@@ -8,45 +8,46 @@ title: Digi Khata DMT Guide
 
 - Click **Money Transfer** 
 - Select **"Digi Khata"** 
-![](../images/help/digikhata-dmt-guide/image%20%2813%29.jpeg)
+![Money transfer screen](../images/help/digikhata-dmt-guide/image%20%2813%29.jpeg)
 
 ### Step 2: Enter the Customer’s Mobile Number
 
 - Type the customer’s 10-digit mobile number
 - Click **Proceed**
-![Step 3](../images/help/digikhata-dmt-guide/image%20%281%29.png)
+!["Search Customer" Field Screen](../images/help/digikhata-dmt-guide/image%20%281%29.png)
 
 ## 2. Register First Time Customer
 
 ### Step 1: For first time customers, complete customer's Details
 
 - Input the customer’s **Full Name** (exactly as per Aadhaar)
-![Full Name](../images/help/digikhata-dmt-guide/image%20%282%29.png)
+!["Customer's Name" Input Field Screen](../images/help/digikhata-dmt-guide/image%20%282%29.png)
 - Verify OTP received on customer's mobile number
-![OTP Mobile](../images/help/digikhata-dmt-guide/image%20%283%29.png)
+![OTP Verification Screen](../images/help/digikhata-dmt-guide/image%20%283%29.png)
 - Enter the **12-digit Aadhaar number of customer** (no spaces or dashes)
-![Aadhaar](../images/help/digikhata-dmt-guide/image%20%284%29.png)
+!["Customer's Aadhaar" Input Field Screen](../images/help/digikhata-dmt-guide/image%20%284%29.png)
 - Enter the OTP received on customer's number for **Aadhaar verification**
-![OTP Aadhaar](../images/help/digikhata-dmt-guide/image%20%283%29.png)
+![Enterred Aadhaar's OTP Verification](../images/help/digikhata-dmt-guide/image%20%283%29.png)
 - Verify Customer’s **PAN number** by entering customer's 10-digit PAN number (no spaces)
-![PAN](../images/help/digikhata-dmt-guide/image%20%286%29.png)
+!["Customer's PAN" Input Field Screen](../images/help/digikhata-dmt-guide/image%20%286%29.png)
 - Click **Submit** to complete registration
 
 ## 3. Add Recipient 
-customer's
+
 ### Step 1: Add Recipient
 
 - Registered Customer should enter their mobile number and verify otp
 - Click **Add Recipient** on the transfer screen
+![Adding Recipient Screen](../images/help/digikhata-dmt-guide/image%20%289%29.png)
 
 ### Step 2: Fill in Recipient Details
 
 - Recipient’s Full Name (as per bank records)
 - Bank Account Number (mandatory)
 - IFSC Code (optional depending on customer's bank policies.)
-![Recipient Bank](../images/help/digikhata-dmt-guide/image%20%287%29.png)
+![Recipient Bank Details Screen](../images/help/digikhata-dmt-guide/image%20%287%29.png)
 - Add recipient details (Name and Mobile number)
-![Recipient Info](../images/help/digikhata-dmt-guide/image%20%288%29.png)
+![Recipient Details Screen](../images/help/digikhata-dmt-guide/image%20%288%29.png)
 - Click **Proceed** to save
 
 ## 4. Transfer Money
@@ -54,18 +55,18 @@ customer's
 ### Step 1: Enter Transfer Details
 
 - Select the added **recipient(s)** from the list
-![Select Recipient](../images/help/digikhata-dmt-guide/image%20%289%29.png)
+![Recipient(s) Selection Screen](../images/help/digikhata-dmt-guide/image%20%289%29.png)
 - Enter the **Amount** to be transferred (e.g., ₹1,000)
 - Choose **IMPS** or **NEFT**
 - Click **Proceed**
-![Enter Amount](../images/help/digikhata-dmt-guide/image%20%2810%29.png)
+![Amount Transfer Input Screen](../images/help/digikhata-dmt-guide/image%20%2810%29.png)
 
 ### Step 2: Final OTP Verification for Transaction
 
 - Enter the new **OTP** received on the customer’s mobile number
 - Enter the secret pin of the retailer
 - Click on **Proceed** to finalize the transaction
-![OTP Transaction](../images/help/digikhata-dmt-guide/image%20%2811%29.png)
+![Transaction's OTP Verification & Pin Input Field Screen](../images/help/digikhata-dmt-guide/image%20%2811%29.png)
 
 ### Step 3: Transaction Confirmation
 

@@ -8,20 +8,20 @@ title: Fino DMT Guide
 
 - Click **Money Transfer** 
 - Select **"Fino Money Transfer"**   
-![](../images/help/fino-dmt-guide/image (32).jpeg)
+![Money Transfer Screen](../images/help/fino-dmt-guide/image (32).jpeg)
 
 ### Step 2: Enter the Customer’s Mobile Number
 
 - Type the customer’s **10-digit mobile number**  
 - Click **Proceed**  
-![](../images/help/fino-dmt-guide/image (33).png)
+!["Search Customer" Field Screen](../images/help/fino-dmt-guide/image (33).png)
 
 ## 2. Register First Time Customer
 
 ### Step 1: For first time customers, complete customer's details
 
 - Input the customer’s **Full Name** (exactly as per Aadhaar)  
-![](../images/help/fino-dmt-guide/image (34).png)
+!["Customer's Name" Input Field Screen](../images/help/fino-dmt-guide/image (34).png)
 
 ### Step 2: Biometric Verification (eKYC)
 
@@ -29,29 +29,30 @@ title: Fino DMT Guide
 - Connect the **fingerprint scanner** and ensure drivers are installed  
 - Ask the customer to scan their finger  
 - Wait for the **"Registration Successful"** confirmation  
-![](../images/help/fino-dmt-guide/image (35).png)
+![Biometric Verification Screen](../images/help/fino-dmt-guide/image (35).png)
 
 ### Step 3: Enter OTP for Aadhaar Validation
 
 - Enter the **OTP** received on the customer’s mobile number  
 - Click on **Proceed** to validate  
-![](../images/help/fino-dmt-guide/image (36).png)
+![Customer's Aadhaar OTP Validation Screen](../images/help/fino-dmt-guide/image (36).png)
 
 ## 3. Add Recipient
 
 ### Step 1: Add Recipient
 - Registered Customer should enter their mobile number  
 - Click **Add Recipient** on the transfer screen
+![Adding Recipient Screen](../images/help/fino-dmt-guide/image (39).png)
 
 ### Step 2: Fill in Recipient Details
 
 - Recipient’s **Full Name** (as per bank records)  
 - **Bank Account Number** (mandatory)  
 - **IFSC Code** (optional depending on your bank's policies.)  
-![](../images/help/fino-dmt-guide/image (37).png)
+![Recipient Bank Details Screen](../images/help/fino-dmt-guide/image (37).png)
 
 - Add recipient details (**Name and Mobile number**)  
-![](../images/help/fino-dmt-guide/image (38).png)
+![Recipient's Details Screen](../images/help/fino-dmt-guide/image (38).png)
 
 - Click **Proceed** to save
 
@@ -60,19 +61,19 @@ title: Fino DMT Guide
 ### Step 1: Enter Transfer Details
 
 - Select the added **recipient(s)** from the list  
-![](../images/help/fino-dmt-guide/image (39).png)
+![Recipient(s) Selection Screen](../images/help/fino-dmt-guide/image (39).png)
 
 - Enter the **Amount** to be transferred (e.g., ₹1,000)  
 - Choose **IMPS** or **NEFT**  
 - Click **Proceed**  
-![](../images/help/fino-dmt-guide/image (40).png)
+![Amount Transfer Input Screen](../images/help/fino-dmt-guide/image (40).png)
 
 ### Step 2: Final OTP Verification for Transaction
 
 - Enter the new **OTP** received on the customer’s mobile number  
 - Enter the secret pin of the retailer
 - Click on **Proceed** to finalize the transaction  
-![](../images/help/fino-dmt-guide/image (41).png)
+![Transaction's OTP Verification & Pin Input Field Screen](../images/help/fino-dmt-guide/image (41).png)
 
 ### Step 3: Transaction Confirmation
 
