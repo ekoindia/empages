@@ -1,14 +1,14 @@
 ---
 layout: help
-title: How to do Aeps & AadhaarPay Transactions?
+title: How to do AePS & AadhaarPay Transactions?
 ---
 
-## What is AEPS & AadhaarPay?
+## What is AePS & AadhaarPay?
 
-### AEPS (Aadhaar Enabled Payment System)
-AEPS is a payment system that allows customers to make transactions using their Aadhaar number and biometric authentication. It enables cash withdrawals, balance inquiries, and mini statements through a network of agents or retailers.
+### AePS (Aadhaar Enabled Payment System)
+AePS is a payment system that allows customers to make transactions using their Aadhaar number and biometric authentication. It enables cash withdrawals, balance inquiries, and mini statements through a network of agents or retailers.
 
-Customers can access their bank accounts and perform transactions without the need for a physical debit card or PIN. AEPS is particularly useful in rural and semi-urban areas where banking infrastructure may be limited.
+Customers can access their bank accounts and perform transactions without the need for a physical debit card or PIN. AePS is particularly useful in rural and semi-urban areas where banking infrastructure may be limited.
 
 For the "Cash Withdrawal" transaction, the amount will be transferred from the customer's bank account to the retailer's E-value wallet balance. The retailer can then hand over the equivalent cash to the customer.
 
@@ -18,10 +18,10 @@ AadhaarPay is a payment solution that allows merchants to accept payments direct
 In this transaction, the amount is transferred from the customer's bank account directly to the retailer's registered bank account. Retailer can register their bank account during the AadhaarPay Rioueegistration process.
 
 
-## How to Register for AEPS/AadhaarPay?
-The agent/retailer must complete a _one-time_ registration process to use AEPS or AadhaarPay services.
+## How to Register for AePS/AadhaarPay?
+The agent/retailer must complete a _one-time_ registration process to use AePS or AadhaarPay services.
 
-- The registration process will start automatically when the retailer tries to use the AEPS or AadhaarPay service for the first time.
+- The registration process will start automatically when the retailer tries to use the AePS or AadhaarPay service for the first time.
 - The retailer must have a registered biometric device to complete the registration process.
 
 The registration process is as follows:
@@ -67,7 +67,7 @@ The registration process is as follows:
 
 ![Aeps/AadhaarPay Successful Registration Screen](../images/help/aeps-aadharpay/AEPS 6.png)
 
-## How to do AEPS/AadhaarPay Transaction?
+## How to do AePS/AadhaarPay Transaction?
 
 ### Step 1: Daily eKYC for Retailer
 
