@@ -6,6 +6,8 @@ This style guide outlines the coding conventions for writing markdown files for 
 - Be logical and direct.
 - Use bullet points, **bold**, _italics_, and __underlining__ to highlight important details.
 - Ensure correct spelling and grammar throughout the document.
+- Ensure proper case. Eg, abbreviations should be in uppercase (e.g., `DMT`, `AEPS`), while product names should be in title case (e.g., `Airtel DMT`, `AadhaarPay`).
+- Ensure consistency of terms, phrases, and formatting across all markdown files.
 - Use H2 (`##`) and H3 (`###`) headings for sections and sub-sections respectively.
 
 ## Gneral Filename Conventions
