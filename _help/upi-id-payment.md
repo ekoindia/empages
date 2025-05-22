@@ -15,6 +15,7 @@ Start the transaction by selecting the **“UPI ID”** payout option on the pla
 
 ![UPI VPA Option ](../images/help/upi-vpa-and-upi-mobile-payout-sop/image1.jpeg)
 - **Verify UPI App Linkage:** Confirm that the recipient's mobile number is correctly linked to a UPI-enabled application.
+
 ### Step 2: Enter Vendor Mobile Number  
 Input the **vendor’s mobile number** associated with the payout request.
 
