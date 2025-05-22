@@ -28,7 +28,7 @@ Input the following:
 - **Recipient’s Name**  
 - **Select the appropriate UPI App**  
 - **Enter the UPI ID of the recipient**
-![](../images/help/upi-vpa-and-upi-mobile-payout-sop/image4.jpeg)
+![Recipient details form for UPI VPA payout including mobile number, name, UPI app, and UPI ID fields](../images/help/upi-vpa-and-upi-mobile-payout-sop/image4.jpeg)
 
 ### Step 5: Execute Vendor Payment  
 - Enter the **payment amount** to be transferred  
