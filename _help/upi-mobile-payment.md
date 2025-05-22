@@ -6,17 +6,17 @@ title: How to do UPI Mobile Payment?
 
 This service allows you to send money instantly to your vendors' bank account using their UPI-registered mobile number, without needing to know their bank account numbers or their UPI ID.
 
-Eko acts as a secure and compliant intermediary platform that allows agents to initiate UPI payouts to vendors. Eko handles verification, fund routing, transaction authentication, and provides real-time settlement while ensuring data privacy and system integrity.
+Eko acts as a secure and compliant intermediary platform that allows agents to initiate UPI payments to vendors. Eko handles verification, fund routing, transaction authentication, and provides real-time settlement while ensuring data privacy and system integrity.
 
 ## How to do UPI Mobile Payment?
 
 ### Step 1: Select UPI Registered Mobile Option  
-Initiate the process by selecting the **“UPI Registered Mobile”** payout option.
+Initiate the process by selecting the **“UPI Registered Mobile”** payment option.
 
 ![UPI Mobile Option](../images/help/upi-vpa-and-upi-mobile-payout-sop/image6.jpeg)
 
 ### Step 2: Enter Vendor Mobile Number  
-Input the **vendor’s mobile number** for whom the payout is being initiated.
+Input the **vendor’s mobile number** for whom the payment is being initiated.
 
 ![Vendor Mobile Number](../images/help/upi-vpa-and-upi-mobile-payout-sop/image7.jpeg)
 
@@ -24,7 +24,7 @@ Input the **vendor’s mobile number** for whom the payout is being initiated.
 - Select the recipient from the list if already added.  
 - If not available, proceed to add a new recipient.
 
-![Choosing Recipient for Payout](../images/help/upi-vpa-and-upi-mobile-payout-sop/image8.jpeg)
+![Choosing Recipient for payment](../images/help/upi-vpa-and-upi-mobile-payout-sop/image8.jpeg)
 
 ### Step 4: Add Recipient Details  
 Enter the following:  
@@ -38,7 +38,7 @@ Enter the following:
 
 ### Step 5: Execute Vendor Payment  
 - Enter the **payment amount** as specified by the vendor. 
-- Enter the **agent’s secret PIN** to authorize and complete the payout.
+- Enter the **agent’s secret PIN** to authorize and complete the payment.
 
 ![Payment Amount and Secret Pin Entry](../images/help/upi-vpa-and-upi-mobile-payout-sop/image10.jpeg)
 
