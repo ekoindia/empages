@@ -56,7 +56,7 @@ Enter the following:
 - **Recipient Name**  
 - **Enable and allow Location Access**  
 - **Click on Proceed**
-![](../images/help/upi-vpa-and-upi-mobile-payout-sop/image9.jpeg)
+![Recipient details form for UPI Mobile payout including mobile number, name, and location access](../images/help/upi-vpa-and-upi-mobile-payout-sop/image9.jpeg)
 
 ### Step 5: Execute Vendor Payment  
 - Enter the **payment amount** as specified by the vendor  
