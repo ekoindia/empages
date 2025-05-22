@@ -26,6 +26,7 @@ Input the **vendor’s mobile number** associated with the payout request.
 
 ### Step 4: Add Recipient Details  
 Input the following:  
+
 - **Recipient’s Mobile Number**  
 - **Recipient’s Name**  
 - **Select the appropriate UPI App**  
