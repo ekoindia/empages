@@ -6,7 +6,7 @@ title: How to do UPI VPA and UPI Mobile Payout?
 UPI (Unified Payments Interface) is a real-time payment system developed by NPCI, enabling users to transfer money instantly between bank accounts via mobile using UPI ID or UPI-linked mobile number.
 Eko acts as a secure and compliant intermediary platform that allows agents to initiate UPI payouts to vendors. Eko handles verification, fund routing, transaction authentication, and provides real-time settlement while ensuring data privacy and system integrity.
 
-## 1. Start with UPI VPA Payout 
+## Start with UPI VPA Payout 
 
 ### Step 1: Select UPI VPA Option  
 Start the transaction by selecting the **“UPI ID”** payout option on the platform.
