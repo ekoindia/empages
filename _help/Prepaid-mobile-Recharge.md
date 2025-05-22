@@ -13,26 +13,20 @@ title: How to do Prepaid Mobile Recharge?
 * Based on the selected operator, the available recharge plans will be displayed.  
 ![Enter the Customer’s Mobile Number](../images/help/BBPS/Prepaid-mobile-Recharge/prepaidmobilerecharge2.png)
 
-
-
 ### Step 2: Choose Transaction Type
 
 * In the Transaction Type section (meant for the retailer only), the retailer must choose one of the following options from the drop-down menu:  
   * High Commission – Applicable only for recharge amounts of ₹3000 or above.
-  * Instant Commission – Commission is credited instantly but is lower.
-
+  * Instant  – Commission is credited instantly but is lower.
 
 ![Choose Transaction Type](../images/help/BBPS/Prepaid-mobile-Recharge/prepaidmobilerecharge3.png)
-
-
 
 ### Step 3: Enter the Recharge Amount
 
 * In the Amount section, the retailer inputs the exact recharge amount that corresponds with the chosen plan.  
 * This amount must match the one specified by the operator for that particular recharge plan.
+
 ![Enter the Recharge Amount](../images/help/BBPS/Prepaid-mobile-Recharge/prepaidmobilerecharge4.png)
-
-
 
 ### Step 4: Confirm Recharge
 
@@ -40,7 +34,6 @@ title: How to do Prepaid Mobile Recharge?
 * Click Proceed to initiate the transaction.
 
 ![Confirm Recharge](../images/help/BBPS/Prepaid-mobile-Recharge/prepaidmobilerecharge5.jpeg)
-
 
 ---
 
@@ -63,10 +56,6 @@ Once the transaction is successful, the confirmation screen will show the follow
 * Retailer Wallet Balance  
 * Transaction Time
 ![Recharge Summary](../images/help/BBPS/Prepaid-mobile-Recharge/prepaidmobilerecharge6.png)
-
-
-
----
 
 ## Key Points 
 
