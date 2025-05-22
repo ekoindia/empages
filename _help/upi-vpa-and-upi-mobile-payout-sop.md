@@ -43,7 +43,7 @@ Initiate the process by selecting the **“UPI Registered Mobile”** payout opt
 
 ### Step 2: Enter Vendor Mobile Number  
 Input the **vendor’s mobile number** for whom the payout is being initiated.
-![](../images/help/upi-vpa-and-upi-mobile-payout-sop/image7.jpeg)
+![Entering vendor mobile number for UPI Mobile payout](../images/help/upi-vpa-and-upi-mobile-payout-sop/image7.jpeg)
 
 ### Step 3: Select or Add Recipient  
 - Select the recipient from the list if already added.  
