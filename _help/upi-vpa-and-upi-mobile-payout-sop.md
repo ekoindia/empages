@@ -33,7 +33,7 @@ Input the following:
 ### Step 5: Execute Vendor Payment  
 - Enter the **payment amount** to be transferred  
 - Input the **agent’s secret PIN** to authorize and complete the payment
-![](../images/help/upi-vpa-and-upi-mobile-payout-sop/image5.jpeg)
+![Vendor payment screen for UPI VPA payout showing amount and agent PIN fields](../images/help/upi-vpa-and-upi-mobile-payout-sop/image5.jpeg)
 
 ## 2. Start with UPI Mobile Payout
 
