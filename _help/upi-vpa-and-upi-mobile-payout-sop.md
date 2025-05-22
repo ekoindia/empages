@@ -20,7 +20,7 @@ Input the **vendor’s mobile number** associated with the payout request.
 ### Step 3: Select or Add Recipient  
 - Choose the desired recipient from the existing list.  
 - If the recipient does not exist, proceed to add a new recipient.
-![Add Recipient](../images/help/upi-vpa-and-upi-mobile-payout-sop/image3.jpeg)
+![Choosing Recipient for Payout](../images/help/upi-vpa-and-upi-mobile-payout-sop/image3.jpeg)
 
 ### Step 4: Add Recipient Details  
 Input the following:  
@@ -28,27 +28,27 @@ Input the following:
 - **Recipient’s Name**  
 - **Select the appropriate UPI App**  
 - **Enter the UPI ID of the recipient**
-![Recipient details form for UPI VPA payout including mobile number, name, UPI app, and UPI ID fields](../images/help/upi-vpa-and-upi-mobile-payout-sop/image4.jpeg)
+![Enterring Details for Adding Recipient](../images/help/upi-vpa-and-upi-mobile-payout-sop/image4.jpeg)
 
 ### Step 5: Execute Vendor Payment  
 - Enter the **payment amount** to be transferred  
 - Input the **agent’s secret PIN** to authorize and complete the payment
-![Vendor payment screen for UPI VPA payout showing amount and agent PIN fields](../images/help/upi-vpa-and-upi-mobile-payout-sop/image5.jpeg)
+![Payment Amount and Secret Pin Entry](../images/help/upi-vpa-and-upi-mobile-payout-sop/image5.jpeg)
 
 ## Start with UPI Mobile Payout
 
 ### Step 1: Select UPI Registered Mobile Option  
 Initiate the process by selecting the **“UPI Registered Mobile”** payout option.
-![Selecting UPI Registered Mobile option for payout](../images/help/upi-vpa-and-upi-mobile-payout-sop/image6.jpeg)
+![UPI Mobile Option](../images/help/upi-vpa-and-upi-mobile-payout-sop/image6.jpeg)
 
 ### Step 2: Enter Vendor Mobile Number  
 Input the **vendor’s mobile number** for whom the payout is being initiated.
-![Entering vendor mobile number for UPI Mobile payout](../images/help/upi-vpa-and-upi-mobile-payout-sop/image7.jpeg)
+![Vendor Mobile Number](../images/help/upi-vpa-and-upi-mobile-payout-sop/image7.jpeg)
 
 ### Step 3: Select or Add Recipient  
 - Select the recipient from the list if already added.  
 - If not available, proceed to add a new recipient.
-![Selecting or adding a recipient for UPI Mobile payout](../images/help/upi-vpa-and-upi-mobile-payout-sop/image8.jpeg)
+![Choosing Recipient for Payout](../images/help/upi-vpa-and-upi-mobile-payout-sop/image8.jpeg)
 
 ### Step 4: Add Recipient Details  
 Enter the following:  
@@ -56,9 +56,17 @@ Enter the following:
 - **Recipient Name**  
 - **Enable and allow Location Access**  
 - **Click on Proceed**
-![Recipient details form for UPI Mobile payout including mobile number, name, and location access](../images/help/upi-vpa-and-upi-mobile-payout-sop/image9.jpeg)
+![Enterring Details for Adding Recipient](../images/help/upi-vpa-and-upi-mobile-payout-sop/image9.jpeg)
 
 ### Step 5: Execute Vendor Payment  
 - Enter the **payment amount** as specified by the vendor  
 - Enter the **agent’s secret PIN** to authorize and complete the payout
-![Vendor payment screen for UPI Mobile payout showing amount and agent PIN fields](../images/help/upi-vpa-and-upi-mobile-payout-sop/image10.jpeg)
+![Payment Amount and Secret Pin Entry](../images/help/upi-vpa-and-upi-mobile-payout-sop/image10.jpeg)
+
+## Key Points to Remember
+
+- **Ensure correct UPI ID or Mobile Number:** Always double-check the UPI ID or mobile number before initiating the payout to prevent failed or misdirected transactions.
+- **Confidentiality of Agent PIN:** Do not share your agent secret PIN. It is required to securely authorize UPI payments.
+- **Verify UPI App Linkage:** Confirm that the recipient's mobile number is correctly linked to a UPI-enabled application.
+- **Accurate Recipient Information:** Carefully review recipient details when adding or selecting recipients to avoid errors.
+- **Enable Location Access if Required:** For UPI Mobile payouts, ensure location access is enabled when prompted.
