@@ -28,7 +28,7 @@ Input the following:
 - **Recipient’s Name**  
 - **Select the appropriate UPI App**  
 - **Enter the UPI ID of the recipient**
-![Enterring Details for Adding Recipient](../images/help/upi-vpa-and-upi-mobile-payout-sop/image4.jpeg)
+![Entering Details for Adding Recipient](../images/help/upi-vpa-and-upi-mobile-payout-sop/image4.jpeg)
 
 ### Step 5: Execute Vendor Payment  
 - Enter the **payment amount** to be transferred  
@@ -56,7 +56,7 @@ Enter the following:
 - **Recipient Name**  
 - **Enable and allow Location Access**  
 - **Click on Proceed**
-![Enterring Details for Adding Recipient](../images/help/upi-vpa-and-upi-mobile-payout-sop/image9.jpeg)
+![Entering Details for Adding Recipient](../images/help/upi-vpa-and-upi-mobile-payout-sop/image9.jpeg)
 
 ### Step 5: Execute Vendor Payment  
 - Enter the **payment amount** as specified by the vendor  
