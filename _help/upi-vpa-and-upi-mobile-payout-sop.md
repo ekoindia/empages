@@ -48,7 +48,7 @@ Input the **vendor’s mobile number** for whom the payout is being initiated.
 ### Step 3: Select or Add Recipient  
 - Select the recipient from the list if already added.  
 - If not available, proceed to add a new recipient.
-![](../images/help/upi-vpa-and-upi-mobile-payout-sop/image8.jpeg)
+![Selecting or adding a recipient for UPI Mobile payout](../images/help/upi-vpa-and-upi-mobile-payout-sop/image8.jpeg)
 
 ### Step 4: Add Recipient Details  
 Enter the following:  
