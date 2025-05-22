@@ -35,7 +35,7 @@ Input the following:
 - Input the **agent’s secret PIN** to authorize and complete the payment
 ![Vendor payment screen for UPI VPA payout showing amount and agent PIN fields](../images/help/upi-vpa-and-upi-mobile-payout-sop/image5.jpeg)
 
-## 2. Start with UPI Mobile Payout
+## Start with UPI Mobile Payout
 
 ### Step 1: Select UPI Registered Mobile Option  
 Initiate the process by selecting the **“UPI Registered Mobile”** payout option.
