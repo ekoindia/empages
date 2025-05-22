@@ -2,6 +2,10 @@
 layout: help
 title: How to do Prepaid Mobile Recharge?  
 ---
+## What is prepaid mobile recharge?
+
+A service that allows retailers to recharge a customer’s prepaid mobile number with a selected plan or amount.
+
 ## Start Prepaid Mobile Recharge
 
 ### Step 1: Enter the Customer’s Mobile Number
@@ -11,26 +15,27 @@ title: How to do Prepaid Mobile Recharge?
 * The retailer must confirm with the customer whether the operator shown is correct.  
 * If incorrect, the retailer can manually select the correct operator from the drop-down menu.  
 * Based on the selected operator, the available recharge plans will be displayed.  
-![Enter the Customer’s Mobile Number](../images/help/BBPS/Prepaid-mobile-Recharge/prepaidmobilerecharge2.png)
+![Enter the Customer’s Mobile Number](../images/help/BBPS/Prepaid-mobile-Recharge/Prepaid_1.png)
 
 ### Step 2: Choose Transaction Type
 
-* In the Transaction Type section (meant for the retailer only), the retailer must choose one of the following options from the drop-down menu:  
+* In the Transaction Type dropdown (meant for the retailer only), the retailer must choose one of the following options from the drop-down menu:  
   * High Commission – Applicable only for recharge amounts of ₹3000 or above.
   * Instant  – Commission is credited instantly but is lower.
 
-![Choose Transaction Type](../images/help/BBPS/Prepaid-mobile-Recharge/prepaidmobilerecharge3.png)
+![Choose Transaction Type](../images/help/BBPS/Prepaid-mobile-Recharge/prepaid_2.png)
 
 ### Step 3: Enter the Recharge Amount
 
-* In the Amount section, the retailer inputs the exact recharge amount that corresponds with the chosen plan.  
-* This amount must match the one specified by the operator for that particular recharge plan.
+* If the retailer selects one of the available plans, the plan amount is automatically filled in the **Amount** field.
+Otherwise, the retailer can manually enter the exact recharge amount.
+ 
 
 ![Enter the Recharge Amount](../images/help/BBPS/Prepaid-mobile-Recharge/prepaidmobilerecharge4.png)
 
 ### Step 4: Confirm Recharge
 
-* The retailer enters their secret PIN in the designated field.  
+* The retailer enters their secret PIN in the designated field.
 * Click Proceed to initiate the transaction.
 
 ![Confirm Recharge](../images/help/BBPS/Prepaid-mobile-Recharge/prepaidmobilerecharge5.jpeg)
@@ -39,7 +44,7 @@ title: How to do Prepaid Mobile Recharge?
 
 ## Recharge Confirmation Screen
 
-### Step 1: View Recharge Summary
+### View Recharge Summary
 
 Once the transaction is successful, the confirmation screen will show the following details:
 
@@ -55,6 +60,7 @@ Once the transaction is successful, the confirmation screen will show the follow
 * Commission Earned  
 * Retailer Wallet Balance  
 * Transaction Time
+
 ![Recharge Summary](../images/help/BBPS/Prepaid-mobile-Recharge/prepaidmobilerecharge6.png)
 
 ## Key Points 
