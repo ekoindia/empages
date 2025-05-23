@@ -14,7 +14,7 @@ This service enables retailers to pay a customer’s electricity bill across Ind
 - The retailer can select a previous transaction entry to autofill the rest of the details.
 - Otherwise, select the appropriate **Service Provider** from the dropdown, as informed by the customer (e.g. UPPCL, TSSPDCL, BSES, etc.).
 
-![customer details screen](../images/help/BBPS/How-to-Pay-Electricity-Bill/electricity_bill1.jpg)
+![customer details screen](../images/help/BBPS/How-to-Pay-Electricity-Bill/electricity_bill_1.jpg)
 
 - Next, the **retailer** chooses the **Transaction Type**:
   - **Instant**: The payment is processed immediately, ensuring real-time confirmation. This option typically carries a lower commission.
@@ -23,12 +23,12 @@ This service enables retailers to pay a customer’s electricity bill across Ind
 - The **Bill Account Number** is then entered by the **retailer**.  
   This is the customer's unique identifier (such as a Consumer ID or CA Number) for electricity bill payments.
 
-  ![customer details screen](../images/help/BBPS/How-to-Pay-Electricity-Bill/electricity_billl2_.jpg)
+  ![customer details screen](../images/help/BBPS/How-to-Pay-Electricity-Bill/electricity_bill_2.jpg)
 
 - The **retailer** also enters the **Customer’s Name** as per the details on the electricity bill.
 - After verifying all entries, the **retailer** clicks on **Proceed** to fetch the bill details.
 
-  ![customer details screen](../images/help/BBPS/How-to-Pay-Electricity-Bill/Electricity_bill3.png)
+  ![customer details screen](../images/help/BBPS/How-to-Pay-Electricity-Bill/electricity_bill_whole.jpg)
 
 ## Step 2: Bill Payment 
 

@@ -16,7 +16,7 @@ A service that allows retailers to recharge a customer’s prepaid mobile number
 * If incorrect, the retailer can manually select the correct operator from the drop-down menu.  
 * Based on the selected operator, the available recharge plans will be displayed.
 
-![Enter the Customer’s Mobile Number](../images/help/BBPS/Prepaid-mobile-Recharge/Prepaid_1.png)
+![Enter the Customer’s Mobile Number](../images/help/BBPS/Prepaid-mobile-Recharge/prepaid_1.jpg)
 
 ### Step 2: Choose Transaction Type
 
@@ -24,7 +24,7 @@ A service that allows retailers to recharge a customer’s prepaid mobile number
   * High Commission – Applicable only for recharge amounts of ₹3000 or above.
   * Instant – Commission is credited instantly but is lower.
 
-![Choose Transaction Type](../images/help/BBPS/Prepaid-mobile-Recharge/prepaid_2.png)
+![Choose Transaction Type](../images/help/BBPS/Prepaid-mobile-Recharge/prepaid_2.jpg)
 
 ### Step 3: Enter the Recharge Amount
 
