@@ -26,7 +26,7 @@ A feature that enables retailers to pay a customer’s electricity bill using th
 - The **Bill Account Number** is then entered by the **retailer**.  
   This is the customer's unique identifier (such as a Consumer ID or CA Number) for electricity bill payments.
 
-  ![customer details screen](../images/help/BBPS/How-to-Pay-Electricity-Bill/electricity_billl2.jpg)
+  ![customer details screen](../images/help/BBPS/How-to-Pay-Electricity-Bill/electricity_billl2_.jpg)
 
 
 - The **retailer** also enters the **Customer’s Name** as per the details on the electricity bill.
