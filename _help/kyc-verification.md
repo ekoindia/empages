@@ -3,7 +3,7 @@ layout: help
 title: "How to do KYC (Know Your Customer)?"
 ---
 
-## How to verify PAN ?
+## How to verify PAN?
 
 ### PAN Lite
 
