@@ -60,7 +60,7 @@ PAN Advanced Verification offers comprehensive PAN-holder details, including con
 - Please refer to the content table below.
 
 
-   | **Name**                        | **Description**                                      |
+| **Name**                        | **Description**                                      |
 |--------------------------------|------------------------------------------------------|
 | KYC Status                     | The current status of the Know Your Customer process |
 | PAN Advanced Verification Result | The detailed result of PAN verification process      |
@@ -111,7 +111,7 @@ Passport Verification validates a user’s passport file number and date of birt
 - It displays the retrieved passport details such as file number, name, date of birth, and application info.
 - Please refer to the content table below.
 
-  | Name                     | Description                                                      |
+| Name                     | Description                                                      |
 |--------------------------|------------------------------------------------------------------|
 | File Number              | Unique alphanumeric code identifying the passport application.   |
 | Name                     | Name of the passport holder.                                     |
@@ -140,7 +140,7 @@ Employee Verification confirms an individual’s employment details by matching 
 - The result screen gives a consolidated view of personal identity, employment history, recent activity, and employer verification—all tied to the UAN.
 - Please refer to the content table below.
 
-  | **Name**                    | **Description**                                                |
+| **Name**                    | **Description**                                                |
 |-----------------------------|----------------------------------------------------------------|
 | Employee Verification       | Process to verify employment information of an employee        |
 | Verification Request Status | Confirmation that the verification request was successfully submitted |
@@ -390,7 +390,7 @@ Voter ID Verification confirms the validity of an individual’s Electoral Photo
 - It displays the verified voter details such as name, age, gender, father’s name, address, and constituency information.
 - Please refer to the content table below.
 
-  | Name                             | Description                                                                                   |
+| Name                             | Description                                                                                   |
 |----------------------------------|-----------------------------------------------------------------------------------------------|
 | Name                             | Name of the individual as present in the voter ID card.                                       |
 | Name in Regional Language        | Name of the individual in the individual’s regional language as present in the voter ID card. |
@@ -445,7 +445,7 @@ GSTIN Verification validates a business’s Goods and Services Tax Identificatio
 - It displays the verified GST details such as business name, registration status, GSTIN, state, and registration type.
 - Please refer to the content table below.
 
-  | **Name**                     | **Description**                                                                                   |
+| **Name**                     | **Description**                                                                                   |
 |-----------------------------|---------------------------------------------------------------------------------------------------|
 | GSTIN                       | The Goods and Services Tax Identification Number of the business.                                |
 | Legal Name of Business      | The legal name of the business as registered under GST.                                          |
