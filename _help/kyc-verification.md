@@ -59,6 +59,7 @@ PAN Advanced Verification offers comprehensive PAN-holder details, including con
 - The results card displays all the detailed PAN holder information at a glance—including PAN, name, DOB, match statuses, contact details, KYC status,   and any additional notes.
 - Please refer to the content table below.
 
+
    | **Name**                        | **Description**                                      |
 |--------------------------------|------------------------------------------------------|
 | KYC Status                     | The current status of the Know Your Customer process |
