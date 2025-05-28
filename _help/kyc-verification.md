@@ -142,20 +142,20 @@ Employee Verification confirms an individual’s employment details by matching 
 The result screen shows a consolidated view of personal identity, employment history, recent activity, and employer verification—all tied to the UAN:
 
 | Name                        | Description                                                    |
-|-----------------------------|----------------------------------------------------------------||
-| Source Score                | The reliability score of the data source                        |
-| Name                        | Full name of the employee                                       |
-| Date of Birth               | Employee's date of birth                                        |
-| Gender                      | Gender of the employee                                          |
-| Confidence Score            | Overall confidence level in the basic details verification      |
-| Aadhaar Verified            | Status indicating if Aadhaar has been verified                  |
-| Member ID                   | Unique membership identifier of the employee                    |
-| Establishment ID            | Identifier for the employer or establishment                    |
-| Employer Name               | Name of the employer or organization                            |
-| Joining Date                | Date when the employee joined the organization                  |
+|-----------------------------|----------------------------------------------------------------|
+| Source Score                | The reliability score of the data source                       |
+| Name                        | Full name of the employee                                      |
+| Date of Birth               | Employee's date of birth                                       |
+| Gender                      | Gender of the employee                                         |
+| Confidence Score            | Overall confidence level in the basic details verification     |
+| Aadhaar Verified            | Status indicating if Aadhaar has been verified                 |
+| Member ID                   | Unique membership identifier of the employee                   |
+| Establishment ID            | Identifier for the employer or establishment                   |
+| Employer Name               | Name of the employer or organization                           |
+| Joining Date                | Date when the employee joined the organization                 |
 | Employer Confidence Score   | Confidence score assigned by the employer on employee data     |
-| Recent Employment Details   | Information about the latest employment status                  |
-| Currently Employed          | Indicates if the employee is currently employed (Yes/No)        |
+| Recent Employment Details   | Information about the latest employment status                 |
+| Currently Employed          | Indicates if the employee is currently employed (Yes/No)       |
 
 ![Employee Verification Results Page](../images/help/KYC/employee11.jpg)
 ![Employee Verification Results Page](../images/help/KYC/employee22.jpg)
