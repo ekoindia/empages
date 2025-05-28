@@ -157,7 +157,9 @@ The result screen shows a consolidated view of personal identity, employment his
 | Recent Employment Details   | Information about the latest employment status                  |
 | Currently Employed          | Indicates if the employee is currently employed (Yes/No)        |
 
-![Employee Verification Results Page](../images/help/KYC/employee2.png)
+![Employee Verification Results Page](../images/help/KYC/employee11.jpg)
+![Employee Verification Results Page](../images/help/KYC/employee22.jpg)
+
 
 ---
 
@@ -235,7 +237,10 @@ After a successful verification the following details are displayed, including p
 |                           | 9. Photo – The photo of the individual                                                             |
 |                           | 10. COV Details – The details of the class of vehicle (COV)                                        |
 
-![Driving License Verification Result](../images/help/KYC/dl0(1).png)
+![Driving License Verification Result](../images/help/KYC/dl111.png)
+![Driving License Verification Result 1](../images/help/KYC/dl222.png)
+
+
 
 ---
 
