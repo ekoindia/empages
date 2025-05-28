@@ -10,7 +10,7 @@ We have two variations of PAN verification API: PAN Lite & PAN Advanced.
 ### 1.a. PAN Lite
 
 #### What is PAN Lite Verification?
-PAN Lite Verification is a basic process that validates a user’s PAN number, name, and date of birth against the official database. It provides key details such as PAN status, name and DOB match results, and Aadhaar linking status.
+PAN Lite Verification is used to validates a user’s PAN number, name, and date of birth against the official database. It provides key details such as PAN status, name and DOB match results, and Aadhaar linking status.
 
 #### Form Input
 1. In the **PAN Number** field, enter the 10-character PAN (e.g., `ABCDE1234F`).
@@ -21,20 +21,38 @@ PAN Lite Verification is a basic process that validates a user’s PAN number, n
 ![PAN Lite Verification Form](../images/help/KYC/panlite.png)
 
 #### Result
-- The results card displays all the detailed PAN holder information at a glance—including PAN, Name, DOB, match statuses, contact details, KYC status.
-- Please refer to the content table below.
+
+It shows the following information about the PAN holder:
 
 | Name                   | Description                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
-| Pan number                   | The unique 10-character alphanumeric identifier of the individual issued by the Income Tax Department. |
+| PAN number             | The unique 10-character alphanumeric identifier of the individual issued by the Income Tax Department. |
 | Name                   | The name of the individual as per the PAN information.                      |
-| DOB                    | The date of birth of the individual as per the PAN information. The format is YYYY-MM-DD. |
-| Name Match             | The result of name match verification. If the name entered matches with the name present in the PAN information, you receive Y. The possible values are ['Y', 'N', null]. |
-| Dob Match              | The result of the date of birth verification. If the date of birth of the individual matches with the date of birth present in the PAN information, you receive Y. The possible values are ['Y', 'N', null]. |
-| Pan Status Code            | The status of the PAN information. See the table below for details.         |
-| Status                 | The status of PAN. Possible Values are ['VALID','INVALID'].                 |
-| Aadhaar Seeding Status | Whether the individual linked the aadhaar information with PAN. The possible values are ['Y', 'R', 'NA', null]. |
-| Aadhaar Status Desc | Additional information of the linking of aadhaar and PAN card.         |
+| DOB                    | The date of birth of the individual as per the PAN information. |
+| Name Match             | The result of name match verification. If the name entered matches with the name present in the PAN information, it showa Y, otherwise N. |
+| DOB Match              | The result of the date of birth verification. If the date of birth of the individual matches with the date of birth present in the PAN information, it shows Y, otherwise N. |
+| PAN Status Code        | The status of the PAN information. See the table below for details.         |
+| Status                 | The status of PAN, either 'VALID' or 'INVALID'.                 |
+| Aadhaar Seeding Status | Whether the individual linked the Aadhaar information with PAN. |
+| Aadhaar Status Desc    | Additional information of the linking of Aadhaar and PAN cards. |
+
+**Values for `PAN Status Code`:**
+| PAN Status Code | Description                                                           |
+|------------|----------------------------------------------------------------------------|
+| E          | The entered PAN information is valid.                                      |
+| EC         | The entered PAN information exists and is valid but marked as Acquisition. |
+| N          | The entered PAN information does not exist in the database.                |
+| X          | The entered PAN information has been deactivated.                          |
+| F          | The entered PAN information is fake.                                       |
+| D          | The entered PAN information has been deleted.                              |
+| EA         | The entered PAN information is valid but marked as Amalgamation.           |
+| ED         | The entered PAN information is valid but marked as Death.                  |
+| EI         | The entered PAN information is valid but marked as Dissolution.            |
+| EL         | The entered PAN information is valid but marked as Liquidated.             |
+| EM         | The entered PAN information is valid but marked as Merger.                 |
+| EP         | The entered PAN information is valid but marked as Partition.              |
+| ES         | The entered PAN information is valid but marked as Split.                  |
+| EU         | The entered PAN information is valid but marked as Under Liquidation.      |
 
 ![PAN Lite Verification results screen](../images/help/KYC/pan-lite-result.png)
 
@@ -52,13 +70,12 @@ PAN Advanced Verification offers comprehensive PAN-holder details, including con
 ![PAN Advanced Verification Form](../images/help/KYC/panadvanced.png)
 
 #### Result
-- The results card displays all the detailed PAN holder information at a glance—including PAN, name, DOB, match statuses, contact details, KYC status,   and any additional notes.
-- Please refer to the content table below.
 
+It shows the following information about the PAN holder:
 
-| **Name**                        | **Description**                                      |
+| Name                           | Description                                     |
 |--------------------------------|------------------------------------------------------|
-| KYC Status                     | The current status of the Know Your Customer process |
+| KYC Status                     | The current status of the `Know Your Customer` process |
 | Personal Information           | Section containing personal details of the individual |
 | PAN Number                    | The unique Permanent Account Number issued to the individual |
 | Provided Name                 | The name as provided by the individual                |
@@ -74,7 +91,6 @@ PAN Advanced Verification offers comprehensive PAN-holder details, including con
 | Masked Aadhaar               | Partially hidden Aadhaar number for privacy             |
 | Aadhaar Linked               | Indicates whether Aadhaar is linked to the PAN (Yes/No) |
 
-
 ![PAN Advanced Verification results screen](../images/help/KYC/pan(1).png)
 
 ---
@@ -85,11 +101,9 @@ PAN Advanced Verification offers comprehensive PAN-holder details, including con
 Passport Verification validates a user’s passport file number and date of birth against the government database. It confirms the passport holder’s identity and application details.
 
 ### Form Input
-
-- Go to the **Passport Verification** section on the portal.
-- Enter the following mandatory fields:
-  - **File Number** – as printed on the passport (e.g., PA1079341954215).
-  - **Date of Birth** – in DD/MM/YYYY format.
+- Select **Passport Verification**.
+- Enter **File Number** as printed on the passport (e.g., PA1079341954215).
+- Select **Date of Birth** of the individual.
 - Optionally, enter the **Name** exactly as it appears on the passport.
 - Click on the **Verify Passport** button to proceed.
 
@@ -97,17 +111,15 @@ Passport Verification validates a user’s passport file number and date of birt
 
 ### Result
 
-- After submission, the **Passport Verification Results** screen will appear.
-- It displays the retrieved passport details such as file number, name, date of birth, and application info.
-- Please refer to the content table below.
+It shows the following information about the Passport:
 
 | Name                     | Description                                                      |
 |--------------------------|------------------------------------------------------------------|
-| File Number              | Unique alphanumeric code identifying the passport application.   |
-| Name                     | Name of the passport holder.                                     |
-| DOB                      | Date of birth of the passport holder.                            |
-| Application Type         | Type of passport application.                                    |
-| Application Date| Date when the passport application was received.                 |
+| File Number              | Unique alphanumeric code identifying the Passport application.   |
+| Name                     | Name of the Passport holder.                                     |
+| DOB                      | Date of birth of the Passport holder.                            |
+| Application Type         | Type of Passport application.                                    |
+| Application Date         | Date when the Passport application was received.                 |
 
 ![Passport Verification Results Page](../images/help/KYC/passport22.png)
 
@@ -116,35 +128,27 @@ Passport Verification validates a user’s passport file number and date of birt
 ## 3. How to do Employee Verification?
 
 ### What is Employee Verification?
-Employee Verification confirms an individual’s employment details by matching submitted information with official records. It includes identity checks, UAN data, employment history, and Aadhaar verification.
+Employee Verification confirms an individual’s employment details by matching submitted information with official records. It includes identity checks, UAN data, employment history, and Aadhaar verification information.
 
 ### Form Input
 
-- You can complete any or all fields (Phone Number, PAN, UAN, Date Of Birth, Employee Name, Employer Name), but providing the **UAN** alone is sufficient.
+- You can fill any or all fields (Phone Number, PAN, UAN, Date Of Birth, Employee Name, Employer Name), but providing the **UAN** alone is sufficient.
 - Once you’ve entered your data, click **Verify Employee** to submit.
 
 ![Employee Verification Input Page](../images/help/KYC/employee.png)
 
 ### Result
 
-- The result screen gives a consolidated view of personal identity, employment history, recent activity, and employer verification—all tied to the UAN.
-- Please refer to the content table below.
+The result screen shows a consolidated view of personal identity, employment history, recent activity, and employer verification—all tied to the UAN:
 
-| **Name**                    | **Description**                                                |
-|-----------------------------|----------------------------------------------------------------|
-| Employee Verification       | Process to verify employment information of an employee        |
-| Verification Request Status | Confirmation that the verification request was successfully submitted |
-| Input Details               | Section containing entered employee details for verification    |
-| UAN                         | Universal Account Number of the employee                        |
-| UAN Details                 | Detailed information related to the employee’s UAN             |
+| Name                        | Description                                                    |
+|-----------------------------|----------------------------------------------------------------||
 | Source Score                | The reliability score of the data source                        |
-| Basic Details               | Section containing fundamental personal information            |
 | Name                        | Full name of the employee                                       |
 | Date of Birth               | Employee's date of birth                                        |
 | Gender                      | Gender of the employee                                          |
-| Confidence Score            | Overall confidence level in the verification results           |
+| Confidence Score            | Overall confidence level in the basic details verification      |
 | Aadhaar Verified            | Status indicating if Aadhaar has been verified                  |
-| Employment Details          | Section containing employment-specific information             |
 | Member ID                   | Unique membership identifier of the employee                    |
 | Establishment ID            | Identifier for the employer or establishment                    |
 | Employer Name               | Name of the employer or organization                            |
@@ -152,7 +156,6 @@ Employee Verification confirms an individual’s employment details by matching 
 | Employer Confidence Score   | Confidence score assigned by the employer on employee data     |
 | Recent Employment Details   | Information about the latest employment status                  |
 | Currently Employed          | Indicates if the employee is currently employed (Yes/No)        |
-
 
 ![Employee Verification Results Page](../images/help/KYC/employee2.png)
 
@@ -164,19 +167,15 @@ Employee Verification confirms an individual’s employment details by matching 
 CIN (Corporate Identification Number) Verification is used to retrieve verified company and director information by providing a valid CIN. It ensures accurate identification of registered companies in India and promotes transparency.
 
 ### Form Input
-- Go to the **CIN Verification** section under KYC Verification Tools.
 - Enter a valid Corporate Identification Number (CIN) in the input field.
 - Click the **Verify CIN** button.
 
 ![CIN Verification Interface](../images/help/KYC/cin.png)
 
 ### Result
-- Upon successful verification, company and director details will be displayed, including company name, registration number, incorporation date.
-- Please refer to the content table below.
-
+Upon successful verification, company and director details will be displayed, including company name, registration number, incorporation date:
 | Name                  | Description                                                                                  |
 |-----------------------|----------------------------------------------------------------------------------------------|
-| CIN                   | Entered CIN information.                                                                     |
 | Company Name          | Name of the company registered under the Ministry of Corporate Affairs.                      |
 | Registration Number   | Registration number of the company.                                                          |
 | Incorporation Date    | Date of incorporation of the company.                                                        |
@@ -190,7 +189,6 @@ CIN (Corporate Identification Number) Verification is used to retrieve verified 
 |                       | 4. DIN – Unique identification number assigned to the individual appointed as director       |
 |                       | 5. Name – Name of the director                                                               |
 
-
 ![CIN Verification Results](../images/help/KYC/cin2.png)
 
 ---
@@ -198,20 +196,19 @@ CIN (Corporate Identification Number) Verification is used to retrieve verified 
 ## 5. How to Verify a Driving License?
 
 ### What is Driving License Verification?
-Driving License Verification is used to authenticate a driving license by validating key information such as license number, date of birth, vehicle class, and validity details. It plays a crucial role in KYC and onboarding processes.
+It is used to authenticate a driving license by validating key information such as license number, date of birth, vehicle class, and validity details. It plays a crucial role in KYC and onboarding processes.
 
 ### Form Input
 
 1. Enter the **Driving License Number**
-2. Enter the **Date of Birth** in `mm/dd/yyyy` format.
+2. Select the **Date of Birth**.
 3. Click on the **Verify License** button.
 
 ![Driving License Verification Result](../images/help/KYC/dl1.png)
 
 ### Result
 
-- This screen displays the verified license details, including personal information, license status, validity period, address, and authorized vehicles.
-- Please refer to the content table below.
+After a successful verification the following details are displayed, including personal information, license status, validity period, address, and authorized vehicles:
 
 | Name                      | Description                                                                                          |
 |---------------------------|------------------------------------------------------------------------------------------------------|
@@ -245,7 +242,7 @@ Driving License Verification is used to authenticate a driving license by valida
 ## 6. How to Verify Vehicle RC (Registration Certificate)?
 
 ### What is Vehicle RC Verification?
-Vehicle RC Verification is used to authenticate and retrieve the registration details of a vehicle using its registration number. This helps confirm the legitimacy, ownership, and legal status of the vehicle—crucial for compliance and KYC processes.
+Vehicle RC Verification is used to authenticate and retrieve the registration details of a vehicle using its registration number. This helps confirm the legitimacy, ownership, and legal status of the vehicle – crucial for compliance and KYC processes.
 
 ### Form Input
 
@@ -256,14 +253,10 @@ Vehicle RC Verification is used to authenticate and retrieve the registration de
 
 ### Result
 
-- This screen displays the key registration details of the vehicle, such as owner name, registration date, vehicle class, fuel type, and validity.
-- Please refer to the content table below.
+The following details of the vehicle are displayed, such as, owner name, registration date, vehicle class, fuel type, and validity:
 
-| **Name**                        | **Description**                                                                                   |
-|---------------------------------|---------------------------------------------------------------------------------------------------|
-| Reference Id                    | The unique ID created for reference purposes.                                                    |
-| Status                          | The status of the vehicle RC information.                                                        |
-| Vehicle Number                  | The registration number of the vehicle.                                                          |
+| Name                            | Description                                                                                      |
+|---------------------------------|--------------------------------------------------------------------------------------------------|
 | Registration Date               | The date of registration of the vehicle.                                                         |
 | RC Expiry Date                  | The date until which the registration of the vehicle is valid.                                   |
 | Registration Authority          | The name of the registration authority.                                                          |
@@ -284,15 +277,8 @@ Vehicle RC Verification is used to authenticate and retrieve the registration de
 | Unladen Weight                  | The unladen vehicle weight in kilograms.                                                         |
 | Wheelbase                       | The distance between the front and rear axles in mm.                                             |
 | Seats                           | The number of seats in the vehicle.                                                              |
-| Present Address                 | The current address of the owner.                                                                |
-| Present Address City            | City as part of the present address.                                                             |
-| Present Address District        | District as part of the present address.                                                         |
-| Present Address State           | State as part of the present address.                                                            |
-| Present Address Pincode         | Pincode as part of the present address.                                                          |
-| Permanent Address               | The permanent address of the owner.                                                              |
-| Permanent Address City          | City as part of the permanent address.                                                           |
-| Permanent Address District      | District as part of the permanent address.                                                       |
-| Permanent Address State         | State as part of the permanent address.                                                          |
+| Present Address                 | The current address of the owner, including city, district, state and pincode.                   |
+| Permanent Address               | The permanent address of the owner, including city, district, state and pincode.                 |
 
 ![Vehicle RC Verification Result](../images/help/KYC/car-rc.png)
 
@@ -305,9 +291,7 @@ Voter ID Verification confirms the validity of an individual’s Electoral Photo
 
 ### Form Input
 
-- Go to the **Voter ID Verification** section on the portal.
-- Enter the following mandatory field:
-  - **EPIC Number** – as printed on the Voter ID card (e.g., TXL1456136).
+- Enter the **EPIC Number** as printed on the Voter ID card (e.g., TXL1456136).
 - Optionally, enter the **Name** of the voter for additional verification.
 - Click on the **Verify Voter ID** button to proceed.
 
@@ -324,21 +308,20 @@ Voter ID Verification confirms the validity of an individual’s Electoral Photo
 | Name                             | Name of the individual as present in the voter ID card.                                       |
 | Name in Regional Language        | Name of the individual in the individual’s regional language as present in the voter ID card. |
 | Age                              | Age of the voter ID holder as present in the voter ID card.                                   |
+| Gender                           | Gender of the individual as present in the voter ID card.                                     |
 | Father Name                      | Father’s name of the individual as present in the voter ID card.                              |
 | Father Name in Regional Language | Father’s name in the individual’s regional language as present in the voter ID card.          |
 | DOB                              | Date of birth of the individual as present in the voter ID card.                              |
-| Gender                           | Gender of the individual as present in the voter ID card.                                     |
 | Address                          | Address of the individual as present in the voter ID card.                                    |
-| Split Address                    | Address information of the individual in separate components. (Has additional fields)         |
 | EPIC Number                      | EPIC number of the individual as present in the voter ID card.                                |
 | State                            | Name of the state as present in the voter ID card.                                            |
 | Assembly Constituency Number     | Number associated with the assembly constituency as present in the voter ID card.             |
 | Assembly Constituency            | Name of the assembly constituency as present in the voter ID card.                            |
-| Parliamentary Constituency Number | Number associated with the parliamentary constituency as present in the voter ID card.        |
+| Parliamentary Constituency Number | Number associated with the parliamentary constituency as present in the voter ID card.       |
 | Parliamentary Constituency       | Name of the parliamentary constituency as present in the voter ID card.                       |
 | Part Details                     | Combination of part number and part name in the electoral roll.                               |
 | Serial Number                    | Serial number as present in the voter ID card.                                                |
-| Polling Station                  | Place where the individual cast votes during elections.                                       |
+| Polling Station                  | Place where the individual is registered to cast votes during elections.                      |
 
 ![Voter ID Verification Result](../images/help/KYC/voterid.png)
 
@@ -346,33 +329,29 @@ Voter ID Verification confirms the validity of an individual’s Electoral Photo
 
 ## 8. How to Verify GSTIN?
 
-### 8.a. GSTIN Verfication.
+### 8.a. GSTIN Verfication
 
 #### What is GSTIN Verification?
-GSTIN Verification validates a business’s Goods and Services Tax Identification Number (GSTIN) by cross-referencing it with the official GST database. It confirms the authenticity, registration status, and associated details of the business.
+this service is used to validate a business’s GSTIN (Goods and Services Tax Identification Number) by cross-referencing it with the official GST database. It confirms the authenticity, registration status, and associated details of the business.
 
 #### Form Input
 
-- Go to the **GSTIN Verification** section on the portal.
-- Enter the following mandatory fields:
-  - **Business Name** – as registered for GST.
-  - **GSTIN** – the 15-digit GST number (e.g., 06AANCB4495L1Z2).
+- Enter **Business Name** as registered for GST.
+- In the **GSTIN** field, enter the 15-digit GST number (e.g., 06AANCB4495L1Z2).
 - Click on the **Verify GSTIN** button to proceed.
 
 ![GSTIN Verification UI](../images/help/KYC/gstin1.png)
 
 #### Result
 
-- After submission, the **GSTIN Verification Result** screen will appear.
-- It displays the verified GST details such as business name, registration status, GSTIN, state, and registration type.
-- Please refer to the content table below.
+Upon successful verification, it displays the verified GST details such as business name, registration status, GSTIN, state, and registration type:
 
-| **Name**                     | **Description**                                                                                   |
-|-----------------------------|---------------------------------------------------------------------------------------------------|
-| GSTIN                       | The Goods and Services Tax Identification Number of the business.                                |
+| Name                        | Description                                                                                      |
+|-----------------------------|--------------------------------------------------------------------------------------------------|
+| GSTIN                       | The `Goods and Services Tax Identification Number` of the business.                              |
 | Legal Name of Business      | The legal name of the business as registered under GST.                                          |
 | GSTIN Status                | The current status of the GSTIN (e.g., Active, Cancelled).                                       |
-| Valid                       | Indicates whether the GSTIN is valid (true or false).                                            |
+| Valid                       | Indicates whether the GSTIN is valid (Yes or No).                                                |
 | Constitution of Business    | The type or constitution of the business (e.g., Private Limited, Proprietorship, etc.).          |
 | Taxpayer Type               | The type of taxpayer (e.g., Regular, Composition, Casual).                                       |
 | State Jurisdiction          | The name of the state-level tax office that has jurisdiction over the business.                 |
@@ -384,54 +363,26 @@ GSTIN Verification validates a business’s Goods and Services Tax Identificatio
 
 ![GSTIN Verification Result](../images/help/KYC/gstinverification2.png)
 
-### 8.b. Fetch GSTINs linked to a PAN.
+### 8.b. Fetch GSTINs linked to a PAN
 
 #### What is GSTINs by PAN?
-The GSTINs by PAN tool enables retrieval of all active GST registrations linked to a specific Permanent Account Number (PAN). This helps identify every business entity registered under that PAN across different states or jurisdictions.
+The service enables retrieval of all active GST registrations linked to a specific PAN (Permanent Account Number). This helps identify every business entity registered under that PAN across different states or jurisdictions.
 
 #### Form Input
 
-- Go to the **GSTINs by PAN** section on the portal.
-- Enter the following mandatory field:
-  - **PAN** – the 10-character PAN (e.g., AANCB449XL).
+- Enter the 10-character **PAN** (e.g., ABCDE1234F).
 - Click on the **Fetch GSTINs** button to proceed.
 
 ![GSTINs by PAN UI](../images/help/KYC/pan_gst.png)
 
 #### Result
 
-- After submission, the **GSTINs by PAN Result** screen will appear.
-- It displays all GSTINs linked to the entered PAN along with their registration status, type, and state.
-- Please refer to the content table below.
+Upon successful validation of the PAN, it shows a list of all linked GSTINs with the following details.
 
-| **Name**                 | **Description**                                                  |
-|--------------------------|------------------------------------------------------------------|
-| Pan                      | The entered PAN information in the request                       |
-| Gstin List               | The list of GSTIN associated with the entered PAN                |
-| Gstin        | The GSTIN information                                            |
-| Status       | The status of the GSTIN associated with the entered PAN          |
-| State        | The name of the state                                            |
+| **Name**                 | **Description**          |
+|--------------------------|--------------------------|
+| GSTIN        | The GSTIN linked to the PAN          |
+| Status       | The status of the GSTIN (eg, ACTICE) |
+| State        | The name of the state where the GSTIN is registered |
 
 ![GSTINs by PAN Result](../images/help/KYC/gstin.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
