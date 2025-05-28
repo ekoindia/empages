@@ -3,11 +3,212 @@ layout: help
 title: "How to do KYC (Know Your Customer)?"
 ---
 
-## 1. How to verify PAN?
+### KYC (Know Your Customer)
+
+**KYC** stands for **Know Your Customer**. It is a process used by **banks**, **financial institutions**, **government agencies**, and other **regulated entities** to verify the identity of their clients before or during the start of a business relationship.
+
+KYC involves collecting and verifying identity documents and personal information.
+
+- KYC verifications include:
+- **CIN verification**, **Driving License verification**, **Employee verification**, **GSTIN verification**, **PAN verification**, **Passport verification**, **Voter ID verification**, and **Vehicle RC verification** — all of which can be performed as part of the KYC process.
+
+![KYC Main screen](../images/help/KYC/kycmain.jpg)
+
+---
+
+## 1. How to Verify CIN (Customer Identification Number)?
+
+### What is CIN Verification?
+CIN (Corporate Identification Number) Verification is used to retrieve verified company and director information by providing a valid CIN. It ensures accurate identification of registered companies in India and promotes transparency.
+
+### Form Input
+- Enter a valid Corporate Identification Number (CIN) in the input field.
+- Click the **Verify CIN** button.
+
+![KYC CIN](../images/help/KYC/cin.png)
+
+### Result
+Upon successful verification, company and director details will be displayed, including company name, registration number, incorporation date:
+| Name                  | Description                                                                                  |
+|-----------------------|----------------------------------------------------------------------------------------------|
+| Company Name          | Name of the company registered under the Ministry of Corporate Affairs.                      |
+| Registration Number   | Registration number of the company.                                                          |
+| Incorporation Date    | Date of incorporation of the company.                                                        |
+| CIN Status            | Granular level status of the CIN information.                                                |
+| Email                 | Email ID of the company registered under the Ministry of Corporate Affairs.                  |
+| Country               | Country where the company is located.                                                        |
+| Director Details      | Details of the directors associated with the company, each containing:                       |
+|                       | 1. DOB – Date of birth of the director                                                       |
+|                       | 2. Designation – Designation of the director                                                 |
+|                       | 3. Address – Address information of the director                                             |
+|                       | 4. DIN – Unique identification number assigned to the individual appointed as director       |
+|                       | 5. Name – Name of the director                                                               |
+
+![CIN Verification Results](../images/help/KYC/cin2.png)
+
+---
+
+## 2. How to Verify a Driving License?
+
+### What is Driving License Verification?
+It is used to authenticate a driving license by validating key information such as license number, date of birth, vehicle class, and validity details. It plays a crucial role in KYC and onboarding processes.
+
+### Form Input
+
+1. Enter the **Driving License Number**
+2. Select the **Date of Birth**.
+3. Click on the **Verify License** button.
+
+![Driving License Verification Result](../images/help/KYC/dl1.png)
+
+### Result
+
+After a successful verification the following details are displayed, including personal information, license status, validity period, address, and authorized vehicles:
+
+| Name            | Description                                                                       |
+|--------------------|--------------------------------------------------------------------------------|
+| Personal Information| 1. Name – Full name of the license holder                                     |
+|                    | 2. Father/Husband Name – Name of father or husband                             |
+|                    | 3. Date of Birth – Birth date of license holder                                |
+|                    | 4. Photo – Image of the license holder                                         |
+| License Information| 1. DL Number – Driving license number                                          |
+|                    | 2. Status – Current status of license                                          |
+|                    | 3. Issue Date – Date license was issued                                        |
+|                    | 4. Last Transaction – Date of last recorded update                             |
+| Validity Period    | 1. Transport – Validity for transport vehicles                                 |
+|                    | 2. Non-Transport – Validity for non-transport vehicles                         |
+|                    | 3. Hill Valid Until – Validity for hilly regions                               |
+|                    | 4. Hazardous Valid Until – Validity for hazardous materials                    |
+| Permanent Address         | The full permanent address of the individual                            |
+| Temporary Address         | The full temporary address of the individual                            |
+| Vehicle Class Information | 1. Classes – Authorized vehicle classes                                 |
+| Badge Details             | 1. Badge Number – Driver's badge identification number                  |
+|                           | 2. Badge Issue Date – Date badge was issued                             |
+|                           | 3. Vehicle Classes – Vehicle classes covered by badge                   |
+
+
+![Driving License Verification Result](../images/help/KYC/dl111.png)
+![Driving License Verification Result 1](../images/help/KYC/dl222.png)
+
+---
+
+## 3. How to do Employee Verification?
+
+### What is Employee Verification?
+Employee Verification confirms an individual’s employment details by matching submitted information with official records. It includes identity checks, UAN data, employment history, and Aadhaar verification information.
+
+### Form Input
+
+- You can fill any or all fields (Phone Number, PAN, UAN, Date Of Birth, Employee Name, Employer Name), but providing the **UAN** alone is sufficient.
+- Once you’ve entered your data, click **Verify Employee** to submit.
+
+![Employee Verification Input Page](../images/help/KYC/employee.png)
+
+### Result
+
+The result screen shows a consolidated view of personal identity, employment history, recent activity, and employer verification—all tied to the UAN:
+
+| Name                     | Description                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| Basic Details            | 1. Name – Full name of the employee.                                        |
+|                          | 2. Date of Birth – The employee’s date of birth.                            |
+|                          | 3. Gender – Gender of the employee.                                         |
+|                          | 4. Confidence Score – Trust level in the correctness of personal details.   |
+|                          | 5. Aadhaar Verified – Indicates if Aadhaar is verified or not.              |
+|                          | 6. Source Score – The reliability score of the data source.                 |
+| Employment Details       | 1. Member ID – Unique identifier assigned to the employee for EPFO.         |
+|                          | 2. Establishment ID – ID of the registered employer organization.           |
+|                          | 3. Employer Name – Name of the organization where the employee worked.      |
+|                          | 4. Joining Date – The date when the employee joined the organization.       |
+|                          | 5. Employer Confidence Score – Accuracy score of employment data.           |
+| Recent Employment Details| Information about the latest employment status.                             |
+|                          | 1. Currently Employed – Indicates if the employee is currently employed.    |
+| EPFO Status              | 1. Recent – Indicates if there has been recent EPFO activity.               |
+|                          | 2. Unique Name – Confirms if the employer name is uniquely identifiable.    |
+|                          | 3. PF Filing Details – States whether the employer has filed PF data.       |
+| Employer Details         | 1. Name – The registered name of the employer/organization.                 |
+|                          | 2. Establishment ID – Unique ID for the employer establishment.             |
+|                          | 3. Setup Date – Date on which the establishment was registered.             |
+|                          | 4. Ownership Type – Type of ownership (e.g., Public Ltd, Private Ltd).      |
+|                          | 5. Confidence Score – Trust score in the correctness of employer details.   |
+|                          | 6. Name Match – Indicates whether the employer name matched records.        |
+| PF Filing Details        | 1. Wage Month – The month for which PF contributions were calculated.       |
+|                          | 2. Employees Count – Number of employees reported for that month.           |
+|                          | 3. Total Amount – Total PF amount contributed by the employer.              |              |
+
+
+![Employee Verification Results Page](../images/help/KYC/employee11.jpg)
+![Employee Verification Results Page](../images/help/KYC/employee22.jpg)
+
+---
+
+## 4. How to Verify GSTIN?
+
+### 4.a. GSTIN Verfication
+
+#### What is GSTIN Verification?
+this service is used to validate a business’s GSTIN (Goods and Services Tax Identification Number) by cross-referencing it with the official GST database. It confirms the authenticity, registration status, and associated details of the business.
+
+#### Form Input
+
+- Enter **Business Name** as registered for GST.
+- In the **GSTIN** field, enter the 15-digit GST number (e.g., 06AANCB4495L1Z2).
+- Click on the **Verify GSTIN** button to proceed.
+
+![GSTIN Verification UI](../images/help/KYC/gstin1.png)
+
+#### Result
+
+Upon successful verification, it displays the verified GST details such as business name, registration status, GSTIN, state, and registration type:
+
+| Name                        | Description                                                                                      |
+|-----------------------------|--------------------------------------------------------------------------------------------------|
+| GSTIN                       | The `Goods and Services Tax Identification Number` of the business.                              |
+| Legal Name of Business      | The legal name of the business as registered under GST.                                          |
+| GSTIN Status                | The current status of the GSTIN (e.g., Active, Cancelled).                                       |
+| Valid                       | Indicates whether the GSTIN is valid (Yes or No).                                                |
+| Constitution of Business    | The type or constitution of the business (e.g., Private Limited, Proprietorship, etc.).          |
+| Taxpayer Type               | The type of taxpayer (e.g., Regular, Composition, Casual).                                       |
+| State Jurisdiction          | The name of the state-level tax office that has jurisdiction over the business.                 |
+| Center Jurisdiction         | The name of the central tax office that has jurisdiction over the business.                     |
+| Date of Registration        | The date when the business was registered under GST.                                             |
+| Last Update Date            | The most recent date on which the GSTIN details were updated.                                   |
+| Principal Place Address     | The primary address of the business as registered under GST.                                     |
+
+
+![GSTIN Verification Result](../images/help/KYC/gstinverification2.png)
+
+### 4.b. Fetch GSTINs linked to a PAN
+
+#### What is GSTINs by PAN?
+The service enables retrieval of all active GST registrations linked to a specific PAN (Permanent Account Number). This helps identify every business entity registered under that PAN across different states or jurisdictions.
+
+#### Form Input
+
+- Enter the 10-character **PAN** (e.g., ABCDE1234F).
+- Click on the **Fetch GSTINs** button to proceed.
+
+![GSTINs by PAN UI](../images/help/KYC/pan_gst.png)
+
+#### Result
+
+Upon successful validation of the PAN, it shows a list of all linked GSTINs with the following details.
+
+| **Name**                 | **Description**          |
+|--------------------------|--------------------------|
+| GSTIN        | The GSTIN linked to the PAN          |
+| Status       | The status of the GSTIN (eg, ACTICE) |
+| State        | The name of the state where the GSTIN is registered |
+
+![GSTINs by PAN Result](../images/help/KYC/gstin.png)
+
+---
+
+## 5. How to verify PAN?
 
 We have two variations of PAN verification API: PAN Lite & PAN Advanced.
 
-### 1.a. PAN Lite
+### 5.a. PAN Lite
 
 #### What is PAN Lite Verification?
 PAN Lite Verification is used to validates a user’s PAN number, name, and date of birth against the official database. It provides key details such as PAN status, name and DOB match results, and Aadhaar linking status.
@@ -56,7 +257,7 @@ It shows the following information about the PAN holder:
 
 ![PAN Lite Verification results screen](../images/help/KYC/pan-lite-result.png)
 
-### 1.b. PAN Advanced
+### 5.b. PAN Advanced
 
 #### What is PAN Advanced Verification?
 PAN Advanced Verification offers comprehensive PAN-holder details, including contact information and KYC status, going beyond basic match checks. It provides verified personal information, address, Aadhaar linkage, and more for in-depth validation.
@@ -95,7 +296,7 @@ It shows the following information about the PAN holder:
 
 ---
 
-## 2. How to do Passport Verification?
+## 6. How to do Passport Verification?
 
 ### What is Passport Verification?
 Passport Verification validates a user’s passport file number and date of birth against the government database. It confirms the passport holder’s identity and application details.
@@ -125,126 +326,7 @@ It shows the following information about the Passport:
 
 ---
 
-## 3. How to do Employee Verification?
-
-### What is Employee Verification?
-Employee Verification confirms an individual’s employment details by matching submitted information with official records. It includes identity checks, UAN data, employment history, and Aadhaar verification information.
-
-### Form Input
-
-- You can fill any or all fields (Phone Number, PAN, UAN, Date Of Birth, Employee Name, Employer Name), but providing the **UAN** alone is sufficient.
-- Once you’ve entered your data, click **Verify Employee** to submit.
-
-![Employee Verification Input Page](../images/help/KYC/employee.png)
-
-### Result
-
-The result screen shows a consolidated view of personal identity, employment history, recent activity, and employer verification—all tied to the UAN:
-
-| Name                        | Description                                                    |
-|-----------------------------|----------------------------------------------------------------|
-| Source Score                | The reliability score of the data source                       |
-| Name                        | Full name of the employee                                      |
-| Date of Birth               | Employee's date of birth                                       |
-| Gender                      | Gender of the employee                                         |
-| Confidence Score            | Overall confidence level in the basic details verification     |
-| Aadhaar Verified            | Status indicating if Aadhaar has been verified                 |
-| Member ID                   | Unique membership identifier of the employee                   |
-| Establishment ID            | Identifier for the employer or establishment                   |
-| Employer Name               | Name of the employer or organization                           |
-| Joining Date                | Date when the employee joined the organization                 |
-| Employer Confidence Score   | Confidence score assigned by the employer on employee data     |
-| Recent Employment Details   | Information about the latest employment status                 |
-| Currently Employed          | Indicates if the employee is currently employed (Yes/No)       |
-
-![Employee Verification Results Page](../images/help/KYC/employee11.jpg)
-![Employee Verification Results Page](../images/help/KYC/employee22.jpg)
-
-
----
-
-## 4. How to Verify CIN (Customer Identification Number)?
-
-### What is CIN Verification?
-CIN (Corporate Identification Number) Verification is used to retrieve verified company and director information by providing a valid CIN. It ensures accurate identification of registered companies in India and promotes transparency.
-
-### Form Input
-- Enter a valid Corporate Identification Number (CIN) in the input field.
-- Click the **Verify CIN** button.
-
-![CIN Verification Interface](../images/help/KYC/cin.png)
-
-### Result
-Upon successful verification, company and director details will be displayed, including company name, registration number, incorporation date:
-| Name                  | Description                                                                                  |
-|-----------------------|----------------------------------------------------------------------------------------------|
-| Company Name          | Name of the company registered under the Ministry of Corporate Affairs.                      |
-| Registration Number   | Registration number of the company.                                                          |
-| Incorporation Date    | Date of incorporation of the company.                                                        |
-| CIN Status            | Granular level status of the CIN information.                                                |
-| Email                 | Email ID of the company registered under the Ministry of Corporate Affairs.                  |
-| Country               | Country where the company is located.                                                        |
-| Director Details      | Details of the directors associated with the company, each containing:                       |
-|                       | 1. DOB – Date of birth of the director                                                       |
-|                       | 2. Designation – Designation of the director                                                 |
-|                       | 3. Address – Address information of the director                                             |
-|                       | 4. DIN – Unique identification number assigned to the individual appointed as director       |
-|                       | 5. Name – Name of the director                                                               |
-
-![CIN Verification Results](../images/help/KYC/cin2.png)
-
----
-
-## 5. How to Verify a Driving License?
-
-### What is Driving License Verification?
-It is used to authenticate a driving license by validating key information such as license number, date of birth, vehicle class, and validity details. It plays a crucial role in KYC and onboarding processes.
-
-### Form Input
-
-1. Enter the **Driving License Number**
-2. Select the **Date of Birth**.
-3. Click on the **Verify License** button.
-
-![Driving License Verification Result](../images/help/KYC/dl1.png)
-
-### Result
-
-After a successful verification the following details are displayed, including personal information, license status, validity period, address, and authorized vehicles:
-
-| Name                      | Description                                                                                          |
-|---------------------------|------------------------------------------------------------------------------------------------------|
-| DOB                       | The date of birth of the individual as present in the driving licence.                              |
-| Status                    | Whether the driving licence is valid.                                                               |
-| Badge Details             | Details of badges associated with the driving licence, each containing:                             |
-|                           | 1. Badge Issue Date – The date the badge was issued                                                 |
-|                           | 2. Badge No – The number of the badge issued                                                       |
-|                           | 3. Class of Vehicle – The class of the vehicle                                                     |
-| DL Validity               | Information regarding the validity of the licence, including:                                       |
-|                           | 1. Non Transport – Validity period (`from` and `to` dates)                                         |
-|                           | 2. Transport – Validity period (`from` and `to` dates)                                             |
-|                           | 3. Hazardous Valid Till – Validity for hazardous vehicle driving                                   |
-|                           | 4. Hill Valid Till – Validity for driving in hill and mountain regions                             |
-| Details of Driving Licence and personal information| Detailed information about the driving licence,and the individual including:                                         |
-|                           | 1. Date of Issue – The date when the driving licence was issued                                    |
-|                           | 2. Date of Last Transaction – The date of the last transaction                                     |
-|                           | 3. Status – The current status of the driving licence                                              |
-|                           | 4. Last Transacted At – The date of the last transaction recorded                                  |
-|                           | 5. Name – The name of the individual                                                               |
-|                           | 6. Father or Husband Name – The father’s or husband’s name of the individual                       |
-|                           | 7. Address List – List of addresses with `complete_address`, `type`, and `split_address`           |
-|                           | 8. Address – The address string                                                                    |
-|                           | 9. Photo – The photo of the individual                                                             |
-|                           | 10. COV Details – The details of the class of vehicle (COV)                                        |
-
-![Driving License Verification Result](../images/help/KYC/dl111.png)
-![Driving License Verification Result 1](../images/help/KYC/dl222.png)
-
-
-
----
-
-## 6. How to Verify Vehicle RC (Registration Certificate)?
+## 7. How to Verify Vehicle RC (Registration Certificate)?
 
 ### What is Vehicle RC Verification?
 Vehicle RC Verification is used to authenticate and retrieve the registration details of a vehicle using its registration number. This helps confirm the legitimacy, ownership, and legal status of the vehicle – crucial for compliance and KYC processes.
@@ -289,7 +371,7 @@ The following details of the vehicle are displayed, such as, owner name, registr
 
 ---
 
-## 7. How to Verify Voter ID?
+## 8. How to Verify Voter ID?
 
 ### What is Voter ID Verification?
 Voter ID Verification confirms the validity of an individual’s Electoral Photo Identity Card (EPIC) number by checking it against the election commission's database. This verification includes personal, constituency, and polling station details.
@@ -329,65 +411,3 @@ Voter ID Verification confirms the validity of an individual’s Electoral Photo
 | Polling Station                  | Place where the individual is registered to cast votes during elections.                      |
 
 ![Voter ID Verification Result](../images/help/KYC/voterid.png)
-
----
-
-## 8. How to Verify GSTIN?
-
-### 8.a. GSTIN Verfication
-
-#### What is GSTIN Verification?
-this service is used to validate a business’s GSTIN (Goods and Services Tax Identification Number) by cross-referencing it with the official GST database. It confirms the authenticity, registration status, and associated details of the business.
-
-#### Form Input
-
-- Enter **Business Name** as registered for GST.
-- In the **GSTIN** field, enter the 15-digit GST number (e.g., 06AANCB4495L1Z2).
-- Click on the **Verify GSTIN** button to proceed.
-
-![GSTIN Verification UI](../images/help/KYC/gstin1.png)
-
-#### Result
-
-Upon successful verification, it displays the verified GST details such as business name, registration status, GSTIN, state, and registration type:
-
-| Name                        | Description                                                                                      |
-|-----------------------------|--------------------------------------------------------------------------------------------------|
-| GSTIN                       | The `Goods and Services Tax Identification Number` of the business.                              |
-| Legal Name of Business      | The legal name of the business as registered under GST.                                          |
-| GSTIN Status                | The current status of the GSTIN (e.g., Active, Cancelled).                                       |
-| Valid                       | Indicates whether the GSTIN is valid (Yes or No).                                                |
-| Constitution of Business    | The type or constitution of the business (e.g., Private Limited, Proprietorship, etc.).          |
-| Taxpayer Type               | The type of taxpayer (e.g., Regular, Composition, Casual).                                       |
-| State Jurisdiction          | The name of the state-level tax office that has jurisdiction over the business.                 |
-| Center Jurisdiction         | The name of the central tax office that has jurisdiction over the business.                     |
-| Date of Registration        | The date when the business was registered under GST.                                             |
-| Last Update Date            | The most recent date on which the GSTIN details were updated.                                   |
-| Principal Place Address     | The primary address of the business as registered under GST.                                     |
-
-
-![GSTIN Verification Result](../images/help/KYC/gstinverification2.png)
-
-### 8.b. Fetch GSTINs linked to a PAN
-
-#### What is GSTINs by PAN?
-The service enables retrieval of all active GST registrations linked to a specific PAN (Permanent Account Number). This helps identify every business entity registered under that PAN across different states or jurisdictions.
-
-#### Form Input
-
-- Enter the 10-character **PAN** (e.g., ABCDE1234F).
-- Click on the **Fetch GSTINs** button to proceed.
-
-![GSTINs by PAN UI](../images/help/KYC/pan_gst.png)
-
-#### Result
-
-Upon successful validation of the PAN, it shows a list of all linked GSTINs with the following details.
-
-| **Name**                 | **Description**          |
-|--------------------------|--------------------------|
-| GSTIN        | The GSTIN linked to the PAN          |
-| Status       | The status of the GSTIN (eg, ACTICE) |
-| State        | The name of the state where the GSTIN is registered |
-
-![GSTINs by PAN Result](../images/help/KYC/gstin.png)
