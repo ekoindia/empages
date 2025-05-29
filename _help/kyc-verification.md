@@ -340,7 +340,7 @@ It shows the following information about the Passport:
 | Application Type         | Type of Passport application.                                    |
 | Application Date         | Date when the Passport application was received.                 |
 
-![Passport Verification Results Page](../images/help/KYC/passport22.png)
+![Passport Verification Results Page](../images/help/KYC/passport-result.jpg)
 
 ---
 
