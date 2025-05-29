@@ -16,7 +16,7 @@ KYC involves collecting and verifying identity documents and personal informatio
 
 ---
 
-## 1. How to Verify CIN (Customer Identification Number)?
+## 1. How to Verify CIN (Corporate Identification Number)?
 
 ### What is CIN Verification?
 CIN (Corporate Identification Number) Verification is used to retrieve verified company and director information by providing a valid CIN. It ensures accurate identification of registered companies in India and promotes transparency.
