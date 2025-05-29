@@ -1,16 +1,22 @@
 ---
 layout: help
-title: "How to do KYC (Know Your Customer)?"
+title: "How to do KYC (Know Your Customer) & verification of your users?"
 ---
 
 ### KYC (Know Your Customer)
 
-**KYC** stands for **Know Your Customer**. It is a process used by **banks**, **financial institutions**, **government agencies**, and other **regulated entities** to verify the identity of their clients before or during the start of a business relationship.
+**KYC** (**Know Your Customer**) is a process used by **banks**, **financial institutions**, **government agencies**, and other **regulated entities** to verify the identity of their clients before or during the start of a business relationship.
 
-KYC involves collecting and verifying identity documents and personal information.
+You can use the following services to verify the identity of your users:
 
-- KYC verifications include:
-- **CIN verification**, **Driving License verification**, **Employee verification**, **GSTIN verification**, **PAN verification**, **Passport verification**, **Voter ID verification**, and **Vehicle RC verification** — all of which can be performed as part of the KYC process.
+- [**CIN verification**](#1-how-to-verify-cin-corporate-identification-number)
+- [**Driving License verification**](#2-how-to-verify-a-driving-license)
+- [**Employee verification**](#3-how-to-do-employee-verification)
+- [**GSTIN verification**](#4-how-to-verify-gstin) (including, fetching all GSTINs linked to a PAN)
+- [**PAN verification**](#5-how-to-verify-pan) (including, Advanced PAN Verification)
+- [**Passport verification**](#6-how-to-do-passport-verification)
+- [**Vehicle RC verification**](#7-how-to-verify-vehicle-rc-registration-certificate)
+- [**Voter ID verification**](#8-how-to-verify-voter-id)
 
 ![KYC Main screen](../images/help/KYC/kycmain.jpg)
 
@@ -87,8 +93,8 @@ After a successful verification the following details are displayed, including p
 |                           | 3. Vehicle Classes – Vehicle classes covered by badge                   |
 
 
-![Driving License Verification Result](../images/help/KYC/dl111.png)
-![Driving License Verification Result 1](../images/help/KYC/dl222.png)
+![Driving License Verification Result Part 1](../images/help/KYC/dl111.png)
+![Driving License Verification Result Part 2](../images/help/KYC/dl222.png)
 
 ---
 
@@ -108,34 +114,46 @@ Employee Verification confirms an individual’s employment details by matching 
 
 The result screen shows a consolidated view of personal identity, employment history, recent activity, and employer verification—all tied to the UAN:
 
-| Name                     | Description                                                                 |
-|--------------------------|-----------------------------------------------------------------------------|
-| Basic Details            | 1. Name – Full name of the employee.                                        |
-|                          | 2. Date of Birth – The employee’s date of birth.                            |
-|                          | 3. Gender – Gender of the employee.                                         |
-|                          | 4. Confidence Score – Trust level in the correctness of personal details.   |
-|                          | 5. Aadhaar Verified – Indicates if Aadhaar is verified or not.              |
-|                          | 6. Source Score – The reliability score of the data source.                 |
-| Employment Details       | 1. Member ID – Unique identifier assigned to the employee for EPFO.         |
-|                          | 2. Establishment ID – ID of the registered employer organization.           |
-|                          | 3. Employer Name – Name of the organization where the employee worked.      |
-|                          | 4. Joining Date – The date when the employee joined the organization.       |
-|                          | 5. Employer Confidence Score – Accuracy score of employment data.           |
-| Recent Employment Details| Information about the latest employment status.                             |
-|                          | 1. Currently Employed – Indicates if the employee is currently employed.    |
-| EPFO Status              | 1. Recent – Indicates if there has been recent EPFO activity.               |
-|                          | 2. Unique Name – Confirms if the employer name is uniquely identifiable.    |
-|                          | 3. PF Filing Details – States whether the employer has filed PF data.       |
-| Employer Details         | 1. Name – The registered name of the employer/organization.                 |
-|                          | 2. Establishment ID – Unique ID for the employer establishment.             |
-|                          | 3. Setup Date – Date on which the establishment was registered.             |
-|                          | 4. Ownership Type – Type of ownership (e.g., Public Ltd, Private Ltd).      |
-|                          | 5. Confidence Score – Trust score in the correctness of employer details.   |
-|                          | 6. Name Match – Indicates whether the employer name matched records.        |
-| PF Filing Details        | 1. Wage Month – The month for which PF contributions were calculated.       |
-|                          | 2. Employees Count – Number of employees reported for that month.           |
-|                          | 3. Total Amount – Total PF amount contributed by the employer.              |              |
+- **Basic Details:**
+  1. Full Name of the employee.
+  2. Date of Birth of the employee.
+  3. Gender of the employee.
+  4. Confidence Score – Trust level in the correctness of personal details.
+  5. Aadhaar Verified – (Yes/No) Indicates if Aadhaar is verified or not.
+  6. Source Score – The reliability score of the data source.
 
+- **Employment Details:**
+  1. Member ID – Unique identifier assigned to the employee for EPFO.
+  2. Establishment ID of the registered employer organization.
+  3. Employer Name – Name of the organization where the employee worked.
+  4. Joining Date – The date when the employee joined the organization.
+  5. Employer Confidence Score – Accuracy score of employment data.
+
+- **Recent Employment Details:** Information about the latest employment status.
+  - **Employee Details:**
+    1. Member ID – Unique identifier assigned to the employee for EPFO.
+    2. UAN
+    3. Joining Date
+    4. Name Match – Indicates whether the employer name matched records.
+    5. Currently Employed – Yes/No
+    6. Exit Date Marked - Yes/No
+    7. **EPFO Status:**
+      1. Recent – Indicates if there has been recent EPFO activity.
+      2. Unique Name – Confirms if the employer name is uniquely identifiable.
+      3. PF Filing Details – States whether the employer has filed PF data.
+
+  - **Employer Details:**
+    1. Name – The registered name of the employer/organization.
+    2. Establishment ID – Unique ID for the employer establishment.
+    3. Setup Date – Date on which the establishment was registered.
+    4. Ownership Type – Type of ownership (e.g., Public Ltd, Private Ltd).
+    5. Confidence Score – Trust score in the correctness of employer details.
+    6. Name Match – Indicates whether the employer name matched records.
+    7. **PF Filing Details:**
+      1. Wage Month – The month for which PF contributions were calculated.
+      2. Employees Count – Number of employees reported for that month.
+      3. Total Amount – Total PF amount contributed by the employer.
+ 
 
 ![Employee Verification Results Page](../images/help/KYC/employee11.jpg)
 ![Employee Verification Results Page](../images/help/KYC/employee22.jpg)
@@ -147,7 +165,7 @@ The result screen shows a consolidated view of personal identity, employment his
 ### 4.a. GSTIN Verfication
 
 #### What is GSTIN Verification?
-this service is used to validate a business’s GSTIN (Goods and Services Tax Identification Number) by cross-referencing it with the official GST database. It confirms the authenticity, registration status, and associated details of the business.
+This service is used to validate a business’s GSTIN (Goods and Services Tax Identification Number) by cross-referencing it with the official GST database. It confirms the authenticity, registration status, and associated details of the business.
 
 #### Form Input
 
