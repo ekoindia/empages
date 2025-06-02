@@ -1,11 +1,14 @@
 ---
 layout: help
-title: General flow for BBPS
+title: How to pay bill using BBPS?
 ---
 
-## What is BBPS payment?
+## What is BBPS Bill Payments?
 
-This service enables retailers to pay a customer’s bill across India.
+The **Bharat Bill Payment System (BBPS)** is a service launched by the **Reserve Bank of India (RBI)** and operated by the **National Payments Corporation of India (NPCI)**. It facilitates seamless bill payments across various categories, including `electricity`, `telecom`, `DTH`, `gas`, `water`, and more.
+
+## Step 1: Select a Bill Payment Category
+
 
 ## Step 1: Enter Customer Details
 
