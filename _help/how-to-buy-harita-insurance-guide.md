@@ -36,7 +36,7 @@ Start by entering the **Vehicle Registration Number** and click on **View Plans*
 
 2. Click on **Get Quote**.
 
-![Bike Details Input Form](../images/help/harita-guide/BikeInsurance_AvailableOption.png)
+![Bike Details Input Form](../images/help/harita-guide/bike-details-form.png)
 
 ### Step 4: View Available Policy Plans
 Compare the available policy plans shown based on your vehicle details. Choose one of the plans by clicking the **"Buy Now"** button.
@@ -92,7 +92,7 @@ Start by entering the **Vehicle Registration Number** and click on **View Plans*
 
 2. Click on **Get Quote**.
 
-![Car Details Input Form](../images/help/harita-guide/Car Details Form.png)
+![Car Details Input Form](../images/help/harita-guide/car-details-form.png)
 
 ### Step 4: View Available Policy Plans
 Compare the available policy plans shown based on your vehicle details. Choose one of the plans by clicking the **"Buy Now"** button.
