@@ -1,6 +1,6 @@
 ---
 layout: help
-title: How To Buy Insurance via Harita?
+title: How to buy insurance via Harita?
 ---
 
 ## What are the Insurance Services provided by Harita?
