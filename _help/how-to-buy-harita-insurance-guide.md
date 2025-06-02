@@ -60,7 +60,9 @@ Confirm these details and make sure all details are accurate before moving forwa
     - **Add-On Covers**
     - **Total Premium**
 
-![CKYC Verification Form and Plan Summary](../images/help/harita-guide/Bike_Verification.png)
+![CKYC Verification Form](../images/help/harita-guide/Bike_Verification.png)
+
+![Plan Summary](../images/help/harita-guide/Bike_Summary.png)
 
 ## Step 6: Complete Payment
 Proceed to payment using available online payment options to finalize and purchase the policy.
@@ -116,7 +118,9 @@ Confirm these details and make sure all details are accurate before moving forwa
     - **Add-On Covers**
     - **Total Premium**
 
-![CKYC Verification Form and Plan Summary](../images/help/harita-guide/Car_Verification.png)
+![CKYC Verification Form](../images/help/harita-guide/Car_Verification.png)
+
+![Plan Summary](../images/help/harita-guide/Car_Summary.png)
 
 ## Step 6: Complete Payment
 Proceed to payment using available online payment options to finalize and purchase the policy.
