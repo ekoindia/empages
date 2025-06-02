@@ -10,7 +10,7 @@ title: How to avail loan using CreditLinks?
 - **CreditLinks** provides two main services: Business Loans and Personal Loans.
 - Based on the user's inputted personal and financial details, it matches them with suitable loan offers from various lending partners. The platform helps users compare, choose, and apply for loans quickly and conveniently.
 
-## 1. How to navigate to the CreditLinks page?
+## How to navigate to the CreditLinks page?
 
 ### Step 1: Choosing the CreditLinks option
 Click on **Lending and Insurance** option in sidebar and then select **CreditLinks** option.
@@ -22,7 +22,7 @@ After Selecting **CreditLinks** option, click on the **Go to CreditLinks Portal*
 
 ![CreditLinks Redirection Screen](../images/help/creditlinks/Redirection Button Credit Links.png)
 
-## 2. How to avail Personal Loan?
+## 1. How to avail Personal Loan?
 
 ### Step 1: Selecting Personal Loans option
 Click on Personal Loans option within CreditLinks webpage
@@ -35,7 +35,7 @@ Click on Personal Loans option within CreditLinks webpage
 - Tap **Continue**.
 - Enter the **OTP** received on the mobile number enterred.
 
-![Personal Loan Registeration Screen](../images/help/creditlinks/Personal Loan Registeration.png)
+![Personal Loan Registration Screen](../images/help/creditlinks/Personal Loan Registeration.png)
 
 ### Step 3: Enter Personal Details
 1. Personal Info:
@@ -62,7 +62,7 @@ Click on Personal Loans option within CreditLinks webpage
 - Review details & complete any payment.
 - Submit final loan application.
 
-## 3. How to avail Business Loan?
+## 2. How to avail Business Loan?
 
 ### Step 1: Selecting Business Loans option
 Click on Business Loans option within CreditLinks webpage.
