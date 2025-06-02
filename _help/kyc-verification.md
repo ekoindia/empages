@@ -18,7 +18,7 @@ You can use the following services to verify the identity of your users:
 - [**Vehicle RC verification**](#7-how-to-verify-vehicle-rc-registration-certificate)
 - [**Voter ID verification**](#8-how-to-verify-voter-id)
 
-![KYC Main screen](../images/help/KYC/kycmain.jpg)
+![KYC Main screen](../images/help/kyc/kycmain.jpg)
 
 ---
 
@@ -31,7 +31,7 @@ CIN (Corporate Identification Number) Verification is used to retrieve verified 
 - Enter a valid Corporate Identification Number (CIN) in the input field.
 - Click the **Verify CIN** button.
 
-![KYC CIN](../images/help/KYC/cin.png)
+![KYC CIN](../images/help/kyc/cin.png)
 
 ### Result
 Upon successful verification, company and director details will be displayed, including company name, registration number, incorporation date:
@@ -50,7 +50,7 @@ Upon successful verification, company and director details will be displayed, in
 |                       | 4. DIN – Unique identification number assigned to the individual appointed as director       |
 |                       | 5. Name – Name of the director                                                               |
 
-![CIN Verification Results](../images/help/KYC/cin2.png)
+![CIN Verification Results](../images/help/kyc/cin2.png)
 
 ---
 
@@ -65,7 +65,7 @@ It is used to authenticate a driving license by validating key information such 
 2. Select the **Date of Birth**.
 3. Click on the **Verify License** button.
 
-![Driving License Verification Result](../images/help/KYC/dl1.png)
+![Driving License Verification Result](../images/help/kyc/dl1.png)
 
 ### Result
 
@@ -93,8 +93,8 @@ After a successful verification the following details are displayed, including p
 |                           | 3. Vehicle Classes – Vehicle classes covered by badge                   |
 
 
-![Driving License Verification Result Part 1](../images/help/KYC/dl111.png)
-![Driving License Verification Result Part 2](../images/help/KYC/dl222.png)
+![Driving License Verification Result Part 1](../images/help/kyc/dl111.png)
+![Driving License Verification Result Part 2](../images/help/kyc/dl222.png)
 
 ---
 
@@ -108,7 +108,7 @@ Employee Verification confirms an individual’s employment details by matching 
 - You can fill any or all fields (Phone Number, PAN, UAN, Date Of Birth, Employee Name, Employer Name), but providing the **UAN** alone is sufficient.
 - Once you’ve entered your data, click **Verify Employee** to submit.
 
-![Employee Verification Input Page](../images/help/KYC/employee.png)
+![Employee Verification Input Page](../images/help/kyc/employee.png)
 
 ### Result
 
@@ -153,10 +153,10 @@ The result screen shows a consolidated view of personal identity, employment his
       1. Wage Month – The month for which PF contributions were calculated.
       2. Employees Count – Number of employees reported for that month.
       3. Total Amount – Total PF amount contributed by the employer.
- 
 
-![Employee Verification Results Page](../images/help/KYC/employee11.jpg)
-![Employee Verification Results Page](../images/help/KYC/employee22.jpg)
+
+![Employee Verification Results Page](../images/help/kyc/employee11.jpg)
+![Employee Verification Results Page](../images/help/kyc/employee22.jpg)
 
 ---
 
@@ -173,7 +173,7 @@ This service is used to validate a business’s GSTIN (Goods and Services Tax Id
 - In the **GSTIN** field, enter the 15-digit GST number (e.g., 06AANCB4495L1Z2).
 - Click on the **Verify GSTIN** button to proceed.
 
-![GSTIN Verification UI](../images/help/KYC/gstin1.png)
+![GSTIN Verification UI](../images/help/kyc/gstin1.png)
 
 #### Result
 
@@ -194,7 +194,7 @@ Upon successful verification, it displays the verified GST details such as busin
 | Principal Place Address     | The primary address of the business as registered under GST.                                     |
 
 
-![GSTIN Verification Result](../images/help/KYC/gstinverification2.png)
+![GSTIN Verification Result](../images/help/kyc/gstinverification2.png)
 
 ### 4.b. Fetch GSTINs linked to a PAN
 
@@ -206,7 +206,7 @@ The service enables retrieval of all active GST registrations linked to a specif
 - Enter the 10-character **PAN** (e.g., ABCDE1234F).
 - Click on the **Fetch GSTINs** button to proceed.
 
-![GSTINs by PAN UI](../images/help/KYC/pan_gst.png)
+![GSTINs by PAN UI](../images/help/kyc/pan_gst.png)
 
 #### Result
 
@@ -218,7 +218,7 @@ Upon successful validation of the PAN, it shows a list of all linked GSTINs with
 | Status       | The status of the GSTIN (eg, ACTICE) |
 | State        | The name of the state where the GSTIN is registered |
 
-![GSTINs by PAN Result](../images/help/KYC/gstin.png)
+![GSTINs by PAN Result](../images/help/kyc/gstin.png)
 
 ---
 
@@ -237,7 +237,7 @@ PAN Lite Verification is used to validates a user’s PAN number, name, and date
 3. In the **Date Of Birth** field, click the calendar icon and select the user’s DOB.
 4. Click the **Verify PAN** button to submit.
 
-![PAN Lite Verification Form](../images/help/KYC/panlite.png)
+![PAN Lite Verification Form](../images/help/kyc/panlite.png)
 
 #### Result
 
@@ -273,7 +273,7 @@ It shows the following information about the PAN holder:
 | ES         | The entered PAN information is valid but marked as Split.                  |
 | EU         | The entered PAN information is valid but marked as Under Liquidation.      |
 
-![PAN Lite Verification results screen](../images/help/KYC/pan-lite-result.png)
+![PAN Lite Verification results screen](../images/help/kyc/pan-lite-result.png)
 
 ### 5.b. PAN Advanced
 
@@ -286,7 +286,7 @@ PAN Advanced Verification offers comprehensive PAN-holder details, including con
 3. Select the user’s birth date via the **Date Of Birth** calendar picker.
 4. Click **Verify PAN** to fetch the advanced details.
 
-![PAN Advanced Verification Form](../images/help/KYC/panadvanced.png)
+![PAN Advanced Verification Form](../images/help/kyc/panadvanced.png)
 
 #### Result
 
@@ -310,7 +310,7 @@ It shows the following information about the PAN holder:
 | Masked Aadhaar               | Partially hidden Aadhaar number for privacy             |
 | Aadhaar Linked               | Indicates whether Aadhaar is linked to the PAN (Yes/No) |
 
-![PAN Advanced Verification results screen](../images/help/KYC/pan(1).png)
+![PAN Advanced Verification results screen](../images/help/kyc/pan(1).png)
 
 ---
 
@@ -326,7 +326,7 @@ Passport Verification validates a user’s passport file number and date of birt
 - Optionally, enter the **Name** exactly as it appears on the passport.
 - Click on the **Verify Passport** button to proceed.
 
-![Passport Verification Input Page](../images/help/KYC/passport.png)
+![Passport Verification Input Page](../images/help/kyc/passport.png)
 
 ### Result
 
@@ -340,7 +340,7 @@ It shows the following information about the Passport:
 | Application Type         | Type of Passport application.                                    |
 | Application Date         | Date when the Passport application was received.                 |
 
-![Passport Verification Results Page](../images/help/KYC/passport-result.jpg)
+![Passport Verification Results Page](../images/help/kyc/passport-result.jpg)
 
 ---
 
@@ -354,7 +354,7 @@ Vehicle RC Verification is used to authenticate and retrieve the registration de
 1. Enter the **Vehicle Registration Number** (e.g., `DL1234567890`).
 2. Click on the **Verify Vehicle RC** button to proceed.
 
-![Vehicle RC Verification UI](../images/help/KYC/rc.png)
+![Vehicle RC Verification UI](../images/help/kyc/rc.png)
 
 ### Result
 
@@ -385,7 +385,7 @@ The following details of the vehicle are displayed, such as, owner name, registr
 | Present Address                 | The current address of the owner, including city, district, state and pincode.                   |
 | Permanent Address               | The permanent address of the owner, including city, district, state and pincode.                 |
 
-![Vehicle RC Verification Result](../images/help/KYC/car-rc.png)
+![Vehicle RC Verification Result](../images/help/kyc/car-rc.png)
 
 ---
 
@@ -400,7 +400,7 @@ Voter ID Verification confirms the validity of an individual’s Electoral Photo
 - Optionally, enter the **Name** of the voter for additional verification.
 - Click on the **Verify Voter ID** button to proceed.
 
-![Voter ID Verification UI](../images/help/KYC/voterid1.png)
+![Voter ID Verification UI](../images/help/kyc/voterid1.png)
 
 ### Result
 
@@ -428,4 +428,4 @@ Voter ID Verification confirms the validity of an individual’s Electoral Photo
 | Serial Number                    | Serial number as present in the voter ID card.                                                |
 | Polling Station                  | Place where the individual is registered to cast votes during elections.                      |
 
-![Voter ID Verification Result](../images/help/KYC/voterid.png)
+![Voter ID Verification Result](../images/help/kyc/voterid.png)
