@@ -4,7 +4,8 @@ title: How to avail loan using CreditLinks?
 ---
 
 ## What is CreditLinks?
-- **CreditLinks** is a financial marketplace platform that acts as an intermediary, connecting borrowers with lenders for various financial products like personal loans, credit cards, insurance, and discount vouchers. It provides a digital platform for accessing these products through a network of merchants and channel partners, aiming to make financial services more accessible and convenient for individuals.
+- **CreditLinks** is a financial marketplace platform that acts as an intermediary, connecting borrowers with lenders for various financial products like personal loans, credit cards, insurance, and discount vouchers.
+- It provides a digital platform for accessing these products through a network of merchants and channel partners, aiming to make financial services more accessible and convenient for individuals.
 
 ## What Loan Services are Provided by Credit Links?
 - **CreditLinks** provides two main services: Business Loans and Personal Loans.
@@ -35,7 +36,7 @@ Click on Personal Loans option within CreditLinks webpage
 - Tap **Continue**.
 - Enter the **OTP** received on the mobile number enterred.
 
-![Personal Loan Registration Screen](../images/help/creditlinks/Personal Loan Registeration.png)
+![Personal Loan Registration Screen](../images/help/creditlinks/Personal Loan Registration.png)
 
 ### Step 3: Enter Personal Details
 1. Personal Info:
@@ -75,7 +76,7 @@ Click on Business Loans option within CreditLinks webpage.
 - Tap **Continue**.
 - Enter the **OTP** received on the mobile number enterred.
 
-![Business Loan Registeration Screen](../images/help/creditlinks/Personal Loan Registeration.png)
+![Business Loan Registration Screen](../images/help/creditlinks/Personal Loan Registration.png)
 
 ### Step 3: Enter Personal Details
 1. Personal Information:
