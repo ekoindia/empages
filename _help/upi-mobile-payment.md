@@ -31,8 +31,8 @@ Input the **vendor’s mobile number** for whom the payment is being initiated.
 Enter the following:
 - **UPI Registered Mobile Number** of the recipient
 - **Recipient's Name**
-- **Enable and allow Location Access**
-- **Click on Proceed**
+- Click on **Allow Location Access**
+Click on Proceed
 
 ![Entering Details for Adding Recipient](../images/help/upi-vpa-and-upi-mobile-payout-sop/image9.jpeg)
 

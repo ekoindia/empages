@@ -32,8 +32,8 @@ Input the **vendor’s mobile number** associated with the payment request.
 Enter the following:
 - **Recipient’s Mobile Number**
 - **Recipient’s Name**
-- **Select the UPI App of the recipient** (optional)
-- **Enter the UPI ID of the recipient**
+- Select the **UPI App of the recipient** (optional)
+- **UPI ID of the recipient**
 
 ![Entering Details for Adding Recipient](../images/help/upi-vpa-and-upi-mobile-payout-sop/image4.jpeg)
 
