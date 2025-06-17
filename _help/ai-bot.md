@@ -3,11 +3,12 @@ layout: help
 title: How to Use AI Chatbot?
 ---
 
-## What is the AI Chatbot?
+## What is AI Chatbot?
 
-The AI Chatbot is an intelligent assistant integrated into your Admin portal, designed to help you with business-related queries. You can interact with the chatbot either by typing or by speaking to the chatbot. It provides responses instantly, making it easier to access data like transactions, earnings, onboarding, and network performance.
+AI Chatbot is an intelligent assistant integrated into your Admin portal, designed to help you with business-related queries. You can interact with the chatbot either by typing or by speaking to the chatbot. It provides responses instantly, making it easier to access data like transactions, earnings, onboarding, and network performance.
+
 ### Multilingual and Voice Support
-- The chatbot supports typing in multiple languages, including English and Hindi.
+- The chatbot supports all Indian languages, including English and Hindi.
 - Voice input is also supported in any language. Just ask your question verbally and receive responses your language.
 
 ![AI Chat Interface](../images/help/chatbot/admin-portal.png)
@@ -37,14 +38,13 @@ When you access the chatbot from the admin portal, a prompt appears inviting you
 You can ask these in any language and in either text or voice format.
 
 ### More Sample Questions
-    1. How many transactions have been made in last 30 days?
-    2. What is my success percentage for fund transfer in last 30 days?
-    3. गेल्या ३० दिवसांत माझ्याकडे किती व्यवहार करणारे एजंट्स आहेत?
-    4. What is the CSPCode assigned to the independent variable with mobile number 9999999999?
-    5. आपके नेटवर्क द्वारा उत्पन्न किया जा रहा वर्तमान लाभ मार्जिन क्या है?
+1. How many transactions have been made in last 30 days?
+2. What is my success percentage for fund transfer in last 30 days?
+3. गेल्या ३० दिवसांत माझ्याकडे किती व्यवहार करणारे एजंट्स आहेत?
+5. आपके नेटवर्क द्वारा उत्पन्न किया जा रहा वर्तमान लाभ मार्जिन क्या है?
 
 ---
 
 ## Disclaimer
 
-Responses from the AI chatbot are generated using artificial intelligence. While the system aims to be accurate and efficient, please ensure that you verify any sensitive, financial, or business-critical information independently before taking action based on the chatbot’s output.
+Responses from the AI chatbot are generated using artificial intelligence. While the system aims to be accurate, please ensure that you verify any sensitive, financial, or business-critical information independently before taking action based on the chatbot’s output.
