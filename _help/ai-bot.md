@@ -27,12 +27,12 @@ When you access the chatbot from the admin portal, a prompt appears inviting you
 | Sample Question | Sample Response Screenshot|
 | --- | --- |
 | What is the account status of my agents? | ![AI Chat Response](../images/help/chatbot/ques1-ai.jpg) |
-| Who is the highest and lowest GTV transacting retailer in my network in the last 30 days? | ![AI Chat Interface](../images/help/chatbot/ques2-ai.jpg) |
-| मेरे नेटवर्क में पिछले 30 दिनों में सबसे कम सफल होने वाला प्रोडक्ट कौन सा है? |  ![AI Chat Interface](../images/help/chatbot/ques3-ai.jpeg) |
-| Mera total GTV kitna hai? |  ![AI Chat Interface](../images/help/chatbot/ques4-ai.jpeg) |
-| How many onboarding requests are still pending in my network? |  ![AI Chat Interface](../images/help/chatbot/ques5-ai.jpeg) |
-| माझ्या नेटवर्कमधील सर्वाधिक आणि किमान GTV व्यवहार करणारा किरकोळ व्यापारी कोण आहे गेल्या ३० दिवसांत? |  ![AI Chat Interface](../images/help/chatbot/ques6-ai.jpg) |
-| मेरे एजेंट्स की ऑनबोर्डिंग स्थिति क्या है? |  ![AI Chat Interface](../images/help/chatbot/ques7-ai.jpeg) |
+| Who is the highest and lowest GTV transacting retailer in my network in the last 30 days? | ![AI Chat Response](../images/help/chatbot/ques2-ai.jpg) |
+| मेरे नेटवर्क में पिछले 30 दिनों में सबसे कम सफल होने वाला प्रोडक्ट कौन सा है? |  ![AI Chat Response](../images/help/chatbot/ques3-ai.jpeg) |
+| Mera total GTV kitna hai? |  ![AI Chat Response](../images/help/chatbot/ques4-ai.jpeg) |
+| How many onboarding requests are still pending in my network? |  ![AI Chat Response](../images/help/chatbot/ques5-ai.jpeg) |
+| माझ्या नेटवर्कमधील सर्वाधिक आणि किमान GTV व्यवहार करणारा किरकोळ व्यापारी कोण आहे गेल्या ३० दिवसांत? |  ![AI Chat Response](../images/help/chatbot/ques6-ai.jpg) |
+| मेरे एजेंट्स की ऑनबोर्डिंग स्थिति क्या है? |  ![AI Chat Response](../images/help/chatbot/ques7-ai.jpeg) |
 
 You can ask these in any language and in either text or voice format.
 
