@@ -8,6 +8,7 @@ title: How to buy insurance via Harita?
 
 - Policies can be enhanced with optional add-ons like **Zero Depreciation**, **Roadside Assistance**, **Engine Protector**, and **Return to Invoice**, allowing you to customize coverage to your specific needs.
 
+
 ## 1. How to Buy Two Wheeler (Bike) Insurance?
 
 ### Step 1: Select Two Wheeler Option
