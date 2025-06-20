@@ -14,13 +14,15 @@ title: How to buy Vehicle Insurance via Harita?
 Navigate to **Lending & Insurance** section in the side menu within the portal. Then, click on **Harita 2-wheeler Insurance** option.
 ![Select Harita 2-wheeler Insurance](../images/help/harita-guide/Lending&Insurance_twowheeleroption.png)
 
-### Step 2: Register Email Only For First Time Users
-First-time users selecting the Harita 2-Wheeler Insurance option must update their email address before proceeding.
+### Step 2: Register Email (One-Time Only)
+You must update your email address, if you have not provided it before on this app.
 ![Email Updation](../images/help/harita-guide/EmailEntryFirstTimeUsers.png)
 
 ### Step 3: Go to Harita Vehice Insurance Page
 Click on "Buy Insurance" option to navigate to the Harita Vehicle Insurance page.
 ![Buy Insurance Redirection Option](../images/help/harita-guide/redirection_link.png)
+
+---
 
 ## How to Buy Two Wheeler (Bike) Insurance?
 
@@ -79,6 +81,8 @@ Confirm these details and make sure all details are accurate before moving forwa
 
 ### Step 6: Complete Payment
 Proceed to payment using available online payment options to finalize and purchase the policy.
+
+---
 
 ## How to Buy Private Car Insurance?
 
