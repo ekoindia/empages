@@ -10,11 +10,11 @@ The **Global Personal Guard Policy** by **Bajaj Allianz General Insurance Compan
 This policy is ideal for individuals seeking coverage beyond national boundaries, offering security regardless of where an accident happens.
 
 ### **Key Features**
-- **Death** benefit
-- **Permanent Partial Disability** coverage
-- **Permanent Total Disability** protection
-- **EMI Cover** for financial obligations
-- **Loan Protector** add-on to support outstanding liabilities
+- **Death** 
+- **Permanent Partial Disability**
+- **Permanent Total Disability**
+- **EMI Cover**
+- **Loan Protector** 
 
 ## How to Buy Harita Personal Accident Insurance?
 

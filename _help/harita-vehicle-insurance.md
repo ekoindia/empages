@@ -1,15 +1,28 @@
 ---
 layout: help
-title: How to buy insurance via Harita?
+title: How to buy Vehicle Insurance via Harita?
 ---
 
-## What are the Insurance Services provided by Harita?
-- **Harita Insurance** provides comprehensive private car and two wheeler (bike) insurance policies, including **Own Damage Cover** (for accidents, fire, theft, natural calamities), **Third-Party Liability Cover**, and **Personal Accident Cover** for the owner-driver.
+## What are the Vehicle Insurance Services provided by Harita?
+- **Harita Insurance** provides comprehensive private car and two wheeler (bike) insurance policies for the owner-driver within their vehicle insurance services.
 
 - Policies can be enhanced with optional add-ons like **Zero Depreciation**, **Roadside Assistance**, **Engine Protector**, and **Return to Invoice**, allowing you to customize coverage to your specific needs.
 
+## How to proceed to Harita Vehicle Insurance Page?
 
-## 1. How to Buy Two Wheeler (Bike) Insurance?
+### Step 1: Go to Lending & Insurance Section
+Navigate to **Lending & Insurance** section in the side menu within the portal. Then, click on **Harita 2-wheeler Insurance** option.
+![Select Harita 2-wheeler Insurance](../images/help/harita-guide/Lending&Insurance_twowheeleroption.png)
+
+### Step 2: Register Email Only For First Time Users
+First-time users selecting the Harita 2-Wheeler Insurance option must update their email address before proceeding.
+![Email Updation](../images/help/harita-guide/EmailEntryFirstTimeUsers.png)
+
+### Step 3: Go to Harita Vehice Insurance Page
+Click on "Buy Insurance" option to navigate to the Harita Vehicle Insurance page.
+![Buy Insurance Redirection Option](../images/help/harita-guide/redirection_link.png)
+
+## How to Buy Two Wheeler (Bike) Insurance?
 
 ### Step 1: Select Two Wheeler Option
 Start Booking Bike Insurance by selecting the **"Two Wheeler"** option
@@ -64,10 +77,10 @@ Confirm these details and make sure all details are accurate before moving forwa
 
 ![Plan Summary](../images/help/harita-guide/Bike_Summary.png)
 
-## Step 6: Complete Payment
+### Step 6: Complete Payment
 Proceed to payment using available online payment options to finalize and purchase the policy.
 
-## 2. How to Buy Private Car Insurance?
+## How to Buy Private Car Insurance?
 
 ### Step 1: Select Private Car Option
 Start Booking Car Insurance by selecting the **"Private Car"** option.
@@ -122,7 +135,7 @@ Confirm these details and make sure all details are accurate before moving forwa
 
 ![Plan Summary](../images/help/harita-guide/Car_Summary.png)
 
-## Step 6: Complete Payment
+### Step 6: Complete Payment
 Proceed to payment using available online payment options to finalize and purchase the policy.
 
 ## Key Points to Remember
