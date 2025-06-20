@@ -9,7 +9,7 @@ The **Global Personal Guard Policy** by **Bajaj Allianz General Insurance Compan
 
 This policy is ideal for individuals seeking coverage beyond national boundaries, offering security regardless of where an accident happens.
 
-### **Key Features**
+### **Key Features & Coverage:**
 - **Death** 
 - **Permanent Partial Disability**
 - **Permanent Total Disability**
@@ -70,4 +70,3 @@ Once all details are filled:
 - Double-check your **mobile number and email** for receiving policy updates.
 - Note down or save the **Login ID** and **Policy Number** for future claims or queries.
 - This policy offers global protection—ideal for frequent travelers or global professionals.
-
