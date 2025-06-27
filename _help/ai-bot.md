@@ -17,9 +17,13 @@ AI Chatbot is an intelligent assistant integrated into your Admin portal, design
 
 ## How to Use the Chatbot?
 
-When you access the chatbot from the admin portal, a prompt appears inviting you to ask anything about your business. The chatbot screen includes suggested example queries for you to click and get started.
+Goto to Business Dashboard and click on "Ask AI" card at the top of the page.
+
+The chatbot will open on the screen, inviting you to ask anything about your business. The chatbot screen includes suggested example queries, which you can click to get started.
 
 ![AI Chat Interface](../images/help/chatbot/chatbot-ui-sample.png)
+
+To directly talk to the chatbot, click on the "mic" icon on the bottom-left of the chatbot screen. 
 
 ---
 
