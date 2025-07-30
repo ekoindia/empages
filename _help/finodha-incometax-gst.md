@@ -7,7 +7,7 @@ title: "How to get Income Tax and GST services from Finodha?"
 
 Finodha offers tax, compliance, and business registration services in India, including Income Tax, GST, MCA filings, MSME registration, PAN/TAN services, and support for trusts, NGOs, and corporate entities.
 
-- **Incoome Tax:** A hassle-free income tax return filing service where Finodha’s experts handle everything—from data collection to submission—ensuring fast, accurate, and compliant ITR filing.
+- **Income Tax:** A hassle-free income tax return filing service where Finodha’s experts handle everything—from data collection to submission—ensuring fast, accurate, and compliant ITR filing.
 
 - **GST:** Affordable and expert-backed GST registration and return filing service, ensuring error-free compliance within 3 working days.
 
@@ -63,17 +63,17 @@ You will be redirected to a form page. The form contains the following fields:
   - **Phone**
   - **Email**
   - **Select one or more services** _(by holding the `Ctrl` key)_ which you are interested in:  
-    - Income Tax  
+    - Income Tax   
     - GST  
     - Partnership  
     - MCA
     - Director
     - Digital Signature
-    - MSME/Udyog Aadhar/udyam
+    - MSME/Udyog Aadhar/Udyam
     - PAN-TAN
     - Import-Export
     - Miscellaneous
-    - professional Tax
+    - Professional Tax
     - Trust/NGO/Society/Microfinance/Nidhi
 
   - **Street**
