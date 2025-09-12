@@ -7,10 +7,14 @@ This style guide outlines the coding conventions for writing markdown files for 
 - Use bullet points, **bold**, _italics_, and __underlining__ to highlight important details.
 - Ensure correct spelling and grammar throughout the document.
 - Ensure proper case. Eg, abbreviations should be in uppercase (e.g., `DMT`, `AEPS`), while product names should be in title case (e.g., `Airtel DMT`, `AadhaarPay`).
+- Ensure all proper nouns are capitalized.
 - Ensure consistency of terms, phrases, and formatting across all markdown files.
 - Use H2 (`##`) and H3 (`###`) headings for sections and sub-sections respectively.
 
-## Gneral Filename Conventions
+# Tools
+- Use https://bitdowntoc.derlin.ch/ for checking proper indentation of headings and sub-headings.
+
+## General Filename Conventions
 - Markdown filename must be in kebab-case: lower-case with hyphens as word separators. Eg: `airtel-dmt.md`.
 - No spaces, underscores, or special characters in the filename.
 
@@ -29,6 +33,8 @@ title: "Your Post Title"
 ### Title Format
 - Add the title only in the `title` field of the front matter.
 - Use sentence case.
+- Abbreviations should be in uppercase (e.g., `DMT`, `AEPS`), while product names should be in title case (e.g., `Airtel DMT`, `AadhaarPay`).
+- Ensure proper spacing around punctuation, for example, use a space after commas and periods.
 - Avoid duplication in the body.
 - Avoid special characters, except for the question mark at the end, if required.
 - Title format: `How to do <product-name> transactions?` or `How to register for <product-name>?`
@@ -68,6 +74,13 @@ title: "Your Post Title"
 - Brief introduction of the product (Eg: `## What is <product-name or feature>?`).
 - (Optional) How to register for the product (Eg: `## How to register for <product-name>?`).
 - Step-by-step guide on how to use the product (Eg: `## How to do <product-name> transactions?` or `## How to use <feature-name>?`).
+- If the service returns multiple fields in the response, use Markdown tables to display the fields and their descriptions. For example:
+  ```markdown
+  | Field Name | Description |
+  |------------|-------------|
+  | DOB     | Date of Birth of the user |
+  | Name   | Full name of the user |
+  ```
 - Key-points or FAQs at the end of the document (Eg: `## Key Points` or `## FAQs`).
 - (Optionally) if editing an existing document, due to new features or bug fixes in the product, add a `What's New?` section at the end of the document. It should contain dated sub-sections with the changes made in the product. Start each entry with `New: ` or `Fix: `, followed by the change description. For example:
   ```
