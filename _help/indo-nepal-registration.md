@@ -18,6 +18,8 @@ To start using the Indo-Nepal Money Transfer service, you must first complete th
 
 If you are not verified, or if any of your profile details are missing, the system will show the relevant profile update screen. 
 
+Completed details will be auto-populated.
+
 #### 1. Update Email
 
 - Enter your **Email ID** and Click **Proceed** to continue to the next. 
@@ -26,7 +28,7 @@ If you are not verified, or if any of your profile details are missing, the syst
 
 #### 3. Update Alternate Number
 
-- Enter your **Alternate Mobile Number** Click **Proceed** to continue to the next.
+- Enter your **Alternate Mobile Number** and Click **Proceed** to continue to the next.
 
 ![Update Alternate Number](../images/help/Indo-Nepal/b.jpeg) 
 
@@ -114,9 +116,9 @@ Enter Your Details
 
 After filling details, Click **Proceed** to continue to the next.
 
-![Update Bank Details](../images/help/Indo-Nepal/NOT_FOUND3.png)
+![Update Bank Details](../images/help/Indo-Nepal/H.jpeg)
 
-#### 8. Final Profile Verification
+#### 8. Sending OTP
 
 - An OTP will be sent to the registered mobile number.  
 - Enter OTP to complete verification.  
@@ -130,9 +132,12 @@ Once verified, You will be becomes a **Verified Agent**.
 ---
 
 ### Step 3: Initiate RBL KYC
-- On the **Verify Agent** screen, click **Initiate RBL KYC**.  
+
+- Click **Initiate RBL KYC** on the screen to complete the **KYC** process.
  
+
 ![Verify Agent screen](../images/help/Indo-Nepal/e.jpeg)
+
 
 - Aadhaar-based KYC page will open. 
 - Enter Aadhaar Number/VID (twice)  
@@ -142,11 +147,14 @@ Once verified, You will be becomes a **Verified Agent**.
 
 ![Initiate RBL KYC](../images/help/Indo-Nepal/RBL_KYC.jpeg)
 
+
 - Click **Submit** → then **OK**  
 
 ![Complete Aadhaar Verification](../images/help/Indo-Nepal/Completed.jpeg) 
 
-You will be redirected to **Verify Agent** screen. Click **Proceed**.  
+
+After completing the **KYC**, click **Procced** button to continue.
+
 
 ![Verify Agent screen](../images/help/Indo-Nepal/f.jpeg)
 
@@ -160,11 +168,16 @@ You will be redirected to **Verify Agent** screen. Click **Proceed**.
 
 ![Biometric Authentication](../images/help/Indo-Nepal/LAST.png)
 
+
 - If onboarding fails, a **Tech Support ticket** is created automatically. 
+
 
 ![onboarding not Success](../images/help/Indo-Nepal/bioFailed.jpeg)
 
-- If onboarding is successful, the following card will be displayed.  
+
+- If onboarding is successful, the following card will be displayed. 
+- Click on **Complete KYC with OTP**
+
 
 ![ onboarding Success](../images/help/Indo-Nepal/kycotpProcced.jpeg)
 
@@ -172,15 +185,18 @@ You will be redirected to **Verify Agent** screen. Click **Proceed**.
 
 ### Step 5: E-KYC CSP Onboarding
 
-- Enter **CSP Mobile Number**  
+- Enter **CSP Mobile Number**
+- Click on **Send OTP**
 
 ![E-KYC CSP Onboarding](../images/help/Indo-Nepal/kyc_otp1.jpeg)
 
-- Click on complete **KYC With OTP**
+
+- Enter OTP & Submit 
+
 
 ![E-KYC CSP On-boarding](../images/help/Indo-Nepal/kyc_otp2.jpeg)
 
-- Enter OTP & Submit 
+- Click on **Submit** button to continue
 
 ![E-KYC CSP On-boarding](../images/help/Indo-Nepal/kyc_optDetails.jpeg)
 
@@ -193,9 +209,12 @@ You will be redirected to **Verify Agent** screen. Click **Proceed**.
 
 ### Step 6: Click On Proceed
 - After KYC is completed → Click **Proceed**  
+
+![ onboarding Success](../images/help/Indo-Nepal/kycotpProcced.jpeg)
+
 - System redirects to **Search Customer** screen  
 
-![Search Customer screen](../images/help/Indo-Nepal/search_cus.jpeg)
+![Search Customer screen](../images/help/Indo-Nepal/G.jpeg)
 
 ---
 
