@@ -22,26 +22,26 @@ Your details which you have already provided will be auto-filled.
 
 #### 2.a. Update Email
 
-- Enter your **Email ID** and click **Proceed** to continue to the next step. 
+- Enter your **Email ID** and click **Proceed** to continue to the next step.
 
-![Update Email](../images/help/Indo-Nepal/a.jpeg)
+![Update Email](../images/help/Indo-Nepal/updateEmail.jpeg)
 
 #### 2.b. Update Alternate Number
 
 - Enter your **Alternate Mobile Number** and click **Proceed** to continue to the next step. At this point, an OTP will be sent to this number.
 
-![Update Alternate Number](../images/help/Indo-Nepal/b.jpeg) 
+![Update Alternate Number](../images/help/Indo-Nepal/b.jpeg)
 
 - Enter the OTP sent to your Alternate Mobile Number, click **Proceed** to continue to the next step.
 
-![Verify OTP](../images/help/Indo-Nepal/c.jpeg)  
+![Verify OTP](../images/help/Indo-Nepal/c.jpeg)
 
 - Enter your **Secret PIN** and proceed.
 
 ![Confirm Secret PIN](../images/help/Indo-Nepal/d.jpeg)
 
 #### 2.c. Personal Details
-  
+
 Please provide the following of your personal details, if they are empty:
 
 - Your Date of Birth *(as per your valid Identity Proof)*
@@ -50,7 +50,7 @@ Please provide the following of your personal details, if they are empty:
 - Marital Status *(Single/Married)*
 - Physically Handicapped *(Yes/No)*
 - Education Qualification *(Graduate/Post-Graduate/etc.)*
-- Category *(General/OBC/SC/ST/etc.)* 
+- Category *(General/OBC/SC/ST/etc.)*
 
 After filling in your details, click **Proceed** to continue to the next step.
 
@@ -92,7 +92,7 @@ After filling details, click **Proceed** to continue to the next step.
 ### Step 3: Verify OTP
 
 - An OTP will be sent to your registered mobile number.
-- Enter OTP to complete verification.  
+- Enter OTP to complete verification.
 - Click **Proceed** to continue to the next step.
 
 ![Verify OTP](../images/help/Indo-Nepal/c.jpeg)
@@ -101,40 +101,40 @@ After filling details, click **Proceed** to continue to the next step.
 
 ### Step 4: Initiate RBL KYC
 
-![Verify Agent screen](../images/help/Indo-Nepal/e.jpeg)
+![Verify Agent screen](../images/help/Indo-Nepal/CSP_Found1.png)
 
 1. Click **Initiate RBL KYC** on the screen to complete the **KYC** process. It will open the "Aadhaar-based KYC" page.
-   1. Enter your Aadhaar Number/VID (twice)  
-   2. Enter your Date of Birth & Gender  
-   3. Accept terms & conditions  
+   1. Enter your Aadhaar Number/VID (twice)
+   2. Enter your Date of Birth & Gender
+   3. Accept terms & conditions
 
 
 ![Initiate RBL KYC](../images/help/Indo-Nepal/RBL_KYC.jpeg)
 
 
-2. Click **Submit** → then **OK**  
+2. Click **Submit** → then **OK**
 
-![Complete Aadhaar Verification](../images/help/Indo-Nepal/Completed.jpeg) 
+![Complete Aadhaar Verification](../images/help/Indo-Nepal/Completed.jpeg)
 
 
 3. After completing the **KYC**, click **Procced** button to continue.
 
 
-![Verify Agent screen](../images/help/Indo-Nepal/f.jpeg)
+![Verify Agent screen](../images/help/Indo-Nepal/kycotpProcced.jpeg)
 
 ---
 
 ### Step 5: Biometric Authentication
 
-- Scan your fingerprint using a supported device.  
- 
+- Scan your fingerprint using a supported device.
+
 - Click on the **Proceed** button to continue to the onboarding step.
 
 ![Biometric Authentication](../images/help/Indo-Nepal/LAST.png)
 
 
-- If your onboarding fails due to any reason, our support team will be notified automatically, and they will try to resolve the issue by contacting the bank. 
-- If onboarding is successful, the following card will be displayed. 
+- If your onboarding fails due to any reason, our support team will be notified automatically, and they will try to resolve the issue by contacting the bank.
+- If onboarding is successful, the following card will be displayed.
 - Click on **Complete KYC with OTP**
 
 ![Onboarding Success](../images/help/Indo-Nepal/kycotpProcced.jpeg)
@@ -148,7 +148,7 @@ After filling details, click **Proceed** to continue to the next step.
 
 ![E-KYC CSP Onboarding](../images/help/Indo-Nepal/kyc_otp1.jpeg)
 
-- Enter OTP & Submit 
+- Enter OTP & Submit
 
 ![E-KYC CSP On-boarding](../images/help/Indo-Nepal/kyc_otp2.jpeg)
 
@@ -166,11 +166,11 @@ After filling details, click **Proceed** to continue to the next step.
 ### Step 7: Registration Done! Proceed to Indo-Nepal Transactions
 - After your KYC is comple and you are back to the following screen, click on **Proceed** to continue.
 
-![ onboarding Success](../images/help/Indo-Nepal/kycotpProcced.jpeg)
+![onboarding Success](../images/help/Indo-Nepal/kycotpProcced.jpeg)
 
-- Your registration has been completed, and you will be redirected to **Indo-Nepal transaction screen** (Search Customer)  
+- Your registration has been completed, and you will be redirected to **Indo-Nepal transaction screen** (Search Customer)
 
-![Search Customer screen](../images/help/Indo-Nepal/G.jpeg)
+![Search Customer screen](../images/help/Indo-Nepal/search-customer.png)
 
 ---
 
@@ -178,35 +178,35 @@ After filling details, click **Proceed** to continue to the next step.
 
 Once your account is verified and active
 
-1. Log in to the portal  
+1. Log in to the portal
 2. Select **Indo-Nepal Transfer**
 3. In the **Search Customer** screen, enter sender's mobile number.
 4. In the next screen, enter beneficiary details:
-   - Full Name  
-   - Mobile Number  
-   - Bank Account Number *(if applicable)*  
-   - Bank Name & Branch  
-5. Enter transaction amount  
-6. Review all details carefully  
-7. Confirm & Proceed  
-8. System generates a confirmation receipt  
+   - Full Name
+   - Mobile Number
+   - Bank Account Number *(if applicable)*
+   - Bank Name & Branch
+5. Enter transaction amount
+6. Review all details carefully
+7. Confirm & Proceed
+8. System generates a confirmation receipt
 
 ---
 
 ## Key Points
-- Agent verification & KYC are mandatory before transactions.  
-- Ensure accurate beneficiary details to avoid delays/failures.  
-- Keep transaction receipt for records.  
+- Agent verification & KYC are mandatory before transactions.
+- Ensure accurate beneficiary details to avoid delays/failures.
+- Keep transaction receipt for records.
 
 ---
 
 ## FAQs
 
 ### What if profile update is required?
-If agent details are not found during verification, system prompts **Update Profile** before proceeding.  
+If agent details are not found during verification, system prompts **Update Profile** before proceeding.
 
 ### How long does a transfer take?
-Usually instant, but may take up to 24 hours depending on bank.  
+Usually instant, but may take up to 24 hours depending on bank.
 
 ### What if a transaction fails?
-The amount is refunded back to the sender’s account within standard timelines.  
+The amount is refunded back to the sender’s account within standard timelines.
