@@ -1,218 +1,174 @@
 ---
 layout: help
-title: "How to Register Indo-Nepal Money Transfer?"
+title: "How to Register for Indo-Nepal Money Transfer?"
 ---
 
 ## What is Indo-Nepal Money Transfer?
-Indo-Nepal Transfer is a cross-border remittance service that allows agents in India to send money to beneficiaries in Nepal securely and conveniently. The service ensures safe transactions, quick processing, and compliance with regulatory requirements.
+Indo-Nepal is a cross-border remittance service that allows agents in India to send money to beneficiaries in Nepal securely and conveniently. The service ensures safe transactions, quick processing, and compliance with regulatory requirements.
 
 ---
 
 ## How to Register Yourself for Indo-Nepal Money Transfer?
 
-To start using the Indo-Nepal Money Transfer service, you must first complete the **registration** and **KYC (Know Your Customer)** process.  
+To start using the Indo-Nepal Money Transfer service for your customers, you must first complete your **registration** and **KYC (Know Your Customer)** process.
 
-### Step 1: Click on **Indo-Nepal Transafer**
- 
-### Step 2: Update Profile
+### Step 1: Open **Indo-Nepal** from the left-menu
 
-If you are not verified, or if any of your profile details are missing, the system will show the relevant profile update screen. 
+### Step 2: Update Your Profile
 
-Completed details will be auto-populated.
+If any of your profile details which are required for Indo-Nepal are missing, the system will show the relevant profile update screen.
 
-#### 1. Update Email
+Your details which you have already provided will be auto-filled.
 
-- Enter your **Email ID** and Click **Proceed** to continue to the next. 
+#### 2.a. Update Email
+
+- Enter your **Email ID** and click **Proceed** to continue to the next step. 
 
 ![Update Email](../images/help/Indo-Nepal/a.jpeg)
 
-#### 3. Update Alternate Number
+#### 2.b. Update Alternate Number
 
-- Enter your **Alternate Mobile Number** and Click **Proceed** to continue to the next.
+- Enter your **Alternate Mobile Number** and click **Proceed** to continue to the next step. At this point, an OTP will be sent to this number.
 
 ![Update Alternate Number](../images/help/Indo-Nepal/b.jpeg) 
 
-- Enter the OTP sent to your Alternate Mobile Number, Click **Proceed** to continue to the next.
+- Enter the OTP sent to your Alternate Mobile Number, click **Proceed** to continue to the next step.
 
 ![Verify OTP](../images/help/Indo-Nepal/c.jpeg)  
 
-- Confirm  Your **Secret PIN** to proceed Next .  
+- Enter your **Secret PIN** and proceed.
 
-![Confirm Secret PIN ](../images/help/Indo-Nepal/d.jpeg)
+![Confirm Secret PIN](../images/help/Indo-Nepal/d.jpeg)
 
-#### 2. Personal Details
+#### 2.c. Personal Details
   
-Enter Your Details
+Please provide the following of your personal details, if they are empty:
 
-- Date of Birth  
-- Gender  
-- Father’s Name  
-- Spouse Name *(Optional)*  
-- Marital Status  
-- Physically Handicapped (Yes/No)   
-- Education Qualification *(Dropdown)*  
-- Category *(General/OBC/SC/ST/etc.)*  
+- Your Date of Birth *(as per your valid Identity Proof)*
+- Gender
+- Father’s Name
+- Marital Status *(Single/Married)*
+- Physically Handicapped *(Yes/No)*
+- Education Qualification *(Graduate/Post-Graduate/etc.)*
+- Category *(General/OBC/SC/ST/etc.)* 
 
-After filling in the details, Click **Proceed** to continue to the next.
+After filling in your details, click **Proceed** to continue to the next step.
 
 ![Update Personal Details](../images/help/Indo-Nepal/notfound_a.jpeg)
 
 
-#### 4. Personal Address Details
+#### 2.d. Business Details
 
-Enter Your Details
+Please provide the following of your shop/business details, if they are empty:
 
-- Address Line 1
-- Address Line 2
-- Pincode
-- City 
-- District 
-- State 
+- Shop Name
+- GST Number
+- Company Type *(Private Ltd / LLP / Proprietorship / etc.)*
+- Nature of Business *(select the type of your shop or business)*
+- Alternate Occupation Domain *(Govt / Private / Self Employed / etc.)*
+- Annual Income
+- Expected Annual Turnover
 
-After filling details, Click **Proceed** to continue to the next.
-
-![Update Personal Address Details](../images/help/Indo-Nepal/notfound_b.jpeg)
-
-#### 5. Business Details
-
-Enter Your Details
-
-- Shop Name  
-- GST Number  
-- Company Type *(Private Ltd / LLP / Proprietorship, etc.)*  
-- Nature of Business *(Dropdown)*  
-- Occupation Domain *(Govt / Private / Self Employed, etc.)*  
-- Annual Income  
-- Expected Annual Turnover  
-- Mobile Number  
-
-After filling details, Click **Proceed** to continue to the next.  
+After filling details, click **Proceed** to continue to the next step.
 
 ![Update Business Details](../images/help/Indo-Nepal/notfound_c.jpeg)
 
-#### 6. Business Address Details
 
-Enter Your Details
+#### 2.e. Bank Details
 
-- Address Line 1
-- Address Line 2
-- Pincode
-- City
-- District
-- State  
+Enter the details of your own bank account:
 
-After filling details, Click **Proceed** to continue to the next. 
+- Select Your Bank
+- Enter Your Bank Account Number
+- Enter Your Name *(as per your bank account records)*
+- Enter IFSC Code *(of your bank branch)*
 
-![Update Business Address Details](../images/help/Indo-Nepal/notfound_d.jpeg)
-
-#### 7. Bank Details
-
-Enter Your Details
-
-- Select Your Bank *(Required)*  
-- Enter Your Bank Account Number  
-- Enter Your Name  
-- Enter IFSC Code 
-
-After filling details, Click **Proceed** to continue to the next.
+After filling details, click **Proceed** to continue to the next step.
 
 ![Update Bank Details](../images/help/Indo-Nepal/H.jpeg)
 
-#### 8. Sending OTP
+---
 
-- An OTP will be sent to the registered mobile number.  
+### Step 3: Verify OTP
+
+- An OTP will be sent to your registered mobile number.
 - Enter OTP to complete verification.  
-- Click **Proceed** to continue to the next.
-
-Once verified, You will be becomes a **Verified Agent**.  
-
+- Click **Proceed** to continue to the next step.
 
 ![Verify OTP](../images/help/Indo-Nepal/c.jpeg)
 
 ---
 
-### Step 3: Initiate RBL KYC
-
-- Click **Initiate RBL KYC** on the screen to complete the **KYC** process.
- 
+### Step 4: Initiate RBL KYC
 
 ![Verify Agent screen](../images/help/Indo-Nepal/e.jpeg)
 
-
-- Aadhaar-based KYC page will open. 
-- Enter Aadhaar Number/VID (twice)  
-- Enter Date of Birth & Gender  
-- Accept terms & conditions  
+1. Click **Initiate RBL KYC** on the screen to complete the **KYC** process. It will open the "Aadhaar-based KYC" page.
+   1. Enter your Aadhaar Number/VID (twice)  
+   2. Enter your Date of Birth & Gender  
+   3. Accept terms & conditions  
 
 
 ![Initiate RBL KYC](../images/help/Indo-Nepal/RBL_KYC.jpeg)
 
 
-- Click **Submit** → then **OK**  
+2. Click **Submit** → then **OK**  
 
 ![Complete Aadhaar Verification](../images/help/Indo-Nepal/Completed.jpeg) 
 
 
-After completing the **KYC**, click **Procced** button to continue.
+3. After completing the **KYC**, click **Procced** button to continue.
 
 
 ![Verify Agent screen](../images/help/Indo-Nepal/f.jpeg)
 
 ---
 
-### Step 4: Biometric Authentication
+### Step 5: Biometric Authentication
 
-- Scan customer’s fingerprint using a supported device.  
+- Scan your fingerprint using a supported device.  
  
 - Click on the **Proceed** button to continue to the onboarding step.
 
 ![Biometric Authentication](../images/help/Indo-Nepal/LAST.png)
 
 
-- If onboarding fails, a **Tech Support ticket** is created automatically. 
-
-
-![onboarding not Success](../images/help/Indo-Nepal/bioFailed.jpeg)
-
-
+- If your onboarding fails due to any reason, our support team will be notified automatically, and they will try to resolve the issue by contacting the bank. 
 - If onboarding is successful, the following card will be displayed. 
 - Click on **Complete KYC with OTP**
 
-
-![ onboarding Success](../images/help/Indo-Nepal/kycotpProcced.jpeg)
+![Onboarding Success](../images/help/Indo-Nepal/kycotpProcced.jpeg)
 
 ---
 
-### Step 5: E-KYC CSP Onboarding
+### Step 6: E-KYC CSP Onboarding
 
-- Enter **CSP Mobile Number**
+- Enter **Your Mobile Number**
 - Click on **Send OTP**
 
 ![E-KYC CSP Onboarding](../images/help/Indo-Nepal/kyc_otp1.jpeg)
 
-
 - Enter OTP & Submit 
-
 
 ![E-KYC CSP On-boarding](../images/help/Indo-Nepal/kyc_otp2.jpeg)
 
-- Click on **Submit** button to continue
+- Click on **Submit** button again to continue
 
 ![E-KYC CSP On-boarding](../images/help/Indo-Nepal/kyc_optDetails.jpeg)
 
-- On reaching **Thank You** screen → close the tab 
+- When you see the **Thank You** screen, ***close this tab** to return to your app on the previous screen.
 
 ![E-KYC CSP On-boarding](../images/help/Indo-Nepal/kyc_opt3.jpeg)
 
 
 ---
 
-### Step 6: Click On Proceed
-- After KYC is completed → Click **Proceed**  
+### Step 7: Registration Done! Proceed to Indo-Nepal Transactions
+- After your KYC is comple and you are back to the following screen, click on **Proceed** to continue.
 
 ![ onboarding Success](../images/help/Indo-Nepal/kycotpProcced.jpeg)
 
-- System redirects to **Search Customer** screen  
+- Your registration has been completed, and you will be redirected to **Indo-Nepal transaction screen** (Search Customer)  
 
 ![Search Customer screen](../images/help/Indo-Nepal/G.jpeg)
 
@@ -223,16 +179,17 @@ After completing the **KYC**, click **Procced** button to continue.
 Once your account is verified and active
 
 1. Log in to the portal  
-2. Select **Indo-Nepal Transfer**  
-3. Enter beneficiary details:  
+2. Select **Indo-Nepal Transfer**
+3. In the **Search Customer** screen, enter sender's mobile number.
+4. In the next screen, enter beneficiary details:
    - Full Name  
    - Mobile Number  
    - Bank Account Number *(if applicable)*  
    - Bank Name & Branch  
-4. Enter transaction amount  
-5. Review all details carefully  
-6. Confirm & Proceed  
-7. System generates a confirmation receipt  
+5. Enter transaction amount  
+6. Review all details carefully  
+7. Confirm & Proceed  
+8. System generates a confirmation receipt  
 
 ---
 
