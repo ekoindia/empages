@@ -1,11 +1,13 @@
 ---
 layout: help
-title: "How to complete E-Value transactions?"
+title: "How to use Getepay Payment Gateway?"
 ---
 
 # How to load E-Value using GetePay Payment Gateway?
 
-**GetePay** is a payment gateway used to upload funds into your **E-Value wallet** through various methods, such as **UPI, Net Banking, and Cards**.
+You can use **GetePay Payment Gateway** to load money into your **E-Value Wallet** using your **Credit/Debit Cards**, **Netbanking**, or any **UPI app**.
+
+You can also use this service to **accept payments from your customers** through their **cards**, **Netbanking**, or **UPI app**.
 
 ## Steps to Load E-Value via GetePay Payment Gateway.
 
@@ -18,7 +20,7 @@ title: "How to complete E-Value transactions?"
 ### 2. Search Customer
 
 After clicking **GetePay Payment Gateway**, the **Search Customer** page will open.  
-Enter the mobile number — either the customer’s or yours — depending on whose card, UPI, NetBanking, or Debit/Credit method is being used for the payment. 
+Enter the mobile number — either the customer’s or yours — depending on who is making the payment using their card, Netbanking or UPI app. 
 Click on the **Proceed**.
 
 ![Search Customer](../images/help/getepay/Search_customer.png)
@@ -28,7 +30,7 @@ Click on the **Proceed**.
 ### 3. Take Selfie
 
 After completing the customer search, the **Take Selfie** page will open.  
-Click on **Open Camera** and capture a clear selfie of the person whose mobile number was entered in the **Search Customer**.  
+Click on **Open Camera** and capture a clear selfie of the person who is making the payment using their card, Netbanking or UPI app. 
 Once done, click on **Proceed** to continue.
 
 ![Take Selfie](../images/help/getepay/Take_Selfie.png)
@@ -65,4 +67,5 @@ Enter the **OTP** to complete authentication and click **Submit**.
 ### 7. Return to Load E-Value
 After completing the payment through GetePay, you will be automatically redirected back to the Load E-Value section, where your transaction status will be displayed.
 
-![Return to Main App](../images/help/getepay/Return_to_Main_App.png)
+![Return to Main App](../images/help/getepay/Main_Page.png)
+
