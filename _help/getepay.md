@@ -11,14 +11,14 @@ title: "How to complete E-Value transactions?"
 
 ### 1. Choose the “GetePay Payment Gateway”
 
-![Load E-Value](../images/help/getepay/E-value_load.png)
+![Load E-Value](../images/help/getepay/Load_E-Value.png)
 
 ---
 
 ### 2. Search Customer
 
 After clicking **GetePay Payment Gateway**, the **Search Customer** page will open.  
-Enter the mobile number — it can be either the customer’s number or your own — depending on which card the amount will be deducted from.  
+Enter the mobile number — either the customer’s or yours — depending on whose card, UPI, NetBanking, or Debit/Credit method is being used for the payment. 
 Click on the **Proceed**.
 
 ![Search Customer](../images/help/getepay/Search_customer.png)
@@ -48,7 +48,7 @@ Click on **Proceed** to continue.
 ### 5. Redirection
 
 A new payment page will open.  
-Select your preferred payment method (e.g., **UPI, Net Banking, Cards**, etc.).  
+Select your preferred payment method (e.g., **UPI, NetBanking, Debit/Creadit Card**, etc.).  
 Click on **Proceed** to continue.
 
 ![Redirection](../images/help/getepay/Redirection.png)
