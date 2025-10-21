@@ -3,15 +3,15 @@ layout: help
 title: "How to use Getepay Payment Gateway?"
 ---
 
-# How to load E-Value using GetePay Payment Gateway?
+# How to load E-Value using Getepay Payment Gateway?
 
-You can use **GetePay Payment Gateway** to load money into your **E-Value Wallet** using your **Credit/Debit Cards**, **Netbanking**, or any **UPI app**.
+You can use **Getepay Payment Gateway** to load money into your **E-Value Wallet** using your **Credit/Debit Cards**, **Netbanking**, or any **UPI app**.
 
 You can also use this service to **accept payments from your customers** through their **cards**, **Netbanking**, or **UPI app**.
 
-## Steps to Load E-Value via GetePay Payment Gateway.
+## Steps to Load E-Value via Getepay Payment Gateway.
 
-### 1. Choose the “GetePay Payment Gateway”
+### 1. Choose the “Getepay Payment Gateway”
 
 ![Load E-Value](../images/help/getepay/Load_E-Value.png)
 
@@ -19,7 +19,7 @@ You can also use this service to **accept payments from your customers** through
 
 ### 2. Search Customer
 
-After clicking **GetePay Payment Gateway**, the **Search Customer** page will open.  
+After clicking **Getepay Payment Gateway**, the **Search Customer** page will open.  
 Enter the mobile number — either the customer’s or yours — depending on who is making the payment using their card, Netbanking or UPI app. 
 Click on the **Proceed**.
 
@@ -65,7 +65,7 @@ Enter the **OTP** to complete authentication and click **Submit**.
 ---
 
 ### 7. Return to Load E-Value
-After completing the payment through GetePay, you will be automatically redirected back to the Load E-Value section, where your transaction status will be displayed.
+After completing the payment through Getepay, you will be automatically redirected back to the Load E-Value section, where your transaction status will be displayed.
 
 ![Return to Main App](../images/help/getepay/Main_Page.png)
 
