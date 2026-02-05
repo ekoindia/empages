@@ -19,16 +19,16 @@ Bulk Payments is a feature that allows agents to process multiple payments simul
 
 ### Step 2: For a new vendor
 
-- **Next two screens is for new vendors only**
+The following two steps are only required one-time for a new vendor
 
-#### Step 2.a Enter vendor details
+#### 2.a. Enter vendor details
 
 - Enter the vendor's name exactly as it appears on their ID proof.
 - Click the **Proceed** button to continue.
 
 ![vendor Details Screen](../images/help/bulk-payments/Screen_2.png)
 
-#### Step 2.b: Verify vendor with OTP
+#### 2.b. Verify vendor with OTP
 
 - The vendor will receive the OTP on their registered mobile number.
 - Ask the vendor for the OTP and enter it in the "OTP" field.
@@ -38,7 +38,7 @@ Bulk Payments is a feature that allows agents to process multiple payments simul
 
 ### Step 3: Download and Update the Recipient Sample File
 
-- you will download the **sample_bulk_payment.xlsx** file.
+- Click on **sample_bulk_payment.xlsx** to download the file.
 - Delete the already present sample entries, and enter the new recipient details in their place, strictly following the defined structure and columns.
 
 ![Upload Recipients File](../images/help/bulk-payments/Screen_5.png)
@@ -56,24 +56,24 @@ The Excel file will contain exactly 4 columns in the following order:
 
 ##### Amount validation
 
-- The amount must be **more than ₹100** and **less than equal to ₹49998** for the transaction to succeed.
+- The amount must be **more than ₹100** and **less than or equal to ₹49998** for the transaction to succeed.
 - Amounts ending with **00 or 99** will not be processed.
 
 ### Step 4: Upload the recipients file
 
 - On the same screen, scroll down to find the file upload section.
-- Click the **Select File** button, or drag and drop the Excel file into the designated area.
-- In the "Secret PIN" field, enter your agent Secret PIN for authentication.
+- Click the **Select File** button and select the file, or drag-and-drop the Excel file into the designated area.
+- Enter your "Secret PIN" for authentication.
 - Click the **Upload** button to submit the file.
 
 ![Upload Recipients File](../images/help/bulk-payments/Screen_6.png)
 
 ### Step 5: Monitor batch processing status
 
-- After uploading, you will see **Batch History** tab.
+- After uploading, the **Batch History** tab will open.
 - The uploaded batch will appear at the top of the "Bulk Payment History" table.
-- The status will show as **PROCESSING** (e.g., "PROCESSING 07/10" means 7 out of 10 records have been processed).
-- The file will remain in PROCESSING status until all transactions are completed.
+- The status will initially show as **PROCESSING** (e.g., "PROCESSING 07/10" means 7 out of 10 records have been processed).
+- The file will remain in PROCESSING status until all transactions are complete.
 - Once processed, the status will change to **PROCESSED** with a green checkmark.
 
 ![Batch History Screen](../images/help/bulk-payments/Screen_7.png)
@@ -101,14 +101,14 @@ The downloaded file contains the following columns:
 | Description | Detailed reason for transaction success or failure |
 
 - Review the **Status** column to see which transactions succeeded or failed.
-- Check the **Description** column for specific reasons why transactions failed (e.g., "fund.transfer.failed", "Amount out of range (100-5000)").
+- Check the **Description** column for specific reasons why transactions failed (e.g., "Amount out of range...").
 - Use the **TID** and **Tracking Number** for vendor reference and tracking purposes.
 
 ![Result File Screen](../images/help/bulk-payments/Screen_8.png)
 
 ## Key Points
 
-- All transfer amounts must be more than ₹100 and less than ₹50000.
+- All transfer amounts must be more than ₹100 and less than or equal to ₹49998.
 - Amounts ending with 00 or 99 will not be processed.
 - Use the correct file format with exactly 4 columns: Account Number, IFSC Code, Amount, and Name.
 - Enter your Secret PIN carefully when uploading the file.
